@@ -48,24 +48,36 @@ TOEFL - Speaking - Task 3 - 00
 - 文章论点 + 主角观点 + 理由
 ## Template
 - Policy
-    >- The man/woman is very happy/angry to see the letter has
-     written by student to support/ against the school new policy ______________.Firstly__________._________________.
-    >- Also,_________._____________.
-
-    >- In the reading passage, the student wrote a letter to support/ against the new policy about ________, and/but, in the listening , the man/woman agrees / disagrees with the letter.
+    >- The man/woman is very happy/angry to see the letter has  
+    > written by student to support/ against the school new   
+    >policy______________.Firstly__________._________________.  
+    >- Also,_________._____________.  
+    >- In the reading passage, the student wrote a letter to  
+    >support/ against the new policy about ________, and/but,   
+    >in the listening , the man/woman agrees / disagrees with  
+    >the letter.  
 - 换话题
     -  
 
 ## Answer TPO - 16 
->   The man was delighted to see a student had written a
-letter of support for the
-new student-operated business, a used bookstore.
-
->   Firstly, Student are willing to get inexpensive books. 
-As a business major, He believes that the bookstore will be very popular with students, since students are always love bargains.
-Plus, The man is confident that the used bookstore will make money in volume, even though the profit on each book will be small. 
->   He's also very excited about the fact that students in the School of Business will be able to gain experience in operating a business. 
-Although it is possible that students will at times have questions about managing the bookstore, the professors at the school of Business will be able to advise them. That way, the students will gain a great deal of knowledge about running a business.
+>   The man was delighted to see a student had written a  
+>letter of support for the new student-operated business, a   
+>used bookstore.  
+>   Firstly, Student are willing to get inexpensive books.  
+>As a business major, He believes that the bookstore will be   
+>very popular with students, since students are always love  
+>bargains.  
+>Plus, The man is confident that the used bookstore will make   
+>money in volume, even though the profit on each book will be  
+>small.   
+>He's also very excited about the fact that students in  
+>the School of Business will be able to gain experience in 
+>operating a business.  
+>Although it is possible that students will at times have  
+>questions about managing the bookstore, the professors at  
+>the school of Business will be able to advise them. That way,  
+> the students will gain a great deal of knowledge about ?  
+>running a business.  
 
 
 - 45s left : enter first topic

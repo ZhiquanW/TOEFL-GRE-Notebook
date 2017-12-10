@@ -54,7 +54,7 @@ TOEFL - Listening - 01
     - 记录 - *形式上相似即可 或者 大写首字母*
     - 调查研究
         -  eg. research / investigation / study 
-          >  / survey /observation
+        >  / survey /observation
         - 步骤 1. 2. 3 ... *记录核心词*
             - eg. first / then / after 
         - 结果
