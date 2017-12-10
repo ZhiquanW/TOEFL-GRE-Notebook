@@ -15,7 +15,7 @@ TOEFL - Speaking - Task 3 - 00
 ## Reading
  1. Policy 
     - title
-    - F.S
+    - first sentence
     - Q
  1. Reason One
  2. Reason Two
@@ -26,7 +26,7 @@ TOEFL - Speaking - Task 3 - 00
 
 ## Listening
 - Man & Woman 
-- You need to identify the main role
+- You need to identify the main role - Opinion
 - 一直听 一直记
 - 配角作用
     - 抛砖引玉
@@ -34,7 +34,7 @@ TOEFL - Speaking - Task 3 - 00
     - 添加信息
 - 流程
     - 配角提问 :提问时会出现 : 文章中的论点 
-    - 主角回答-至少2逻辑点 
+    - 主角回答-至少2逻辑点(因果转折递进) 
     - 配角附和(缓冲段落)
     - 第二个问题
     - 同上
