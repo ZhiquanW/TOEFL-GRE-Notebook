@@ -89,13 +89,38 @@ Lecture
 * 主题
 * 定义
 * 强调
+    * 语气
+    * important / interesting ... 等词
+    * 级别 同级 /比较级 /最高级  eg. more than ..
+    * 问答 (细节题 / 重听题)
+        1. s提问 p回答
+        1. p提问 s回答 p评价
+        1. p提问 s1回答 s2回答 评价  *观点不一致*
+        1. 学生的反应: 教授提出观点 学生同意/学生反对/确认是否理解 
+    * 否定
+    * 特征 eg. feature / charateristic / standard / function 
+    * 目的 in order to /purpose
+    * 调查研究 .. (主要考结果) 
+    * 假设 eg. assumption / hypothesis / theory /
+        * 注意 内容(多选) + 结果(考态度)
+    * 顺序 eg. first../evently..
+    * 象征 /定义 /影响 eg. symbol / meaning / influence    /impact 
+    * 出现问题 / 发生改变 eg. problem /question /different / change/ especially /in particular / 
+    * 优缺点 eg.adv /disavdv /limitation / benefit / shortcoming 
+    * 助动词 + 动词 eg. do /does /did + v
 * 例子
+    * 表格题 听栗子的归属
 * 因果
 * 转折
-* 例句
+* 列举
+    * 多个点 手速
 * 对比
+    * 给出 A与B的关系 给出A的信息 -> 考B
 * 过程
+    * 历史 /地质 /气象
 * 结尾
+    * 讲座的最后 常出现 新的信息点 P的态度对未来的展望与自己的态度 **注意转折**
+    * 注意最后一段的最后一句话
 ## 开头
 * 首段出现的专有名次 相关术语/某种现象/关系
 * 全文重复最多的名词
@@ -111,3 +136,9 @@ Lecture
     * technique
     * method
     * way to / approach ..
+# Homework 2017/12/10
+* TPO1 - L1
+* TPO2 - L3
+* TPO4 - L1
+* TPO42 - C1
+* Art Words music/dance/literature/fine art/architecture/drama/moive/photography
