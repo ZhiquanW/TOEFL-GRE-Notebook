@@ -1,46 +1,48 @@
-TOEFL - Listening - 01
-=
+#  **TOEFL - Listening**
+
 2017/12/03
+
 ## Exam Introduction
+
 - ### Section - 10 min - 17 questions
+
     - Conversation - 5 questions about
         - Listening : 2 ~ 4 min
         - Choosing : 2.5 min
     - Lecture * 2 - 6 * 2 questions
         - Listening : 4 ~ 6 min
         - Choosing : 3.5 min
-# Conversation
+## Conversation
+
 - more details
-    ## Constrcution 
-    ### What
-    - 主旨题
-        - 内容主旨 - what ... ?
-        - 目的主旨 - why ... ?
-    - 开场
-        - 直接开头
-            - eg. What can i do for you ?       
-            - i was wondering ...
-            - my problem/question is ...
-            - im intersted/confused in ...
-        - 跑题/开错头
-            - eg . Class note ?
-            - 
-            - No...
-        - 寒暄/道歉/恭喜 
-            - **迷惑 + `细节`**
-    ### Why(细节题)
-    - 语气
-        1. 重读
-        1. 重复
-        1. 停顿
-        1. 吐字清晰
-    - 问题
-    - 原因
-        -  eg. because / cause / reason / since
-    - 结果
-        - eg. so
-    - 转折
-        - eg. but / However / in fact
+## Constrcution
+
+###  What
+- 主旨题
+  - 内容主旨 - what ... ?
+    - 目的主旨 - why ... ?
+- 开场
+  - 直接开头
+    - eg. What can i do for you ?       
+        - i was wondering ...
+        - my problem/question is ...
+        - im intersted/confused in ...
+    - 跑题/开错头
+      - eg . Class note ?
+        - No...
+    - 寒暄/道歉/恭喜 
+        - **迷惑 + `细节`**
+### Why(细节题)
+- 语气
+  1. 重读
+    2. 重复
+     3. 停顿
+     4. 吐字清晰
+- 问题
+- 原因
+  -  eg. because / cause / reason / since
+    - 结果  eg. so
+    - 转折  eg. but / However / in fact
     - 否定 (语调 , 音节)
         - eg. not / no /without / never      
     - 例子(问例子的功能)
@@ -63,7 +65,7 @@ TOEFL - Listening - 01
     - 要求 *多选*
         -  考试要求
         -  作业要求
-        - 针对不同的事情.场合 有不同的要求
+        -  针对不同的事情.场合 有不同的要求
     ### How 
     - 建议 
         - eg. suggest / propose / should / why not /you would better
@@ -94,9 +96,9 @@ Lecture
     * 级别 同级 /比较级 /最高级  eg. more than ..
     * 问答 (细节题 / 重听题)
         1. s提问 p回答
-        1. p提问 s回答 p评价
-        1. p提问 s1回答 s2回答 评价  *观点不一致*
-        1. 学生的反应: 教授提出观点 学生同意/学生反对/确认是否理解 
+        2. p提问 s回答 p评价
+        3. p提问 s1回答 s2回答 评价  *观点不一致*
+        4. 学生的反应: 教授提出观点 学生同意/学生反对/确认是否理解 
     * 否定
     * 特征 eg. feature / charateristic / standard / function 
     * 目的 in order to /purpose
