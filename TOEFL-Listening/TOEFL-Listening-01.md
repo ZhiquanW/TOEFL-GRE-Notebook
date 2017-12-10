@@ -28,7 +28,7 @@ TOEFL - Listening - 01
             - No...
         - 寒暄/道歉/恭喜 
             - **迷惑 + `细节`**
-    ### Why
+    ### Why(细节题)
     - 语气
         1. 重读
         1. 重复
@@ -37,14 +37,13 @@ TOEFL - Listening - 01
     - 问题
     - 原因
         -  eg. because / cause / reason / since
-
     - 结果
         - eg. so
     - 转折
         - eg. but / However / in fact
     - 否定 (语调 , 音节)
         - eg. not / no /without / never      
-    - 例子
+    - 例子(问例子的功能)
         - eg. For example / instance / like / so
     - 提示词
     - 感叹号代替 '!')
@@ -60,8 +59,11 @@ TOEFL - Listening - 01
         - 结果
         - 目的
         - 影响
+        - 过程
     - 要求 *多选*
-
+        -  考试要求
+        -  作业要求
+        - 针对不同的事情.场合 有不同的要求
     - How 
         - 建议 
             - eg. suggest / propose / should / why not /you would better
@@ -76,3 +78,7 @@ TOEFL - Listening - 01
 - 分层 - *横线分隔*
     - 根据意思
     - 根据新名词
+#题型
+* ## 重听题 
+    * 出现专有名词 -> 要求定下义(defin explain clarify)
+    * 
