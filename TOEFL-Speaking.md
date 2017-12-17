@@ -1,4 +1,4 @@
-TOEFL - Speaking - Task 3
+TOEFL - Speaking
 =====================
 ## Section 01
 ### Score Distribution
@@ -13,12 +13,12 @@ TOEFL - Speaking - Task 3
 1. Policy
 2. Letter
 ## Reading
-  1. Policy 
+    1. Policy 
     - title
     - first sentence
     - Q
-  2. Reason One
-  3. Reason Two
+    2. Reason One
+    3. Reason Two
 ### Summary
 - 论点 + 论据
 - R1-R2 parallel : And , Also , More 
@@ -47,6 +47,7 @@ TOEFL - Speaking - Task 3
 - academic language
 - 文章论点 + 主角观点 + 理由
 ## Template
+
 - Policy
     >- The man/woman is very happy/angry to see the letter has  
     >   written by student to support/ against the school new   
@@ -59,7 +60,31 @@ TOEFL - Speaking - Task 3
 - 换话题
     -  ​
 
-## Answer TPO - 16 
+# Task 4
+
+* 重音 eg. As Some Of You May Know,what ...
+
+1. The professor talks ahout the concept of ______by using as an example
+2. background
+3. 2 points
+
+
+
+
+
+| Background(who,what,where,when) - 记有实际意义的动词 |      |      |
+| ---------------------------------------- | ---- | ---- |
+| 1                                        |      |      |
+| 2                                        |      |      |
+|                                          |      |      |
+
+
+
+
+
+
+## Answer TPO - 16
+
 >   The man was delighted to see a student had written a  
 >   letter of support for the new student-operated business, a   
 >   used bookstore.  
