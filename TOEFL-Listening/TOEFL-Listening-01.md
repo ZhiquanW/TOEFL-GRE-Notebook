@@ -162,7 +162,14 @@ Lecture
 ## Art 话题
 
 1. Art History : 人　风格（社会环境的影响）　与同时期的人作比较
-2. ​
+2. Fine Art
+3. Music / Dance : 乐器　制作　用材　人 舞蹈形式
+4. Architecture：　建筑风格　受各种因素影响
+5. Drama Photography  film　不同的人的擅长 Drama的舞台设置
+
+### 迷惑选项特征
+
+​	** method technique approach way compare/comparsion difference influence
 
 # Homework 2017/12/10
 
