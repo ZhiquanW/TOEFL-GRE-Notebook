@@ -138,7 +138,23 @@ Lecture
     * technique
     * method
     * way to / approach ..
+## 分层
+
+ *  语气词后注意新名词eg.ok,so,well,now,then...
+*  确定分层的词语 eg.another,next,also,one the other hand
+*  问答分为一个层次
+*  男女生换人说话 eg. 教授学生互动..
+*  汉语或画画
+
+##笔记
+
+- 记名词
+- 符号 eg. B 表示转折,? ,! ->
+- 注意缩写    eg.去掉尾缀 gov envir 
+- 例子
+
 # Homework 2017/12/10
+
 * TPO1 - L1
 * TPO2 - L3
 * TPO4 - L1
