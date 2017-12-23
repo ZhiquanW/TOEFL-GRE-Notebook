@@ -72,4 +72,40 @@
 
 *   **Task4**
 
-​	
+    *   Choice Supportive Bias
+
+    ---
+
+    *   Focus on the adv of the option selected
+    *   Overlook the dis adv
+
+    ---
+
+    *   illustrate
+    *    friend buy house 
+    *   excllent location : not far away from work place
+    *   drawback smaller than thought
+
+    ---
+
+    *   few years 
+    *   noly good location few minutes drive to company
+    *   ask about size  no idea what said totally forgot
+
+## TPO 33
+
+*   **Task 4**
+
+    *   Carry Capacity
+
+    ---
+
+    *   habit and resource not disrupted remain stable
+    *   avaiable resource alter it will change
+
+    ---
+
+    *   Red and blue moth ear rogwort
+    *   live where growth a lot of rogworts
+    *   one year rain a lot  > not grow well > not enough food to feed > population smaller
+    *   next year rain normal > rogwort recover > enough food > population increase
