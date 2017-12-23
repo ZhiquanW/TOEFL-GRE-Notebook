@@ -63,6 +63,9 @@ TOEFL - Speaking
 # Task 4
 
 * 重音 eg. As Some Of You May Know,what ...
+* That is ,for example,Explanation引领的重点看 
+* Experiment (research studying)
+  * 方法 步骤 + 结论
 
 1. The professor talks ahout the concept of ______by using as an example
 2. background
@@ -110,4 +113,6 @@ TOEFL - Speaking
 
 
 > # Homework : TPO 30 - 33 Task 3
-> # Homework : TPO 29 - 26 Task 3 
+> # Homework : TPO 29 - 26 Task 3
+>
+> #Homework : TPO 30 - 33 Task 4
