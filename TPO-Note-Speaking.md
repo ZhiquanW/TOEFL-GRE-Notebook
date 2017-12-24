@@ -107,5 +107,5 @@
 
     *   Red and blue moth ear rogwort
     *   live where growth a lot of rogworts
-    *   one year rain a lot  > not grow well > not enough food to feed > population smaller
+    *   one year rain a lot less > not grow well > not enough food to feed > population smaller
     *   next year rain normal > rogwort recover > enough food > population increase

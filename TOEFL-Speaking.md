@@ -83,8 +83,30 @@ TOEFL - Speaking
 
 
 
+# Task 1.2 (15s+ 45s)
+
+|         |      |      |                                          |
+| :-----: | :--: | :--: | :--------------------------------------: |
+| Task1,2 |  15  |  45  |                Describing                |
+| Task3,4 |  30  |  60  | Paried Choice(1.opion+statement+PRED / 2.Prefer A or B 让步虽然A 的好处..但是..B的好处..;/分情况阐述 |
+| Task5,6 |  20  |  60  |                                          |
 
 
+
+*   Point - 1
+
+*   Reasion - 2
+
+*   Example 3-4
+
+    *   Background 
+    *   Plot 
+    *   Result
+
+*   Respones - 1
+
+# Topic : Comedy about school Life + Talk public  friend impolite
+	Comedy About School Life
 
 ## Answer TPO - 16
 
@@ -114,5 +136,4 @@ TOEFL - Speaking
 
 > # Homework : TPO 30 - 33 Task 3
 > # Homework : TPO 29 - 26 Task 3
->
-> #Homework : TPO 30 - 33 Task 4
+> #Homework :  TPO 30 - 33 Task 4
