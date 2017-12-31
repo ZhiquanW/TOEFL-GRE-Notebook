@@ -53,7 +53,7 @@
     - 问答
     - 专有名词
     - 记录 - *笔记时:形式上相似即可 或者 大写首字母*
-    - 调查研究
+    - 调查研究(一般考结果)
         -  eg. research / investigation / study 
         >  / survey /observation
         - 步骤 1. 2. 3 ... *记录核心词*
@@ -90,6 +90,7 @@
       3. p提问 s1回答 s2回答 评价  *观点不一致*
       4. 学生的反应: 教授提出观点 学生同意/学生反对/确认是否理解 
       5. P 的评价出现犹豫 则说明否定
+      6. 两个学生的重听 则说明观点不一样
 
 
 Lecture
@@ -108,7 +109,7 @@ Lecture
     * 否定
     * 特征 eg. feature / charateristic / standard / function 
     * 目的 in order to /purpose
-    * 调查研究 .. (主要考结果) 
+    * 调查研究 ..research / study /  (主要考结果) 
     * 假设 eg. assumption / hypothesis / theory /
         * 注意 内容(多选) + 结果(考态度)
     * 顺序 eg. first../evently..
@@ -171,7 +172,34 @@ Lecture
 
 ​	** method technique approach way compare/comparsion difference influence
 
-# Homework 2017/12/10
+## Life Science
+
+*   zoology
+    *   动物行为: eg. Displacement Activity 
+        *   提问形式: 问答 类似行为比较 细节题
+
+    *   与环境关系
+
+      *   动物适应环境
+
+      *	环境对动物产生影响
+
+    *   动物交流
+
+    *   身体结构
+
+        *   静态
+        *   动态
+
+    *   动物保护
+
+*   botany
+
+*   marine biology
+
+*   biology conversation
+
+Homework 2017/12/10
 
 * TPO1 - L1
 * TPO2 - L3
