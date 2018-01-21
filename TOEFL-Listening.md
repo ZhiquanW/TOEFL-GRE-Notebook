@@ -160,7 +160,7 @@ Lecture
 - 注意缩写    eg.去掉尾缀 gov envir P表示问题
 - 例子
 
-## Art 话题
+## Art 
 
 1. Art History : 人　风格（社会环境的影响）　与同时期的人作比较
 2. Fine Art
@@ -168,9 +168,8 @@ Lecture
 4. Architecture：　建筑风格　受各种因素影响
 5. Drama Photography  film　不同的人的擅长 Drama的舞台设置
 
-### 迷惑选项特征
-
-​	** method technique approach way compare/comparsion difference influence
+*   迷惑选项特征
+    *   method technique approach way compare/comparsion difference influence
 
 ## Life Science
 
@@ -201,9 +200,31 @@ Lecture
 
 
 
-## 	Astronnomy
+## 	Physical Science
 
-​	* 
+ *  astronomy
+
+     * galaxy
+     * solar system
+     * 金木水火土星 Mercury Mars Jupiter Venice
+        * 大小/轨道/距离/组成/表面上的东西/证据/推论/仪器
+
+ *  geology
+
+     * 地址特征/形成过程/历史原因
+
+ *  environment
+
+     * 气候变化 / 对人类 动物的影响/ 工业/农业活动 对环境影响(negative positive)
+     * 能源危机
+
+ *  physics
+
+ *  chemistry
+
+ *  meterology
+
+    ​
 
 #Homework 2017/12/10
 
@@ -215,6 +236,11 @@ Lecture
 
 # Homework 2017/12/31
 
-*   TPO27 L1
 *   TPO20 L4
-*   TPO22 L3
+*   TPO21 L3
+*   TPO23 L3 
+*   TPO27 L1
+*   TPO18 L1
+*   TPO19 L2
+*   TPO31 L2
+*   TPO40 L3

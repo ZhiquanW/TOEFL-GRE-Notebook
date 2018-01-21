@@ -2,8 +2,8 @@
 
 >   Speaking
 
-
 ## TPO - 30
+
 * **Task 4**
 
   * Come up with a concept of emotional intelligence by giving a example of her daughter
@@ -82,7 +82,7 @@
     ---
 
     *   illustrate
-    *    friend buy house 
+    *   friend buy house 
     *   excllent location : not far away from work place
     *   drawback smaller than thought
 
