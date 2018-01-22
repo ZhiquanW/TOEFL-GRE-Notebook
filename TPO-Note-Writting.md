@@ -152,3 +152,23 @@
   > Content:
   >
   > ​	Initially ,one contributing factor is that  employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British.
+
+### Homework
+
+> hw1-1:
+>
+> > ​	As technology advances at an unexpected rate,its impact on children is becoming increasingly essential in our daily life,Some people maintain that technology has an negative influence on children's creativity, on the contrary ,as far as i am concerned ,I hold the prespective that technology has assistance with children's intellgence deveploment.
+>
+> hw1-2:
+>
+> > ​	As Computer industry advances at an unprecedented rate,electronic entertainment is becoming increasingly essential in our daily life.How to achieve a balance between children;s gaming time and study is an issue of vital controversy.Some people reckon that kids should be denied to play video games while others contend that it is fair for them to get access to these games under the instruction of their parents.When it comes to me I have a preference to the latter one.
+>
+> hw2-1:
+>
+> > ​	Initially ,one contributing factor is that  employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British,the team leader always demand all of the teammates gathering together and discuss about the design of a new game.Such development measure combines teammates' ideas with company's business goals,contributing to their sense of belonging.If they refused their employees to share their ideas with leader,the situatuion would change drastically and employees would just work for the salary ,not leading to working with single-hearted devotion.This case demonstrates that employee's engagement with the desicion can bring a sense of belonging
+>
+> hw2-2:
+>
+> Q:It is more important for governments to spend money to improve Internet access than to improve public transportation.
+>
+> > ​	Initially ,one contrubuting factor is that the improvement of access to internet encourage citizens to use mobile payment.To be more specific,people can pay with paypal or apple pay,a kinds of electronic payment,instead of traditional cash or credit card.A persuasive case is closely related to Java island ,a developing country which is popularizing mobile payment.After speeding up the connection time to the internet ,people in this country  start to experience the convenience of e-payment and the proportion of mobile payment increase at a exponential rate.If the government didn't improve the network condition,the situtation changed drastically and citizens would feel tough to access to the internet ,not leading the increase of trade efficiency.This case demonstrates that a faster network speed can lead a reform of people's daily life in payment.
