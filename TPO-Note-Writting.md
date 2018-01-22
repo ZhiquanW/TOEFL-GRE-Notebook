@@ -120,14 +120,35 @@
   * 结尾 :
     * this case demonstrates / indicates / displays / conveys that ... (...)是分论点的改写
 
-> Practise : Universities should focus its budget on hiring famous professors rather than improving facilities
->
-> Key Words: 
->
-> 正面 : produce more academic results | improve the education quality | Enhance the prestige 
->
-> 反面 : enhance the education quality | attract more talents to enroll this university |
->
-> Content :  
->
-> ​	Initially ,one contributing factor is that  experienced professors tend to produce more academic results.To be more specific ,they can publish more high quality papers and solve hard academic problems in theirs fields.A persuasive case is closely related to Fei Fei Li ,a famous professor in computer vision at Stanford.After being hired by Stanford with a high salary ,she leads her research team to contribute many neural network algorithm to the world ,bringing Stanford one of the topest universities in such fields.This case demonstrates the a famous professor can help improve the reseaerch ability of a university 
+
+  * 假设论证
+    * 如果题目中的关键信息没有发生 那么分论点就不会成立
+    * 如果例子是现代时: if 主语  did not do sth, the situation would change ** drastically** and _____(时态是would do 内容是分论点就不会成立),not leading to ______(分论点后的结果 名词或者ing形式)
+    * 如果例子是过去时 : 同之前的had的句子
+    * 位置 : 例子描述之后 小结句之前
+
+  > Practise : Universities should focus its budget on hiring famous professors rather than improving facilities
+  >
+  > Key Words: 
+  >
+  > 正面 : produce more academic results | improve the education quality | Enhance the prestige 
+  >
+  > 反面 : enhance the education quality | attract more talents to enroll this university |
+  >
+  > Content :  
+  >
+  > ​	Initially ,one contributing factor is that  experienced professors tend to produce more academic results.To be more specific ,they can publish more high quality papers and solve hard academic problems in theirs fields.A persuasive case is closely related to Fei Fei Li ,a famous professor in computer vision at Stanford.After being hired by Stanford with a high salary ,she leads her research team to contribute many neural network algorithm to the world ,bringing Stanford one of the topest universities in such fields.if Stanford missed such a irreplaceable professor,the situation would change drastically and its academic results in computer vision may be a lot less ,not leading to a strong research competence.This case demonstrates the a famous professor can help improve the reseaerch ability of a university 
+
+  > Practise : A successful leader should involve others in the process of decision making 
+  >
+  > Key Words:
+  >
+  > 1) Enhance the efficiency / produce perfect solution 
+  >
+  > 2) Cultivate / foster the employees competence 
+  >
+  > 3) Strongthen the employees' sense of belonging
+  >
+  > Content:
+  >
+  > ​	Initially ,one contributing factor is that  employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British.
