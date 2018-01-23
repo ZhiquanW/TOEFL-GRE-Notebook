@@ -182,7 +182,7 @@
   * 引用来自某个机构，杂志的
   * 某本书或者杂志
     * According to the questionnaire/survey complied/edited by POPULARSCIENCE,a prevalent magazine focusing on current discoveries and latest researching results, ... ,showing an upward/downward trend compared with the study five years ago.
-    *  (...)的句子呈现发展趋势，证明分论点的正确性
+    * (...)的句子呈现发展趋势，证明分论点的正确性
     * 杂志　可以换成与题目相关的
   * 关于某个学校
     * A survey conducted by Technical University of Munich, a university prestigious for its leading role in ... field and for its advanced researching results in the relavant field, indicates that ..., which shows an upward trend compared with the studies in the past few years
@@ -258,3 +258,5 @@
 > > ​	Initially ,one contrubuting factor is that the improvement of access to internet encourage citizens to use mobile payment.To be more specific,people can pay with paypal or apple pay,a kinds of electronic payment,instead of traditional cash or credit card.A persuasive case is closely related to Java island ,a developing country which is popularizing mobile payment.After speeding up the connection time to the internet ,people in this country  start to experience the convenience of e-payment and the proportion of mobile payment increase at a exponential rate.If the government didn't improve the network condition,the situtation changed drastically and citizens would feel tough to access to the internet ,not leading the increase of trade efficiency.This case demonstrates that a faster network speed can lead a reform of people's daily life in payment.
 >
 > hw3-1 : TPO 21
+>
+> > Q:Do you agree or disagree with the following statement? For success in a future job, the ability to relate well to people is more important than studying hard in school. Use specific reasons and examples to support your answer.
