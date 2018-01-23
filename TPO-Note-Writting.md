@@ -54,7 +54,7 @@
     *   分论点一
         *   主题句 + 解释 + 举例 + 假设 + 小结 150 words (9min)
     *   分论点二
-        *   主题句 + 因果 + 数据/对比 + 小姐 150 words (9min)
+        *   主题句 + 因果 + 数据/对比 + 小结 150 words (9min)
     *   结尾段 转述总论点 + 总结分论点 30-40 (2min)
 
 *   5min 构思 - 想分论点 + 2min 检查
@@ -127,6 +127,9 @@
     * 如果例子是过去时 : 同之前的had的句子
     * 位置 : 例子描述之后 小结句之前
 
+
+
+* 
   > Practise : Universities should focus its budget on hiring famous professors rather than improving facilities
   >
   > Key Words: 
@@ -153,6 +156,87 @@
   >
   > ​	Initially ,one contributing factor is that  employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British.
 
+# 例子中
+
+- 题目信息 + 分论点+ 结果(not leading)
+
+# 分论点二
+
+- 主题句 + 因果 + 数据 + 总结
+
+- #### 因果论证
+
+  - 如果分论点写的比较具体,那么因果就是写分论点能带来的结果 (题目到论点一步到位)
+  - 如果分论点写的比较抽象,那么因果就是解释分论点成立的原因 (题目到论点不能一步到位)
+  - 如果一个原因或结果, 能写三到四句话 , 那么写一个即可 否则 人为的写两个不同的原因或者结果
+
+- 结句：
+
+  - There is no exaggeration to say that ...
+  - it goes without saying that ...
+  - (...)分论点的改写
+
+- ### 数据 - 事物发展的趋势
+
+  * 为了证明分论点是对的
+  * 引用来自某个机构，杂志的
+  * 某本书或者杂志
+    * According to the questionnaire/survey complied/edited by POPULARSCIENCE,a prevalent magazine focusing on current discoveries and latest researching results, ... ,showing an upward/downward trend compared with the study five years ago.
+    *  (...)的句子呈现发展趋势，证明分论点的正确性
+    * 杂志　可以换成与题目相关的
+  * 关于某个学校
+    * A survey conducted by Technical University of Munich, a university prestigious for its leading role in ... field and for its advanced researching results in the relavant field, indicates that ..., which shows an upward trend compared with the studies in the past few years
+
+- 对比论证
+
+  - 找一个对比对象　
+    - 题目中已经有的对象 （小结局之前）
+    - On one hand ,on the other hand
+    - compare with
+    - soaring / accelerating
+
+- 总结段
+
+  - 转述总论点＋总结分论点
+  - 信号词 
+    - to sum it up 
+    - all in all
+    - briefly speaking
+  - 转述总论点
+    - ... , after balancing / weighing the pros and cons of the topic, I still insist that _______.
+    - ... , for the above-mentioned two reasons , I , without hesitation,reassert that ___. 
+    - (...)信号词 (_)总论点的改写
+  - 总结分论点的句式
+    - It is A and B that enable me to arrive at my conclusion.
+    - A and B are two contributing factors for my arrive at the concluson.
+
+- ​
+
+  > Practise:
+  >
+  > Question : In order to solve the problem people should use their own expericence and konwledge rather than others advice
+  >
+  > key words: 
+  >
+  > 正面 : Cultivate /foster the independence | seek the most appropriate solution /
+  >
+  > 反面 : produce comprehensive thinking | cultivate the teamwork spirit / cooperative spirit
+  >
+  > 万能 : harmonize the interpersonal relationship
+  >
+  > Content : 
+  >
+  > 　　　Initially, my first concern about the thesis arises from the fact that accepting others advices help harmonize the interpersonal relationship with teammates.As people share their opinions with us,it is really offensive to reject their willingness,intensifying the possibility of unsatisfaction of others.On the other hand,your demand of others' assistence means your recognition of their working abilities.Such recognition contribute to the improvement of office relationship ,leading to the increasingly working efficiency of the whole team.**A survey conducted by Technical University of Munich, a university prestigious for its leading role in Business field and for its advanced researching results in the relavant field, indicates that an accelerating number of company leaders tend to let employee's publish their opinions when making desicions, which shows an upward trend compared with the studies in the past few years.**There is no exaggeration to say that gathering others wisdom can enhance the relationship of people.
+
+
+
+
+
+
+------
+
+
+
 ### Homework
 
 > hw1-1:
@@ -172,3 +256,5 @@
 > Q:It is more important for governments to spend money to improve Internet access than to improve public transportation.
 >
 > > ​	Initially ,one contrubuting factor is that the improvement of access to internet encourage citizens to use mobile payment.To be more specific,people can pay with paypal or apple pay,a kinds of electronic payment,instead of traditional cash or credit card.A persuasive case is closely related to Java island ,a developing country which is popularizing mobile payment.After speeding up the connection time to the internet ,people in this country  start to experience the convenience of e-payment and the proportion of mobile payment increase at a exponential rate.If the government didn't improve the network condition,the situtation changed drastically and citizens would feel tough to access to the internet ,not leading the increase of trade efficiency.This case demonstrates that a faster network speed can lead a reform of people's daily life in payment.
+>
+> hw3-1 : TPO 21
