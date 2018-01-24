@@ -372,5 +372,18 @@
 > >
 > > ​	Utilmately, for the above-mentioned two reasons , I , without hesitation,reassert that studying with full heart is more helpful in the future job.A great professional skill and the toleration of loneliness are two contributing factors for my arrive at the concluson.
 >
-> 
-
+> hw4-1 TPO29
+>
+> >  Q:Do you agree or disagree with the following statement? To improve the quality of education, universities should spend more money on salaries for university professors. Use specific reasons and examples to support your answer.
+> >
+> > Content:
+> >
+> > As education advances at an unprecedented(unexpected/alarming) rate , advanced education is becoming increasingly essential in our daily life.Whether investing more fundings to increase the salary of professors has triggered a sustainable debate.Some people reckon that it is a direct and effective action to improve the level of teaching quality,while others rise against it.When it comes to me,I approve of the ideas that university should pay more money for the devotion of professer.
+> >
+> > ​	Initially,one contributing factor is that the rising of salary can motivate the professor to spare more time and effort for educating students.To be specific,they will be much more willing to spend time improving their teaching method and caring about student's studying progress when benefited from it.A persuasive case is closely related to Andrew NG, a respected professor in Machine Learning.He used to put most of his effort into doing research until the university increased his salary.In order to pay back for the salary ,he designed a new course to teach students ML knowledge,improving students' skills in this area drastically.if the university had not invest more money to teachers' salary,the situation would change completely and Andrew NG may not think of starting the new course,not leading to a general improvment of machine learning skills of students.This case demonstrates that a rising salary can encourage teachers to improve the quality of courses.
+> >
+> > ​	My second concern about this thesis arises from that a higher salary can attract more professors who can contribute the better teaching method.It is apperantly that  these new professors can bring vitality to the campus, exchanging new opinions with each other and producing better teaching theory which can also benefit students on the class.The improved teaching method is supposed to lead students to understand the knowledge deeper and aborsb it in a short time.According to the survey complied by POPULARSCIENCE , a prevalent magazine focusing on current discoveries and lasting researching results ,a increasing number of universities began to attract more professors with a higher salary and optimized their teaching method in order to create a hight quality education system,which shows an upward trend compared with the studies in the past few years.here is no exaggeration to say that a more investment to salary can make a sophisticated education system.
+> >
+> > ​	Utilmately, for the above-mentioned two reasons , I , without hesitation,reassert that the salary of professor can influence the teaching quality greatly.The efforts of professors and the conflict of ideas are two contributing factors for the improvment of education quality
+> >
+> > ​	
