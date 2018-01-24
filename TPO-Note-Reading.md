@@ -1,4 +1,4 @@
-# TPO - Reading
+# **TPO - Reading**
 
 >   Reading
 
@@ -48,11 +48,17 @@
 ## 事实题(细节题)
 
 * Positive + Negative(0~1题)
+
+### 正向
+
 * **定位关键词** (不能过于依赖名词,结合动词形容词)
 * 找出周边的核心内容
 * 注意同义转换以及逻辑关系的准确表达
 * 极端性的词出现在问题中 : 文中有对应的程度相同的次
 * 读结构性的部分
+
+### 反向
+
 * Negative Fact
   * 错误答案大部分在原文中有体现
   * 不可定位－排除法
@@ -65,4 +71,22 @@
 >extinguish : 熄灭　eradicate : 根除　wipe out :　
 >
 >eliminate : 
+>
+>subject to 受限于/受..的影响 | 暴露在...
+
+## 简化题
+
+* 抓住主体(一致性) 
+* 逻辑关系的正确表达(注意隐藏性逻辑关系)
+  * 因果
+  * 递进
+  * 并列
+  * 转折
+  * 让步
+* 程度 - 出现程度不一致的词混淆(注意极端性的词)
+* 出现过度引申,过度细节化  
+
+>巨大,大量 : enormous tremendous colossal massive gigantic vast 
+>
+>蒸馏水 : distiled water
 
