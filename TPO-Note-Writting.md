@@ -11,10 +11,73 @@
 ## Inetegrated Writing (25min)
 
 *   Read (3min) - 3 reason
-*   Listen (2min) 
-*   Write (20min)  150~225  words  > 250 words
+*   Listen (2min) 反驳文章
+*   Write (20min)  150~225  words  建议 > 250 words
 *   描写阅读与听力的关系
 
+####    How to Read
+
+* Part 1 :读 第一段的最后一句话 和 第二三四段 的第一句话
+
+* Part 2: 记笔记
+
+  * 在高度紧张时帮助记住文章大意
+  * 听力时 提供线索
+  * 避免写作时直接抄原文
+  * 原则:
+    * 自己看明白即可
+    * 一句话至少两个词
+    * 记 名词 形容词 动词
+    * 名词 - 用首字母gmt/缩写lib/汉字/符号/名词词组的话记重点
+    * 形容词 - 直接用同义词替换 / 用汉字符符号
+
+* Part 3: 读剩余的内容
+
+  * 可不记笔记
+  * 为听力细节提供线索
+  * 举例子 / 专有名词  / 数据 一般会直接反驳
+  * 笔记方式( )
+#### How to listening
+
+  * 第一句话是 话题的介绍 或者是 文章观点的介绍 + 转折词(unfortunately/as a mater of fact /but /however) + 观点句(捕捉单词)
+  * 2,3,4段 : 主题句(文章的主题句相反) + 细节(一般一个主题句后有两到三个细节)
+  * 禁止只听一句话 原文摘抄
+  * 听不同句子的不通点 而不是 同一个句子的详细内容
+  * 如果听不出 从阅读句子的内容反驳 + 装作独立写作写 >250 words
+
+
+#### 替换词
+
+* passage :article /essay /reading material /the author
+* listening :professor / speech / lecture /speaker /lecturer/listening material
+
+#### Model
+
+##### 开头段
+
+* 文章观点 + 听力观点 + 两者间的关系 
+  * It is *suggested* in the passage that _(文章总观点), while the professor *questions the foundation* of the passage by *illustrating* /demonstrating that _(听力总观点) from the following three aspects.
+  * 斜体可替换
+
+##### 主体段
+
+* 文章的分论点 + 听力的分论点 + 听力的细节
+  * ... , different from the idea mentioned in the reading that _(文章分论点) , the speaker maintains that _ (听力分论点),According to the listening material , _ (听力细节).
+  * ... , the lecturer contends that _ (听力分论点 ). In order to consolidate his/her viewpoint ,he/she furthers that _ (听力细节). This is in total disagreement with that in the article.
+  * ... , the author reckons that _(文章分论点) .On the contrary , the listening material presents that _(听力分论点) .As is shown in the  speech _ (听力细节).
+
+##### 注意事项
+
+* 文章指出现四个观点 必须改写
+* 时态尊重原文 内容根据听力
+  * 要求文章观点+听力观点的内容 要少于细节
+
+##### Practise
+
+> TPO 39
+>
+> Content :
+> ​	 Initially, different from the idea mentioned in the reading that the decreasing of sea level leads to the elimination of numerous species, the speaker maintains that it is impossible to be the reason for the disappearance of so many species,According to the listening material ,as the sea level fluctuation gradually ,animals can adopt to the environment.Only the sudden decline of sea level can lead to a demage of ecosystem and the massive exctinctions.
 
 ## Independenct Writing
 
@@ -75,17 +138,14 @@
 *    ### 引出话题
 
     * ____ 没有定论/引起讨论/有争议的
-
     * eg. Whether ________ has triggered/produce/generate/evoke a sustainable debate(Whether + 陈述句)
-
-
-    *   eg. How to _______ is an issue of great controversy(How to + 动词)
-    *   eg. It has been more difficult to ignore the debate over _____ (+ 名词/ing)
-    *   初级 改写题目 / 自己的语言概括总结/\diffreent ideas / The answers to this qestion vary from people to pe
-    *   Some people maintain that ... , on the contrary ,as far as i am concerned ,i hold the perspective that ...
-    *   Some people reckon that ... ,while others contend that ... when it comes to me , i approve of the former one /latter one
-    *   不能照抄题目 
-    *   同意的观点 用词更高大上/更合理 反对的要极端用词
+    * eg. How to _______ is an issue of great controversy(How to + 动词)
+    * eg. It has been more difficult to ignore the debate over _____ (+ 名词/ing)
+    * 初级 改写题目 / 自己的语言概括总结/\diffreent ideas / The answers to this qestion vary from people to pe
+    * Some people maintain that ... , on the contrary ,as far as i am concerned ,i hold the perspective that ...
+    * Some people reckon that ... ,while others contend that ... when it comes to me , i approve of the former one /latter one
+    * 不能照抄题目 
+    * 同意的观点 用词更高大上/更合理 反对的要极端用词
         *   Government should focus its budget on childern's education rather than on universities
 
 *   ### 分论点 1 : 主题句 + 解释 + 举例 + 假设 + 小结
@@ -112,11 +172,9 @@
         *   2) 强调分论点中出现的名词的重要性
           *   the significance of A in B cannot be ignored  // Nothing is more essential than A in B 中的词组 - A是分论点中出现的新名词 , B是后面的例子的发展方向的词组 
           *   A 加形容词 并且 替换前面分论点中的词
-
-
         *   举例论证
           *   名人
-    
+
           *   普通人 除了 朋友 叔叔 父母 邻居
         *   **Attention **
           * 禁止时态混乱
@@ -125,13 +183,13 @@
             * A persuasive case is closely related to A ,...
             * Let us take A , ... , as a convincing instance to consolidate my perspective 
             * (...) 同谓语/插入语解释
-    
+
     * #### 结尾 :
-    
+
       * this case demonstrates / indicates / displays / conveys that ... (...)是分论点的改写
-    
+
       * #### 假设论证
-    
+
         *   如果题目中的关键信息没有发生 那么分论点就不会成立
         *   如果例子是现代时: if 主语  did not do sth, the situation would change ** drastically** and _____(时态是would do 内容是分论点就不会成立),not leading to ______(分论点后的结果 名词或者ing形式)
         *   如果例子是过去时 : 同之前的had的句子
@@ -314,6 +372,11 @@
 
   逆商:adverse quotient
 
+  许多:
+
+  * 修饰不可数 : Considerable / tremendous / drastic / dramatic /a great amount of 
+  * 修饰可数:Numerous / floods of / a great number of 
+
   > Pracitse:
   >
   > Question : In order to solve the problem people should use their own expericence and konwledge rather than others advice
@@ -376,14 +439,14 @@
 >
 > >  Q:Do you agree or disagree with the following statement? To improve the quality of education, universities should spend more money on salaries for university professors. Use specific reasons and examples to support your answer.
 > >
-> > Content:
+> >  Content:
 > >
-> > As education advances at an unprecedented(unexpected/alarming) rate , advanced education is becoming increasingly essential in our daily life.Whether investing more fundings to increase the salary of professors has triggered a sustainable debate.Some people reckon that it is a direct and effective action to improve the level of teaching quality,while others rise against it.When it comes to me,I approve of the ideas that university should pay more money for the devotion of professer.
+> >  ​	As education advances at an unprecedented(unexpected/alarming) rate , advanced education is becoming increasingly essential in our daily life.Whether investing more fundings to increase the salary of professors has triggered a sustainable debate.Some people reckon that it is a direct and effective action to improve the level of teaching quality,while others rise against it.When it comes to me,I approve of the ideas that university should pay more money for the devotion of professer.
 > >
-> > ​	Initially,one contributing factor is that the rising of salary can motivate the professor to spare more time and effort for educating students.To be specific,they will be much more willing to spend time improving their teaching method and caring about student's studying progress when benefited from it.A persuasive case is closely related to Andrew NG, a respected professor in Machine Learning.He used to put most of his effort into doing research until the university increased his salary.In order to pay back for the salary ,he designed a new course to teach students ML knowledge,improving students' skills in this area drastically.if the university had not invest more money to teachers' salary,the situation would change completely and Andrew NG may not think of starting the new course,not leading to a general improvment of machine learning skills of students.This case demonstrates that a rising salary can encourage teachers to improve the quality of courses.
+> >  ​	Initially,one contributing factor is that the rising of salary can motivate the professor to spare more time and effort for educating students.To be specific,they will be much more willing to spend time improving their teaching method and caring about student's studying progress when benefited from it.A persuasive case is closely related to Andrew NG, a respected professor in Machine Learning.He used to put most of his effort into doing research until the university increased his salary.In order to pay back for the salary ,he designed a new course to teach students ML knowledge,improving students' skills in this area drastically.if the university had not invest more money to teachers' salary,the situation would change completely and Andrew NG may not think of starting the new course,not leading to a general improvment of machine learning skills of students.This case demonstrates that a rising salary can encourage teachers to improve the quality of courses.
 > >
-> > ​	My second concern about this thesis arises from that a higher salary can attract more professors who can contribute the better teaching method.It is apperantly that  these new professors can bring vitality to the campus, exchanging new opinions with each other and producing better teaching theory which can also benefit students on the class.The improved teaching method is supposed to lead students to understand the knowledge deeper and aborsb it in a short time.According to the survey complied by POPULARSCIENCE , a prevalent magazine focusing on current discoveries and lasting researching results ,a increasing number of universities began to attract more professors with a higher salary and optimized their teaching method in order to create a hight quality education system,which shows an upward trend compared with the studies in the past few years.here is no exaggeration to say that a more investment to salary can make a sophisticated education system.
+> >  ​	My second concern about this thesis arises from that a higher salary can attract more professors who can contribute the better teaching method.It is apperantly that  these new professors can bring vitality to the campus, exchanging new opinions with each other and producing better teaching theory which can also benefit students on the class.The improved teaching method is supposed to lead students to understand the knowledge deeper and aborsb it in a short time.According to the survey complied by POPULARSCIENCE , a prevalent magazine focusing on current discoveries and lasting researching results ,a increasing number of universities began to attract more professors with a higher salary and optimized their teaching method in order to create a hight quality education system,which shows an upward trend compared with the studies in the past few years.here is no exaggeration to say that a more investment to salary can make a sophisticated education system.
 > >
-> > ​	Utilmately, for the above-mentioned two reasons , I , without hesitation,reassert that the salary of professor can influence the teaching quality greatly.The efforts of professors and the conflict of ideas are two contributing factors for the improvment of education quality
+> >  ​	Utilmately, for the above-mentioned two reasons , I , without hesitation,reassert that the salary of professor can influence the teaching quality greatly.The efforts of professors and the conflict of ideas are two contributing factors for the improvment of education quality
 > >
-> > ​	
+> >  ​	

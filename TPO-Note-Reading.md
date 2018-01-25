@@ -90,3 +90,14 @@
 >
 >蒸馏水 : distiled water
 
+## 修辞题
+
+* 作者的修辞目的
+* 考察句间关系,句段关系,段段关系
+* Why - 定位内容与上下文的关系
+  * 功能性 对比,比较 / example解释 / 转折 / 比较级
+* how - organization 
+* 从作者角度出发,注意 main point - support point - detials之间的关系
+
+
+
