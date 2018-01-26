@@ -90,7 +90,7 @@
 >
 >蒸馏水 : distiled water
 
-## 修辞题
+## 修辞目的题
 
 * 作者的修辞目的
 * 考察句间关系,句段关系,段段关系
@@ -100,4 +100,52 @@
 * 从作者角度出发,注意 main point - support point - detials之间的关系
 
 
+## 推理题
+
+* 定位事实
+
+  * 相关度 主体一致性
+  * 可信度 推论出的事实 并不是原文的内容 不一定绝对正确 只是相对来说可能性更高的选项
+
+  > affectation 做作
+  >
+  > malicious 恶毒
+  >
+  > otter 水獭
+  >
+  > gusher 滔滔不绝的人 zz
+*   更具上下文的逻辑关系,善用排除法
+*   
+  * 正推 + 倒推 
+  * 句内关系,句句关系,局端关系
+
+* 结合例子 与 主句  
+
+## 主旨题
+
+* 6选3
+* 段落主旨
+* 注意排除法
+* 注意main idea 与 detial 的区别
+* 注意张冠李戴,过度引申
+
+## 图表题
+
+* 一般出现在最后一题
+* 对两个以上的对象比较
+* 9选7 或者 7选5
+* 满分3分 少选一个减1分
+
+### 关键点
+
+ * 区分描述对象
+* 定位 + 精读 
+
+> agriculture
+>
+>  c kthrough along river |society dev
+>
+> river val argi maximize cultivated areas protect local inhabitants | civil | transform into gov
+>
+> big man
 
