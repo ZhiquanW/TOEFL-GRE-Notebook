@@ -6,13 +6,13 @@
 - E-Rater + 2 * 考官
 - E - Rater 错误率 (语法错误,拼写错误) + 抄袭率 (关键词连续摘抄不能超过三个词,不包括专有名词,动词与形容词较多)
 - 考官 5分制 考官取平均分 
-- 成绩单 Limited < 18  Fair 18~24 Good > 24
+- 成绩单 Limited < 18 Fair 18~24 Good > 24
 
 ## Inetegrated Writing (25min)
 
 *   Read (3min) - 3 reason
 *   Listen (2min) 反驳文章
-*   Write (20min)  150~225  words  建议 > 250 words
+*   Write (20min) 150~225 words 建议 > 250 words
 *   描写阅读与听力的关系
 
 ####    How to Read
@@ -35,7 +35,7 @@
 
   * 可不记笔记
   * 为听力细节提供线索
-  * 举例子 / 专有名词  / 数据 一般会直接反驳
+  * 举例子 / 专有名词 / 数据 一般会直接反驳
   * 笔记方式( )
 #### How to listening
 
@@ -64,7 +64,7 @@
 * 文章的分论点 + 听力的分论点 + 听力的细节
   * ... , different from the idea mentioned in the reading that _(文章分论点) , the speaker maintains that _ (听力分论点),According to the listening material , _ (听力细节).
   * ... , the lecturer contends that _ (听力分论点 ). In order to consolidate his/her viewpoint ,he/she furthers that _ (听力细节). This is in total disagreement with that in the article.
-  * ... , the author reckons that _(文章分论点) .On the contrary , the listening material presents that _(听力分论点) .As is shown in the  speech _ (听力细节).
+  * ... , the author reckons that _(文章分论点) .On the contrary , the listening material presents that _(听力分论点) .As is shown in the speech _ (听力细节).
 
 ##### 注意事项
 
@@ -81,20 +81,20 @@
 
 ## Independenct Writing
 
-*   Write (30min)  > 400 words
+*   Write (30min) > 400 words
 *   Topic Education 
 
 ### Attention
 
 *   禁止使用烂大街的词 口语词 
     *   famous professor - renowned, prestigious, eminent, reputed
-    *   不要and开头 more and more  - increasingly 
+    *   不要and开头 more and more - increasingly 
     *   多用名词词组 have a strong preference to english
 
 *   禁止使用缩写词 it is/ have not/ can not/ television - TV
 
 *   **多样性** syntactic diversity / variety
-    *   单词多样性 significant fundamental vital crucial critical essential indispensable  irreplaceable  /have a profound influence on /the significance of A in B cannot be ignored  // Nothing is more essential than A in B
+    *   单词多样性 significant fundamental vital crucial critical essential indispensable irreplaceable /have a profound influence on /the significance of A in B cannot be ignored // Nothing is more essential than A in B
 
 *   词组多样性** deal with the problem /cope with /handle /tackle /dispose of /address (呼吁) /issue/difficulty/tough situation / dilemma 
 
@@ -105,9 +105,9 @@
         *   When if while 可以不用去掉 (后面的词可以加ing/ed)
     *   倒装
         *   Had 主语 not done sth,the situation would have changed drastically and ,not leading to (放在例子描述之后,进行反向假设) **必须用**
-        *   现在事实相反 从句if  did/were  主句 would do
+        *   现在事实相反 从句if did/were 主句 would do
         *   过去事实相反 从句if had done 主句 would have done
-        *   如果if的后面是 had were shoud  可以把if去掉 这些词提前形成倒装
+        *   如果if的后面是 had were shoud 可以把if去掉 这些词提前形成倒装
     *   强调句
         *   It is A and B that enable me to arrive at this conclusion(总结两个分论点)
     *   论证方法的多样性
@@ -133,7 +133,7 @@
 
         *   education science government economy media social-life information 
         *   eg. As ... advances at an unprecedented(unexpected/alarming) rate , __ is becoming increasingly essential in our daily life(...是背景的背景economy information tech socity, ___是与话题相关的最大范围的背景词)
-        *   eg. Thanks to the exponential development of ....,__ is more **prevalent** (dominant/prevailing)  among the people in the relevant field 
+        *   eg. Thanks to the exponential development of ....,__ is more **prevalent** (dominant/prevailing) among the people in the relevant field 
 
 *    ### 引出话题
 
@@ -152,7 +152,7 @@
 
     * #### 主题句
 
-        *   主题句 : 两个分论点不能是同一领域的 (同一领域不具有说服力)  
+        *   主题句 : 两个分论点不能是同一领域的 (同一领域不具有说服力) 
         *   主题句 : 禁止出现并列的名词或词组
         *   主题句 : 不要出现别的从句 意犹未尽的内容放在解释中写
         *   表示逻辑顺序的词
@@ -170,7 +170,7 @@
         *   1) 如果分论点表达的比较学术 ,那么解释可以用通俗的语言重新表述一下
           *   把分论点和解释联系在一起 : To be more specific Specificly speaking,To specify
         *   2) 强调分论点中出现的名词的重要性
-          *   the significance of A in B cannot be ignored  // Nothing is more essential than A in B 中的词组 - A是分论点中出现的新名词 , B是后面的例子的发展方向的词组 
+          *   the significance of A in B cannot be ignored // Nothing is more essential than A in B 中的词组 - A是分论点中出现的新名词 , B是后面的例子的发展方向的词组 
           *   A 加形容词 并且 替换前面分论点中的词
         *   举例论证
           *   名人
@@ -179,7 +179,7 @@
         *   **Attention **
           * 禁止时态混乱
           * 禁止主语单一 用非谓语动词作伴随状语
-          * 禁止使用 for example  for instance
+          * 禁止使用 for example for instance
             * A persuasive case is closely related to A ,...
             * Let us take A , ... , as a convincing instance to consolidate my perspective 
             * (...) 同谓语/插入语解释
@@ -191,7 +191,7 @@
       * #### 假设论证
 
         *   如果题目中的关键信息没有发生 那么分论点就不会成立
-        *   如果例子是现代时: if 主语  did not do sth, the situation would change ** drastically** and _____(时态是would do 内容是分论点就不会成立),not leading to ______(分论点后的结果 名词或者ing形式)
+        *   如果例子是现代时: if 主语 did not do sth, the situation would change ** drastically** and _____(时态是would do 内容是分论点就不会成立),not leading to ______(分论点后的结果 名词或者ing形式)
         *   如果例子是过去时 : 同之前的had的句子
         *   位置 : 例子描述之后 小结句之前
 
@@ -206,9 +206,9 @@
   >
   > 反面 : enhance the education quality | attract more talents to enroll this university |
   >
-  > Content :  
+  > Content : 
   >
-  > ​	Initially ,one contributing factor is that  experienced professors tend to produce more academic results.To be more specific ,they can publish more high quality papers and solve hard academic problems in theirs fields.A persuasive case is closely related to Fei Fei Li ,a famous professor in computer vision at Stanford.After being hired by Stanford with a high salary ,she leads her research team to contribute many neural network algorithm to the world ,bringing Stanford one of the topest universities in such fields.if Stanford missed such a irreplaceable professor,the situation would change drastically and its academic results in computer vision may be a lot less ,not leading to a strong research competence.This case demonstrates the a famous professor can help improve the reseaerch ability of a university 
+  > ​	Initially ,one contributing factor is that experienced professors tend to produce more academic results.To be more specific ,they can publish more high quality papers and solve hard academic problems in theirs fields.A persuasive case is closely related to Fei Fei Li ,a famous professor in computer vision at Stanford.After being hired by Stanford with a high salary ,she leads her research team to contribute many neural network algorithm to the world ,bringing Stanford one of the topest universities in such fields.if Stanford missed such a irreplaceable professor,the situation would change drastically and its academic results in computer vision may be a lot less ,not leading to a strong research competence.This case demonstrates the a famous professor can help improve the reseaerch ability of a university 
 
   > Practise : A successful leader should involve others in the process of decision making 
   >
@@ -222,7 +222,7 @@
   >
   > Content:
   >
-  > ​	Initially ,one contributing factor is that  employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British.
+  > ​	Initially ,one contributing factor is that employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British.
 
 # 例子中
 
@@ -335,7 +335,7 @@
       * 减少人力物力的浪费
       * 避免错误/充分准备
       * (可以具体化)
-    * eg : 关注 public recognition 多于 mongy  ,使人work harding
+    * eg : 关注 public recognition 多于 mongy ,使人work harding
       * 改善生活
       * 工作成就的直接表现
     * eg : 不同任务幸福 还是 同一种任务幸福
@@ -400,7 +400,155 @@
 
 ------
 
+## 机经
 
+1. Do  you agree  or disagree with the following statement? The best way to improve the  quality of education in a country is to increase teachers’ salaries. 
+
+ * 不是最好的
+ * 有助于 > 雇佣好教授
+ * 但是也可用用在 > 购买设备 改善设施
+
+2. Do you agree or disagree with the following statement?   Workers  would be much  happier  if they are  doing different types of tasks  during their workday than doing the  same  task. 
+
+ - agree
+   - 提高效率 : Promote / enhance the working efficiency / effectiveness
+
+   - 防止枯燥 : Avoid being tedious
+
+   - Get acquaintance with diverse kinds of people
+
+3. Some students prefer to have their  final grades determined by  numerous  small  assignments,  whereas others prefer to have their  final grades determined by  only a  few large  assignments. Which do  you prefer and why?  
+
+
+   - 保持学习状态 
+   - 避免偶然情况 
+
+
+4. Movies  and televisions have more  negative effects than positive  effects  on  the  way young people behave.  
+
+
+* X postive
+  * guide the kids to do better perference
+  * X 接触不同文化 : get acquaintance with other cultures and customs
+* negative
+  * mislead the kids by unhealthy contents
+  * self-discipline / self-control
+
+5. Your  friends have the  opportunity to choose either one of  two types  of major field of study,  which one would you suggest  your friend to choose and why?  
+
+
+- one
+  - obtain the knowledge relevant to different fields
+  - mutually assist each other
+  - strengthen the competitiveness
+
+
+6. the  best way to cut  daily  expense  for  university  students: find a  roommate / stop buying expensive  electronic products / stop eating outside but cooking at home  
+
+
+- Reduce the cost of raw material 
+- reduce the expense on transportation / tips
+
+7. What is the  most  important  action for  the  government  to take  for  the  protection  of  environmental  problems? 
+
+- fund  researches on  new energy sources  such as solar  and wind  power; 
+
+
+- protect  forests and natural wildlife  species;  
+- pass  and enforce  laws to reduce  the  pollution.  
+
+
+- more environmentally friendly
+- It is the obligation of the government that can complete this action
+
+8. Social media is a good  way to express personal views.
+
+- convenient
+- timely interaction with others
+- free speech
+
+9. Do you agree or disagree with the following statement? The most important characteristic to a successful politician or leader is good communication skills.
+   - disagree
+     - communication skills can benfits
+     - overall view matters
+     - 让员工参与决策
+10. Do you agree or disagree with the following statement: It is important to have rules about the types of clothing that people are allowed to wear at work and at school.
+    - agree
+      - strengthen the sense of being
+      - convenience to manage
+11. Do you agree or disagree with the following statement: The most important thing people learned is from families.
+    - disagree
+      - 家庭重要
+      - 社会学
+12. Do you agree or disagree with the following statement: People who go outside are more successful and happier than people who stay in villages.
+    - successful
+    - happier 
+13. Do you agree or disagree with the following statement: People can solve important problems by themselves or with the help from their family members so there’s no need for the government to help them.
+    - disagree
+      - 基础设施
+      - 国家安全
+14. Do you agree or disagree with the following statement? The rules that the whole societies today expect to young people to follow and obey are too strict.
+    - disagree too-逻辑漏洞
+      - 有些严格
+      - 有些不严格
+15. Do you agree or disagree with the following statement? The ability to maintain a small number of friends for a long time is more important to happiness than the ability to make new friends easily.
+    - 节约预算
+    - 便于交流
+16. Do you agree or disagree with the following statement? Universities should require all their students to learn about foreign culture as well as their own culture.
+    - agree
+      - 开拓视野 broaden the horizon
+      - 了解历史文化
+17. Do you agree or disagree with the following statement? As modern life becomes more complex, it is essential for young people to have the ability to plan and organize.
+    - agree
+      - 理财(例子)
+18. Some people believe going on field trips is better for children’s education (eg. go to museum), while others think it is better for children to study in the classroom at school, which one do you prefer and explain why.
+    - agree
+      - 增加社会阅历
+      - 更直观的方式
+19. Do you agree or disagree with the following statement: Playing sports teaches people lessons about life.
+    - 有毅力恒心
+    - 团队精神 teamwork spirit
+20. Nowadays, students do many things like surfing the internet, listening to music when they are learning. Do you agree or disagree that doing other things impose bad effect on learning?
+    - disagree
+      - 听音乐集中精神
+      - 上网 查资料
+    - agree
+      - 分散注意力
+      - 降低效率
+21. Do you agree or disagree with the following statement：It is more important for the government to spend money on art museum and concert halls than on recreational facilities such as swimming pools and playgrounds.
+    - 成本低
+    - 受众人群广
+22. University students are often encouraged to study the fields in which significant job growth (a large increase in job opportunities) is expected; these fields currently include science, technology, engineering and math. Do you believe students should consider studying fields related to these subjects even if they are more interested in other subjects? Why or why not?
+    - disagree
+      - 时效性
+      - 效率低
+      - 做兴趣
+23. Do you agree or disagree with the statement: In order to succeed, it is better to be like others rather than different from everybody else.
+    - latter
+      - 更突出 吸引注意力 eye catching special
+      - 竞争少
+24. Do you agree or disagree with the following statement: In many places, students aged 12-18 are taught different subjects by different teachers while younger children are usually taught by only one teacher all day long. Some believe that it is better to have several different teachers to teach those younger children every day. Use specific reasons and examples to support your answer.
+    - 不同的教学方法 增加适应能力
+    - 学习和谐人际关系
+
+## 考前
+
+- 综合3篇以上 独立5篇以上
+- 综合 物种下降原因练习
+- 独立
+  - 教育
+  - 社会生活
+  - 三选一
+  - 逻辑漏洞类
+  - 媒体类
+  - 工作类 多种
+  - 精细对比类 : 现在将来做对比的 
+- 多积累素材 
+- 多学例子描述
+- 多练*举例论证*
+- 经典加试题
+- 模拟考试 
+  - 写的时候不加思索 直接写 
 
 ### Homework
 
@@ -414,13 +562,13 @@
 >
 > hw2-1:
 >
-> > ​	Initially ,one contributing factor is that  employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British,the team leader always demand all of the teammates gathering together and discuss about the design of a new game.Such development measure combines teammates' ideas with company's business goals,contributing to their sense of belonging.If they refused their employees to share their ideas with leader,the situatuion would change drastically and employees would just work for the salary ,not leading to working with single-hearted devotion.This case demonstrates that employee's engagement with the desicion can bring a sense of belonging
+> > ​	Initially ,one contributing factor is that employees' participation in decision making can strongthen their sense of belonging to company and the signficance of such feeling can never be ignored .A persuasive case is closely related to CA studio, a respected game studio in British,the team leader always demand all of the teammates gathering together and discuss about the design of a new game.Such development measure combines teammates' ideas with company's business goals,contributing to their sense of belonging.If they refused their employees to share their ideas with leader,the situatuion would change drastically and employees would just work for the salary ,not leading to working with single-hearted devotion.This case demonstrates that employee's engagement with the desicion can bring a sense of belonging
 >
 > hw2-2:
 >
 > Q:It is more important for governments to spend money to improve Internet access than to improve public transportation.
 >
-> > ​	Initially ,one contrubuting factor is that the improvement of access to internet encourage citizens to use mobile payment.To be more specific,people can pay with paypal or apple pay,a kinds of electronic payment,instead of traditional cash or credit card.A persuasive case is closely related to Java island ,a developing country which is popularizing mobile payment.After speeding up the connection time to the internet ,people in this country  start to experience the convenience of e-payment and the proportion of mobile payment increase at a exponential rate.If the government didn't improve the network condition,the situtation changed drastically and citizens would feel tough to access to the internet ,not leading the increase of trade efficiency.This case demonstrates that a faster network speed can lead a reform of people's daily life in payment.
+> > ​	Initially ,one contrubuting factor is that the improvement of access to internet encourage citizens to use mobile payment.To be more specific,people can pay with paypal or apple pay,a kinds of electronic payment,instead of traditional cash or credit card.A persuasive case is closely related to Java island ,a developing country which is popularizing mobile payment.After speeding up the connection time to the internet ,people in this country start to experience the convenience of e-payment and the proportion of mobile payment increase at a exponential rate.If the government didn't improve the network condition,the situtation changed drastically and citizens would feel tough to access to the internet ,not leading the increase of trade efficiency.This case demonstrates that a faster network speed can lead a reform of people's daily life in payment.
 >
 > hw3-1 : TPO 21
 >
@@ -431,7 +579,7 @@
 > >
 > > ​	Initially,my first concsen about this thesis arises from the fact that hard working can make us obtain a comprehensive understanding of our professional skills.To be more specific,we can master knowledge deeply , having a great competitiveness .when seeking for a job.A persuasive case is closely related to Andrew NG, the most respected export in Machine LearningAr.He devoted all of his heart into programming and learning new comupter skills,leading to today's strong acadamic ability .This case demonstrates that fate never treat a person who have faith in knowledge.
 > >
-> > ​    	Subsequently,another contributing factor is that keeping working hard help us cultivate a toleration of loneliness.Sometimes Studying means a persistent journey alone,enduring the long night before we reach the peak of specific field.Meanwhile such ability of enduring can help us to reach a balance between busy business and inner peace during future working life.A research conducted by echnical University of Munich, a university prestigious for its leading role in psychology,field and for its advanced researching results in the relavant field, indicates that there is a increasing number of people who suffer from the loneliness from time to time,hich shows an upward trend compared with the studies in the past few years.There is no exaggeration to say that devoting to study can make us more compatible.
+> > ​  	Subsequently,another contributing factor is that keeping working hard help us cultivate a toleration of loneliness.Sometimes Studying means a persistent journey alone,enduring the long night before we reach the peak of specific field.Meanwhile such ability of enduring can help us to reach a balance between busy business and inner peace during future working life.A research conducted by echnical University of Munich, a university prestigious for its leading role in psychology,field and for its advanced researching results in the relavant field, indicates that there is a increasing number of people who suffer from the loneliness from time to time,hich shows an upward trend compared with the studies in the past few years.There is no exaggeration to say that devoting to study can make us more compatible.
 > >
 > > ​	Utilmately, for the above-mentioned two reasons , I , without hesitation,reassert that studying with full heart is more helpful in the future job.A great professional skill and the toleration of loneliness are two contributing factors for my arrive at the concluson.
 >
@@ -445,7 +593,7 @@
 > >
 > >  ​	Initially,one contributing factor is that the rising of salary can motivate the professor to spare more time and effort for educating students.To be specific,they will be much more willing to spend time improving their teaching method and caring about student's studying progress when benefited from it.A persuasive case is closely related to Andrew NG, a respected professor in Machine Learning.He used to put most of his effort into doing research until the university increased his salary.In order to pay back for the salary ,he designed a new course to teach students ML knowledge,improving students' skills in this area drastically.if the university had not invest more money to teachers' salary,the situation would change completely and Andrew NG may not think of starting the new course,not leading to a general improvment of machine learning skills of students.This case demonstrates that a rising salary can encourage teachers to improve the quality of courses.
 > >
-> >  ​	My second concern about this thesis arises from that a higher salary can attract more professors who can contribute the better teaching method.It is apperantly that  these new professors can bring vitality to the campus, exchanging new opinions with each other and producing better teaching theory which can also benefit students on the class.The improved teaching method is supposed to lead students to understand the knowledge deeper and aborsb it in a short time.According to the survey complied by POPULARSCIENCE , a prevalent magazine focusing on current discoveries and lasting researching results ,a increasing number of universities began to attract more professors with a higher salary and optimized their teaching method in order to create a hight quality education system,which shows an upward trend compared with the studies in the past few years.here is no exaggeration to say that a more investment to salary can make a sophisticated education system.
+> >  ​	My second concern about this thesis arises from that a higher salary can attract more professors who can contribute the better teaching method.It is apperantly that these new professors can bring vitality to the campus, exchanging new opinions with each other and producing better teaching theory which can also benefit students on the class.The improved teaching method is supposed to lead students to understand the knowledge deeper and aborsb it in a short time.According to the survey complied by POPULARSCIENCE , a prevalent magazine focusing on current discoveries and lasting researching results ,a increasing number of universities began to attract more professors with a higher salary and optimized their teaching method in order to create a hight quality education system,which shows an upward trend compared with the studies in the past few years.here is no exaggeration to say that a more investment to salary can make a sophisticated education system.
 > >
 > >  ​	Utilmately, for the above-mentioned two reasons , I , without hesitation,reassert that the salary of professor can influence the teaching quality greatly.The efforts of professors and the conflict of ideas are two contributing factors for the improvment of education quality
 > >
