@@ -128,7 +128,6 @@
 
   "
 
-  
 
 ## 19.The physicist rightly dreads(v.担忧,忧虑,惧怕,不敢) precise argument, since an argument that is convincing only if it is precise loses all its force if the assumptions on which it is based are slightly changed,whereas an argument that is convincing though imprecise may well be stable under small perturbations (n.烦乱,扰乱)of its underlying assumptions. (5+)    
 
@@ -208,7 +207,7 @@
 * 难句类型:复杂修饰,插入语 
 * 解释:句子的结构繁杂.句子的主语令人吃惊地长,在最后一个逗号后的led以前,全是主语！其实句子的主干简单,就是the fact led to a de-emphasis of the role of grazers.但是本句的主语the fact后面的修饰成分长得吓人,先是个定语从句；定语从句中又套了一个定语从句.然后逗号后面的a practice引导的部分是前面的主语的同位语兼任插入语,practice后面的修饰它的一大堆东西又是定语从句套着定语从句.本句是典型的层层修饰结构. 
 
-### 31. Studies by Hargrave and Geen estimated natural community grazing rates by measuring feeding rates of individual zooplankton species in the laboratory and then computing community grazing rates for field conditions　using the known population density of grazers.(5)
+## 31. Studies by Hargrave and Geen estimated natural community grazing rates by measuring feeding rates of individual zooplankton species in the laboratory and then computing community grazing rates for field conditions　using the known population density of grazers.(5)
 
 * 译文:由哈格雷夫（Hargrave）和吉恩（Geen）所进行的研究,对自然条件下的群落捕食速率进行了估计,其手段是通过测量出实验室内单独的浮游动物种类的捕食速率,然后利用已知的食草动物种群密度,计算出实地状况下的群落捕食速率.
 * 难句类型：复杂修饰.
@@ -217,31 +216,31 @@
   * By以前结构无需解释,by以后有两个作介词宾语短语的动名词结构,measuring和后面表示并列和顺接的and then之后的computing,说的是计算方法；前一个measuring说的是先算出实验室中浮游动物品种的单位捕食速率,后面的computing前其实省略了一个by,而且在这个动名词结构中还包括一个分词结构using the known population density of grazers,用已知的捕食者的种群密度计算出其野外的群体捕食速率.整个的by以后的计算过程简单了就是：实验室单位速率×野外密度＝野外群体速率
   * 另外本句中的词汇也颇有迷惑性;虽然没有太难的单词,但是很多单词都是同义词和反义词,容易让人读混;(斜线分隔同义词,冒号分隔反义词)estimate/measure/compute; feeding rates/grazing rates; zooplankton/grazers;natural/field; laboratory community; individual
 
-### 32. In the periods of peak zooplankton abundance, that is, in the late spring and in the summer, Haney recorded maximum daily community grazing rates, for nutrient-poor lakes and bog lakes, respectively(分别地), of 6.6 percent and 114 percent of daily phytoplankton production. (3+)
+## 32. In the periods of peak zooplankton abundance, that is, in the late spring and in the summer, Haney recorded maximum daily community grazing rates, for nutrient-poor lakes and bog lakes, respectively(分别地), of 6.6 percent and 114 percent of daily phytoplankton production. (3+)
 
 * 译文:在浮游动物数量激增的高峰期,亦即在春季后期以及夏季,哈尼记录了最大程度上的每日群落食草比率,对于营养物不充足的湖和沼泽湖而言,分别为每日浮游植物繁殖量的6.6%和114%.
 * 难句类型:插入语.
 * 解释:句中有两组插入语,每组两个插入语,尤其是第二组,把rate of从中间劈开.不过因为句义尚好理解,所以本句只是有一点别扭,但不算太难.
 
-### 33. The hydrologic cycle, a major topic in this science, is the complete cycle of phenomena through which water passes, beginning as atmospheric water vapor, passing into liquid and solid form as precipitation, thence(那里) along and into the ground surface, and finally again returning to the form of atmospheric water vapor by means of evaporation and transpiration. (4) 
+## 33. The hydrologic cycle, a major topic in this science, is the complete cycle of phenomena through which water passes, beginning as atmospheric water vapor, passing into liquid and solid form as precipitation, thence(那里) along and into the ground surface, and finally again returning to the form of atmospheric water vapor by means of evaporation and transpiration. (4) 
 
 * 译文:水文循环(hydrologic cycle),作为该学科中的一个主要课题,指的是水所经过的诸现象的整个循环过程,开始时是作为大气中的水蒸气,转而作为雨、雪、露、雹一类的降水量经过液体和固体形态,由此而沿着地层表面分布或进入地层表面,最终通过蒸发和散发作用再度回复到大气水蒸气的形态.
 * 难句类型:复杂修饰、插入语、省略
 * 解释:beginning开始的一系列分词都是修饰主语The hydrologic cycle的,分别是beginning/passing/passing/returning.值得注意的是,thence along and into the ground surface 是thence passing along and entering into the ground surface的省略形式,但是看上去意思却很清楚.类似这样的省略,是出题者合理地利用了省略来达到改编学术论文时压缩文章篇幅的目的.
 
-### 34. Only when a system possesses natural or artificial boundaries that associate the water within it with the hydrologic cycle may the entire system properly be termed hydrogeologic. (4)
+## 34. Only when a system possesses natural or artificial boundaries that associate the water within it with the hydrologic cycle may the entire system properly be termed hydrogeologic. (4)
 
 * 译文:只有当一个系统拥有自然的或人工形成的边界来把边界中的水与水文循环联系起来的时候,才有可能把整个的系统恰当的成为与水文地质学有关.
 * 难句类型:复杂修饰,倒装
 * 解释:only放在句首时,主句的情态动词may倒装,这是我们高中就已经学过的东西.然而句首的only与倒装的may距离如此之远,这在以前却没有见过,所以读上去让人不习惯.另外一个难点在于,前面的由when所引导的时间状语从句中,宾语boundaries后面跟了一个定语从句,that associate the water within it with the hydrologic cycle,而且从句中的associate with又被water within it所分开,读者还要分神去考虑it所指的是什么,所以读到后面倒装的may的时候,难免不知所云.
 
-### 35. The historian Frederick J. Turner wrote in the 1890’s that the agrarian(农业) discontent that had been developing steadily in the United States since about 1870 had been precipitated(沉淀) by the closing of the internal frontier——that is, the depletion of available new land needed for further expansion of the American farming system. (4) 
+## 35. The historian Frederick J. Turner wrote in the 1890’s that the agrarian(农业) discontent that had been developing steadily in the United States since about 1870 had been precipitated(沉淀) by the closing of the internal frontier——that is, the depletion of available new land needed for further expansion of the American farming system. (4) 
 
 * 译文:史学家弗雷德里克.杰.特纳(Frederick J.Turner)于十九世纪九十年代著述道,美国约自18世纪70年代以来一直在持续不断发展的农民不满,由于国内边远地区(internal frontier)的封闭而更趋加剧——亦即是说,美国农业系统进一步扩展所必需的可资利用的新土地几近耗竭.  
 * 难句类型:复杂修饰
 * 解释:典型的句子套句子.主句是F.J.T. wrote that,宾语从句中主干是the agrarian discontent had been precipitated by the closing of the internal frontier,在从句的主语the agrarian discontent后面又来了一个定语从句.
 
-### 36.  In the early 1950’s, historians who studied preindustrial Europe (which we may define here as Europe in the period from roughly 1300 to 1800)began, for the first time in large numbers, to  investigate more of the preindustrial European population than the 2 or 3 percent who comprised the political and social elite(精英): the kings, generals, judges, nobles, bishops(主教), and local magnates(富豪,权贵) who had hitherto (迄今)usually filled history books. (4) 
+## 36.  In the early 1950’s, historians who studied preindustrial Europe (which we may define here as Europe in the period from roughly 1300 to 1800)began, for the first time in large numbers, to  investigate more of the preindustrial European population than the 2 or 3 percent who comprised the political and social elite(精英): the kings, generals, judges, nobles, bishops(主教), and local magnates(富豪,权贵) who had hitherto (迄今)usually filled history books. (4) 
 
 * 译文:二十世纪五十年代早期,研究前工业化时代欧洲(此处我们可将其界定为约自1300年至1800年这一时期的欧洲)的史学家,首次以众多的人数(杨鹏的书中:第一次以大量的数据),开始调查前工业化时代欧洲人口中的大多数,而非那些构成了政治与社会精英阶层的百分之二或三的人口,即国王,将军,法官,贵族,主教,以及地方上的达官显贵,而正是这部分人一直到那时为止普遍充斥于史学著作.
 * 难句类型:复杂修饰,插入语
@@ -249,26 +248,110 @@
 * * 句子中有两个插入语,一个是跟在preindustrial Europe之后的which we may define here as Europe in the period from roughly 1300 to 1800,这个插入语的直接作用是解释前面的preindustrial Europe的年代,而起到的客观作用则是把主句中的主语和谓语分割得很远;第二个插入语是在began, for the first time in large numbers, to investigate中间,把一个好好的began to斩为两段.
   * 这句话另外一个难以理解的地方是more of the preindustrial European population than the 2 or 3 percent,表示的是在工业化以前的欧洲人口中超过了那2%到3%的人,亦即占97%到98%的人民群众.
 
-### 37.Historians such as Le Roy Ladurie have used the documents to extract case histories(暗史), which have illuminated the attitudes of different social groups (these attitudes include, but are not confined(限制) to, attitudes toward crime and the law)and have revealed how the authorities administered justice. (3+) 
+## 37.Historians such as Le Roy Ladurie have used the documents to extract case histories(暗史), which have illuminated the attitudes of different social groups (these attitudes include, but are not confined(限制) to, attitudes toward crime and the law)and have revealed how the authorities administered justice. (3+) 
 
 * 译文:像勒罗伊.拉迪里(Le Roy Ladurie)一类的史学家利用这些文献史料从中挖掘出某些个案史(case history)来,阐明了不同社会群体的态度(这些态度包括,但并非局限于,对犯罪和法律的态度),并揭示出当局是如何执行审判的.
 * 难句类型:复杂修饰,插入语
 * 解释:逗号以后的内容都是修饰逗号以前的case history的.在which引导的非限定性定语从句中有一个插入语(these attitudes include, but are not confined to, attitudes toward crime and the law),我们可以看到这个插入语中又套了一个插入语but not confined to.
 
-### 38.It can be inferred from the passage that a historian who wished to compare crime rates per thousand in a European city in one decade of the fifteenth century with crime rates in another decade of that century would probably be most aided by better information about which of the following? (5)  
+## 38.It can be inferred from the passage that a historian who wished to compare crime rates per thousand in a European city in one decade of the fifteenth century with crime rates in another decade of that century would probably be most aided by better information about which of the following? (5)  
 
 * 译文:从文章中可以推断出来,一个希望比较十五世纪以前一个十年的某个欧洲城市中的每千人的犯罪率与另外一个十年中的犯罪率的历史学家将会被以下那种信息的提高所最好的帮助?
 * 难句类型:复杂修饰
 * 解释:句首的it是形式主语,其具体内容是从that开始到句子结束的全部内容.That从句中,主语a historian之后修饰它的超长的定语从句是这个句子难以读懂的原因.Compare crime rates with crime rates中间被修饰第一个crime rates的两个修饰成分per thousand in a European city in one decade of the fifteenth century分隔得很远.在with之后的第二个crime rates后面,省略了与前面重复的per thousand in a European city.
 
-### 39. My point is that its central consciousness—its profound understanding of class and gender as shaping influences on people’s lives—owes much to that earlier literary heritage, a heritage that, in general, has not been sufficiently valued by most contemporary literary critics. (4)
+## 39. My point is that its central consciousness—its profound understanding of class and gender as shaping influences on people’s lives—owes much to that earlier literary heritage, a heritage that, in general, has not been sufficiently valued by most contemporary literary critics. (4)
 
 * 译文:我的论点是,其作品的中心意识——它将阶级和性别作为人们生活的决定性影响而作出的深邃理解——在很大程度上借鉴了那个早期的文学遗产,而这一遗产就总体而言还尚未获得大多数当代文学评论家的足够重视.
 * 难句类型:复杂修饰,插入语
 * 解释:宾语从句中的主语和谓语被长插入语分开,造成阅读障碍.插入语中有一个固定搭配understanding of A as B,是把A理解成B的意思.不过本句中as的宾语不容易理解:shaping influences on people’s lives可以理解成”形成了对人们生活的影响”也可以理解成”对人们生活的塑造性(决定性)影响”.当然后面的理解是正确的,然而在阅读现场想要在瞬间做出正确判断,还有赖于考生的阅读理解力和词汇功底的深浅.插入语后面还有一个固定搭配:A owes much to B,指前者有很多东西是来自于后者,得益于后者的.
 
-### 40. Even the requirement that biomaterials processed from these materials be nontoxic(无毒的) to host tissue can be met by techniques derived from studying the reactions of tissue cultures to biomaterials or from short-term implants(植入物). (5) 
+## 40. Even the requirement that biomaterials processed from these materials be nontoxic(无毒的) to host tissue can be met by techniques derived from studying the reactions of tissue cultures to biomaterials or from short-term implants(植入物). (5) 
 
 * 译文:即使是这样的要求,即从这些材料中加工出来的生物材料应该对受移植者的组织无害,也能够通过从研究组织培养对生物材料的反应而来的,或从研究短期移植而来的技术来满足.
 * 难句类型:复杂修饰,省略,专有名词,固定搭配
 * 解释:主语the requirement后面带着一个长长的修饰主语的同位语;由于requirement的同位语中要求使用虚拟语气,所以其中的系动词成了原型(should be省略了should).如此之长的修饰成分过后,谓语can be met与主语的关系已经很难理清了.从by开始的状语结构更为复杂;修饰techniques的后置的定语derived from studying the reactions of tissue cultures to biomaterials or derived from studying short-term implants实际上是由or所连接的两个固定搭配the reactions of tissue cultures to biomaterials;第二个derive from中还套了另外一个固定搭配the reactions of tissue cultures to biomaterials;第二个derive from则干脆把derive给省略了.此外,本句的专有名词奇多,这使得阅读的难度非常高.
+
+## 41. But achieving necessary matches in physical properties across interfaces between living and  nonliving matter requires knowledge of which molecules control the bonding of cells to each other—an area that we have not yet explored thoroughly. (4)
+
+* 译文:但是,要想沿着原生和非原生物质之间的界面获取生理特性的必要匹配,需要某种知识,即什么样的分子控制着细胞彼此间的结合——而对这一领域,我们尚未进行充分的探索.
+* 难句类型:复杂修饰
+* 解释:本句这样的复杂修饰和插入语的作用差不多;主语achieving necessary matches之后的修饰成分in physical properties across interfaces between living and nonliving matter把主语和谓语requires分开.值得注意的是修饰宾主的of which molecules 中的which在此不是定语从句的引导词,而是一个形容词,意思是哪个.
+
+[tag]
+
+## 42. Islamic law is a phenomenon so different from all other forms of law—not with standing,of course, a considerable and inevitable number of coincidences with one or the other of them as far as subject matter and positive enactments(制定) are concerned—that its study is indispensable(不是可有可无的) in order to appreciate adequately the full range of possible legal phenomena. (5)
+
+* 译文:伊斯兰法是一种如此不同于所有其它法律形式的现象——毋庸置疑,尽管就其主要内容和有积极意义的法规而言,与其它法律形式中的这种或那种形式存在着相当数量的且不可避免的巧合相似之处——以致于对它进行研究便显得不可或缺,以便充分理解有可能存在的法律现象的全部范围
+
+* 难句类型:复杂修饰,插入语,抽象词
+
+* 解释:这是一个被GRE考生尊称为No.题三大难文章之一的伊斯兰法中的臭名昭著的句子.本句插入语前后都不难,关键是如何对待这段插入语.
+
+  首先,插入语很长,在原文中有四行.笔者在前面不只一次提醒读者,三行的插入语必须跳过,看懂前后的内容再回头来看插入语.插入语难懂的第一个原因是其中混有大量的抽象词和法律术语;还有一个重要原因,那就是它其实不是一个完整的句子.把插入语中所有的修饰成分扒光,只剩下一个单词: coincidences, 而主语和谓语it has则被作者省略.
+
+  不管从哪个角度上来看,这句话中的那个插入语都极像是ETS布下的一个陷阱:首先,插入语的内容对理解文章毫无作用;其次,考试中对插入语也出题;第三,其实这句话中的插入语根本不必读.也可以根据插入语前后的内容用合理化原则的取非读法猜出其意思.插入语前后的内容是伊斯兰法与其他法律不同,插入部分以not with standing开关,又有of course,可见插入部分一定是让步证据,因此可以对前后的内容取非,猜出插入部分一定是在说伊斯兰法与其他法律有相同之处.
+
+## 43. (Both Jewish law and canon law are more uniform than Islamic law) Though historically there is a discernible(明显的) break between Jewish law of the sovereign(主权) state of ancient Israel and of the Diaspora (the dispersion(分散) of Jewish people after the conquest of Israel), the spirit of the legal matter in later parts of the Old Testament is very close to that of the Talmud, one of the primary codifications(编纂) of Jewish law in the Diaspora. (5)
+
+* 译文:尽管从历史角度来看,在古代以色列作为独立主权国家的犹太教法与大流散时期(Diaspora,即以色列被征服后古代犹太人被巴比伦人逐出故土)的犹太教法之间存在着一个明晰可辨的断裂,然则,《旧约全书》(Old
+  Testament)后半部分中法律内容的精神与《犹太教法典》(Talmud)极为一脉相承,而所谓的《犹太教法典》,是指大流散时期犹太教法的主要典籍辑录之一
+* 难句类型:复杂修饰,插入语,省略,专有名词
+* 解释:
+  * 本句与上一句同来自于同一篇文章,本文的主题是伊斯兰法,但作者反复用犹太法来吓唬读者,同样ETS也未就此句话出题.
+  * 这句话难读是因为两个原因:第一,作者在between Jewishlaw of the sovereign state of ancient Israel and of the Diaspora一句中的and之后省略了Jewish law,使人看到of the Diaspora ancient Israel and of the Diaspora一句中的and之后省略了Jewish law,使人看到of the Diaspora时搞不清楚在什么与什么之间;第二个难懂的原因,是文中出现了大量的专有名词,法律术语和历史背景.其实读者除了Israel 和Jewish两个单词有必要也有可能认识之外,其他单词既不需要了解也无法了解,像什么Diaspora(大流散时期),Old Testament(旧约全书),Talmud(犹太教法典)等奇怪名词,在非宗教国家的考生的大脑中,一点概念都没有,更不要说其英语的表达了.那么ETS的出题者在阅读文章中搞出这种东西来,不是有意违背公平出题原则之嫌了吗?
+  * 其实出题者也并没有要求读者把这些内容搞清,只需知道前面那句话是一个判断句,说犹太法和伊斯兰法一致,后面这句话是对上面一句话的解释,因此肯定也在说它一致.再看第二句话的结构,上来就是一个用though表示的让步语气,我们可以看出在一个break between,那么逗号后就应该是省略了but的转折语气,该说没有break between,果然我们看到了very close to 的字样.我们也知道,既有让步又有转折时,作者强调转折之后的内容.所以这句话仍是在说犹太法一致.
+
+
+
+## 44. Islam, on the other hand, represented a radical breakaway from the Arab paganism that preceded it; Islamic law is the result of an examination, from a religious angle,(examination)of legal subject matter that was far from uniform, comprising as it did the various components of the laws of pre-Islamic Arabia and numerous legal elements taken over from the non-Arab peoples of the conquered territories. (4)
+
+* 译文:另一方面,伊斯兰教则代表着与此前存在的阿拉伯异教(Arab paganism)的一种根本上的决裂;伊斯兰法是从宗教的角度,对各种杂乱无章,绝无共同点的法律内容进行考察所致的结果,而这些法律内容实际上是由前伊斯兰阿拉伯国家(Pre-Islamic Arabia)法律的不尽相同的组成部分以及由从被征服的土地上非阿拉伯民族借鉴过来的无数法律因素所构成. (as it did )实际上是一句插入语
+* 难句类型:复杂修饰,插入语
+* 解释:这句话是接着上面的那句话写下来的,是在说伊斯兰法的不一致.句中有三个插入语,都起到了一定的干扰作用.第一个是on the other hand,隔开了主语和谓语.第二个是from a religious angle,分开了examination of ,第三个as it did, 根本就是句废话,分断了动词comprise 和动词的宾语the various components
+
+## 45.One such novel idea is that (idea) of inserting into the chromosomes of plants discrete genes that are not a part of the plants’ natural constitution: specifically, the idea of inserting into non-leguminous plants the genes, if they can be identified and isolated, that fit the leguminous plants to be hosts for nitrogen-fixing bacteria. Hence,(there is )  the intensified research on legumes. (5),
+
+* 译文:这其中的一个新颖思想就是,在植物的染色体(chromosome)内注入并非是该植物自然构造一个部分的那些不相关联的因基:具体而言,这一思想是,在非豆科植物内注入这样一些基因,倘若这些基因可被辨识出来并被分离开来,而这些基因业已使豆科植物宜于充当那些具备固氮作用的细菌的寄主.由此,对豆科植物的研究日趋深入
+* 难句类型:复杂修饰,插入语,倒装,省略
+* 解释:
+  * 本句的难度以倒装为主,复杂为辅;然而二者相互借力,难度更大,而且本句中有两个省略,就更令读者头痛.
+  * 句子一开始的One such novel idea is that of 之中的that of, 是that idea of 的省略形式.此外容易理解,后面开始变难.Inserting into the chromosomes ofplants discrete genes(that are not a part of the plants' natural constitution )看上去不舒服的原因,是作者在此用了一个倒装;正常语序应该是:insertingdiscrete genes(that are not a part of the plants' natural constitution) intothe chromosomes of plants, 即把非此植物的genes插入到该植物中.之所以倒装,是因为discretegenes加上复杂修饰的成分以后太长之故.同样,后面的the idea of inserting into non-leguminous plants the genes, if theycan be identified and isolated, that fit the leguminous plants to be hosts fornitrogen-fixing bacteria一句,正常的语序也是the idea of inserting the genes, if they can be identified andisolated, that fit the leguminous plants to be hosts for nitro-fixing bacteriainto non-leguminous plants,即把便利豆科植物成为固氮菌的寄主的基因(如果它们能够被找到并分离出来的话)插入到非豆科植物的基因中去.这一回.Genes之后不但有定语从句的复杂修饰,而且在genes和that从句之间还有一个不短的插入语,增加了阅读难度.
+  * 最后的一句话,Hence, the intensified research on legumes, 其实也不是一句话,只是一个词:research.作者省略了there is ,其实引处即便看不清语法结构,作者的意思还是可以懂的.因此,笔者在前面强调的’如果可以看懂意思,不必去分析语法’,在实战的应用中有其意义;GRE和GMAT中很多表达其实不严格遵守语法,或者有考生不懂的语法,读者处心积虑地研究它们,不但没有实战意义,而且还令读者徒增烦恼.
+  * 本句是GRE和GMAT考试中集各种语言现象之大成者,包括了几乎所有的难句类型,希望读者一定把这句话读熟;有心者最好能把它背熟,一定对提高你的阅读能力有好处.
+
+## 46. It is one of nature’s great ironies that the availability of nitrogen in the soil frequently sets an upper limit on plant growth even though the plants’ leaves are bathed in a sea of nitrogen gas. (3+)
+
+* 译文:下述情形真可谓是自然界的一个莫大讽刺:土壤中所能获得的氮肥量往往对植物的生长构成了一个上限,虽然植物的叶子被沐浴在一片氮气的海洋中. 
+* 难句类型:复杂修饰
+* 解释:It是形式主语,其真正的内容是that之后的由even though连接的两个句子.其实本句的真正难度倒不在于句子的结构,而是对于其意思的理解:尤其是文科同学,可能缺乏必要的背景知识,就更不容易读懂.句中的set an upper limit on plant growth直译为”给植物的生成设立一个上限”,其真正的意思是”限制了植物的生长”;因此the availability of nitrogen in the soil frequently sets an upper limit on plant growth之中的availability一定指的是氮的供给之少.整句话的意思是,土壤中的氮植物能够利用,却太少;而空气中虽有大量的氮,植物却不能利用,这岂不是自然界开的一个大玩笑.
+
+## 47. Unless they succeed, the yield gains of the Green Revolution will be largely lost even if the genes in legumes that equip those  plants to enter into a symbiosis with nitrogen fixers are identified and isolated, and even if the transfer of those gene complexes, once they are found,becomes possible. (4)
+
+* 译文:除非他们能取得成功,不然的话,绿色革命的产量收益将在很大程度上损失殆尽,即使豆科植物中使这些植物有条件进入到与固氮细菌共生关系的基因可被辨识出来和分离开来的话,且即使这些基因综合体(gene complex),一旦被发现之后,其移植得以成为可能的话.
+* 难句类型:复杂修饰,插入语
+* 解释:主句比较简单,而后面跟着的由and连接的两个表示让步的条件状语从句就相对复杂,第一个从句是用一个修饰主语的定语从句that equip those plants to enter into a symbiosis with nitrogen fixers把主谓隔开;第二个从句则运用了插入语once they are found把主谓隔开
+
+## 48. Its subject (to use Maynard Mack’s categories ) is "life-as-spectacle," for readers, diverted by its various incidents, observe its hero Odysseus primarily from without; the tragic Iliad, however, presents "life-as-experience" :readers are asked to identify with the mind of  Achilles, whose motivations render him a not particularly likable hero. (5)
+
+* 译文:其主题〔若借鉴梅纳德.迈克(Maynard Mack)的两个分类范畴的话〕是”人生作为外部景象”,因为读者的注意力被作品那形形色色的事件所分散,主要是从外部来观察其主人公奥德修斯(Odyssus)的;然而,富于悲剧色彩的《伊利亚特》所表现的则是”人生作为内心体验”:读者被要求与阿基琉斯(Achilles)的心灵产生共鸣,而其行为动机却致使他变作一个并非特别惹人喜爱的主人公. (从分号后的语句推理出前面的意思) 注:hero:主人公;without:外部;likable:有吸引力的
+* 难句类型;复杂修饰,插入语,抽象词,熟词僻义
+* 解释:
+* * 本句中尽管也存在一些复杂修饰和插入的内容,但是本句话之所以难懂,与其说是因为这些东西的影响,倒不如说是因为用词的抽象和语义的难以理解.作为一篇文学评论型的文章,文章中充斥着一些很抽象的词汇;本句话中就有subject/category/spectacle/divert/incident/hero/primarily/without/present/identify/motivation/particularly/likable等.背过这些单词的中文释义,并不意味着在阅读中能够清楚地理解其真正含义.对于抽象词的训练方法,请参见附录中＜阅读抽象词提速法＞
+  * 这里仅解释几个对于这句话最重要的单词: 
+    * hero:在此不是指英雄,在文学评论型的文章当中,此单词的意思是主人公.
+    * Without:在此处是一个熟词僻义,意思是外部,等于outside.
+    * Likable:不可望文生义,它不是像什么东西的意思,而是有吸引力的意思,其同义词有pleasant或attractive.
+  * 本句中,对于理解全句起到最大影响的,就是能否正确理解without这个单词,然而问题在于,如果不认识without的熟词僻义,是否可用合理化原则根据分号后的那句话推理出其意思?根据紧跟着分别的however,我们可以推断出分号前后的两句话所说的内容截然相反,因此可以从I戏剧的描述中推出,without的意思应该是不去认同其主人公的内心世界.
+
+## 49. Most striking among the many asymmetries evident in an adult flatfish is eye placement: before maturity one eye migrates, so that in an adult flatfish both eyes are on the same side of the head. (3+)
+
+* 译文:在一条成年比目鱼身上显著存在的诸多不对称(asymmetry)特征中,最为吸人注目的是眼睛的摆位:在成年之前,一只眼睛发生移动,因此在成年比目鱼身上,两只眼睛均位于头部的同一侧面
+* 难句类型:倒装,省略
+* 解释:本句的倒装本质上与我们早就的一种倒装结构是一样的,即形容词放在句首时,主语和谓语倒装.本句的主干的正常语序应该是:Eye placement is most striking;倒装后成了Most striking is eye placement.但是这种倒装在GRE考试中出现,又有了新的特色,被提到句首的Most striking被长长的状语among the many asymmetries evident in an adult flatfish与后面的主语和表语分开,造成阅读困难
+
+## 50.A critique of Handlin’s interpretation of why legal slavery did not appear until the 1660’s suggests that assumptions about the relation between slavery and racial prejudice should be reexamined, and that explanations for the different treatment of Black slaves in North and South America should be expanded.(4)
+
+* 译文:一个对于H的关于为何法律上的奴隶制没有在17世纪60年代以前出现的原因所作解释的批评显示,关于奴隶制和种族偏见之间的关系的假说应当重新检查,而且显示出,对于在北美和南美之间的对黑怒的不同处理的解释应当被扩展.
+* 难句类型:难句类型:复杂修饰,省略
+* 解释:句子的主干清楚:A critique suggests that…, and suggests that….但是因为句子的结构复杂,修饰成分多,再加上后面的and 之后的suggests被省略,所以句子的结构很难被读出来的. 本句的suggest不再是暗示,而是显示,说明的意思,其同义词有point,indicate,imply.本句的两个suggest之后的宾语从句都根据语法要求使用了虚拟语气.
