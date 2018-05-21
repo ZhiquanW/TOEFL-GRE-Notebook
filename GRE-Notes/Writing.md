@@ -8,6 +8,30 @@ idea 准确 正确
 
 ## Issue
 
+* 类似托福独立写作 30min
+
+* 篇幅无限制,一般400~500
+
+* 从论证充分性考虑
+
+* 陈述逻辑方式
+
+* 无中立选项
+
+* ​
+
+* ###指令
+
+* * In what ways the statement might or might out go true?
+  * Which view more closely aligns with your position?
+  * Address the most complelling reasons and /or examples that could be used to challenge your position - 让步 预设反面观点,在反驳
+  * ​
+
+### 15
+
+* cultivate an employable nation / workforce  (social/individual)
+* realize spirit 
+
 ## Arguments
 
 * specific evidence

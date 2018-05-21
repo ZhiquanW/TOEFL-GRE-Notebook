@@ -355,3 +355,70 @@
 * 译文:一个对于H的关于为何法律上的奴隶制没有在17世纪60年代以前出现的原因所作解释的批评显示,关于奴隶制和种族偏见之间的关系的假说应当重新检查,而且显示出,对于在北美和南美之间的对黑怒的不同处理的解释应当被扩展.
 * 难句类型:难句类型:复杂修饰,省略
 * 解释:句子的主干清楚:A critique suggests that…, and suggests that….但是因为句子的结构复杂,修饰成分多,再加上后面的and 之后的suggests被省略,所以句子的结构很难被读出来的. 本句的suggest不再是暗示,而是显示,说明的意思,其同义词有point,indicate,imply.本句的两个suggest之后的宾语从句都根据语法要求使用了虚拟语气.
+
+## 51.The best evidence for the layered-mantle thesis is the well-established fact that volcanic rocks found on oceanic islands, islands believed to result from mantle plumes arising from the lower mantle, are composed of material fundamentally different from that of the mid-ocean ridge system, whose source, most geologists contend, is the upper mantle. (5) 
+
+* 译文:对于地幔分层论点来说,最好的证据是这样一个确认的事实,即在那些海洋岛屿——这些岛屿据信是源于由下层地幔升上来的地幔柱状溶岩流(mantle plume)——上发现的火山岩石,是由与海洋中部山脊系统的物质根本不同的物质构成的,而这一海洋中部山脊系统的成因,大多数地质学家论辩道,为上部地幔. 
+
+* 难句类型:复杂修饰,插入语 
+
+* 解释:本句前面的主干并不算难,即the evidence is the fact that,难就难在fact之后说明fact 的同位语从句.此从句中既有大段插入语,又有从句,较为难读.同位语从句的主语是volcanic rocks,主语后面的found on oceanic islands是分词修饰volcanic rocks的;islands后面又有一个说明islands的同位语islands believed to result from mantle plumes arising from the lower mantle,此同位语实际起到一个分隔主谓的同位语的作用.其后是谓语动词are composed/of fundamentally different from that of the midocean ridge system, whose source, most geologists contend, is the upper mantle.
+
+  句中有一些专有词汇.如果抛开文章不说,单看这一个句子,则句首的layered mantle thesis就难以理解.但是如果读者能够读懂句子的大致意思,看到layered mantle thesis 最有力证据就是其材料fundamentally different from… the upper mantle,这应该可以推测出,既然不同于上层地幔,则这个理论一定是在说地幔有不同的层面.
+
+## 52. Some geologists, however, on the basis of observations concerning mantle xenoliths, argue that the mantle is not layered, but that heterogeneity(异质性) is created by fluids rich in "incompatible elements" (elements tending toward liquid rather than solid state)percolating upward and transforming portions of the upper mantle irregularly, according to the vagaries of the fluids’ pathways. (4+)
+
+* 译文:但是,某些地质学家,以对地幔捕虏岩体(xenolith)所作的观察为依据,指出地幔并非是分层排列的,相反,地幔的异质性是由那些富含”不相容成分”的流质构成的,这些成分趋向于流体而非固体的状态,自下而上渗透扩散,并依照这些流质流向的任意性,不规则地将上部地幔的某些部分予以改变.
+* 难句类型:复杂修饰,插入语
+* 解释:本句的主句中有一个长插入语however, on the basis of observations concerning mantle xenoliths,割裂了主谓,但句子的主要难度还是在that引导的宾语从句中,从句中有由but 所连接的两个句子,一起延续到句末.首选是rich in incompatible elements修饰fluids;后面又有一个同位语和一个分词结构,都是修饰incompatible elements的,最后还有一个状语来修饰那个分词结构,层层修饰,比较复杂.
+
+## 53.Fallois proposed that Proust had tried to begin a novel in 1908, abandoned it for what was to be a long demonstration of Saint-Beuve’s blindness to the real nature of great writing, found the essay giving rise to personal memories and fictional developments ,and allowed these to take over it a steadily developing novel. (5-)  
+
+* 译文:F认为,P在1908年试图开始写一部小说,又为了写一部批判S-B的 伟大作品的真正本质的视而不见的长篇的证明而放弃了这部小说,其后又发现这一论文又勾起了其个人记忆及小说情节的萌生,使得后者取而代之形成了一部稳定展开的小说.
+* 难句类型:复杂修饰,抽象词
+* 解释:本句来自历来被GRE考生尊称为所有GRE文科文章中难度第一的普鲁斯特的追忆似水年华,这篇文章的难度远远高于现在计算机考试的题目.普鲁斯特是公认的意识流小说的先驱,据笔者推测,本文的原作者必定是研究普鲁斯特的大家,因此其文章必然带有思维的跳跃以及不连贯性,时空颠倒等意识流手法:经过ETS的改编后,虽然可读性略有提高,然积重难返,无法救药,于是堕落成一篇流水帐文章.从本句的结构来看,也可以表现作者的这种叙事风格:本句从that引导的宾语从句开始,实际上是以普鲁斯特的意识流向为线索,以列举的方式描述其动机的变化,从一开始的写别的小说,其英文为Prout had tried to…, abandoned…,found…,and allowed...但是因为abandoned之后的状语for…的结构复杂,用词抽象,所以这个结构不太容易被看出来.Blindness在此不是指真盲,而是指缺乏辨认能力difficult to discern, make out, or discover,视而不见.Give rise to 这个词组的意思是引起,使发生. 
+
+## 54. The very richness and complexity of the meaningful relationships that kept presenting and rearranging themselves on all levels, from abstract intelligence to profound dreamy feelings, made it difficult for Proust to set them out coherently(连贯的). (5)
+
+* 译文:各种有意义的联系在所有的层次上,自抽象的理性至深刻的梦幻般的情感,层出不穷并不断重新组合排列;正是这些有意义的联系的丰富性和复杂性,致使普鲁斯特难于将它们错落有致地安排好
+* 难句类型:复杂修饰,插入语,抽象词
+* 解释:请原谅笔者在此所做中文翻译的艰涩难懂,为了让读者能够更好地理解句子的结构,本书尽量把中文翻译与英文原文的语序相对应,而且尽可能的不用意译.为了达到这个目的,可以说绞尽脑汁,但本句之难懂也全非笔者之故,原文作者使用了大量的抽象词.本句仍然来自于上面说过的这篇关于普鲁斯特的文章.句中的主语是The very richness and complexity,其后的修饰成分长达三行,of the meaningful relationships that kept presenting and rearranging themselves on all levels from abstract intelligence to profound dreamy feelings,其中还夹杂着插入语,有效地分开了主语和谓语.其实本句虽然结构也比较复杂,但是不见得比前面的句子复杂得多,其真正的难点,还在于句子中大量的抽象词的使用.由于笔者在附录中所提到的原因,抽象词可以严重地占据大脑资源,因此带有大量的抽象词的结构复杂的句子就更为难懂,比如本句就是一个很好的例子,复杂修饰与抽象词狼狈为奸,句意另人难以理解.
+
+## 55. But those of who hoped, with Kolb, that Kolb’s newly published complete edition of Proust’s correspondence for 1909 would document the process in greater detail are disappointed. (4)
+
+* 译文:但是我们当中的那些希望(也算上K本人)K新出版的P1909年书信的全集能够更加详细的记录下这一过程的人都大失所望 
+* 难句类型:复杂修饰,插入语
+* 解释:本句中从句套从句,致使主语those of us与谓语的距离很远,而且中间的成分又极多,使得句子很难读懂.修饰主语those of us的定语从句who hoped之中又套了一个宾语从句,宾语从句的主语complete edition又被一前一后的两个定语所修饰,之后才依次是宾语从句的谓语,宾语:主句的系动词,表语.
+
+## 56.Now we must also examine the culture as we Mexican Americans have experienced it, passing from a sovereign(主权的) people to compatriots(同胞) with newly arriving settlers to, finally ,a conquered people – a charter minority on our own land. (5-)  
+
+* 译文:现在我们必须也按照我们墨西哥裔的美国人的经历来审视这个文化,我们的经历是从一个主权的民族变成了新来的定居者的同胞,在最终沦落成为一个被征服的民族——在我们自己的土地上的契约的少数民族.
+*  难句类型:复杂修饰,插入语,固定搭配 
+* 解释:主句中的as we Mexican Americans have experienced it 是examine的状语,说明审视的角度;后面直至句尾的分词结构又是experience的状语,详述了经历的具体过程.就是这个分词有些难懂,因为我们熟知的结构是from…to…没有见过,也没有想到过后面居然还有一个to,因此看到这个套了一个插入语的newly arriving settlers to , finally, a conquered people的时候头脑发生混乱,不明所以,不知所措.这里的to还是与前面的from搭配的,也就是说,原文的结构是from…to…to… 
+
+## 57. It is possible to make specific complementary DNA’s (cDNA’s)that can serve as molecular probes(探针) to seek out the messenger RNA’s (MRNA’s)of the peptide(肽) hormones(激素;荷尔蒙). If brain cells are making the hormones, the cells will contain these MRNA’s. If the products the brain cells make resemble the hormones but are not identical to them, then the CDNA’s should still bind to these MRNA’s, but should not bind as tightly as they would to MRNA’s for the true hormones. (4)
+
+* 科学家可以制造出特异的(specific)互补DNA’s(cDNA’s),以此作为分子探子(molecular probe),探觅出肽激素的信使RNA’s(mRNA’s).如果大脑正在制造肽激素,则细胞就会含有这些信使RNA’s.假若细胞所制造的产品类似于肽激素但并非与这些肽激素全然相同,那么,互补cDNA’s应仍然和这些信使mDNA’s粘结的程度.含有这些mRNA’s的脑细胞然后就可以被分离开来,研究者可对其信使RNA’s进行解码,以确定它们的蛋白质产品究竟是什么,并确定这些蛋白质产品在何种程度上类似于真正的肽激素.
+* 难句类型:易混词
+* 解释:与其他的难句不同的是,心上的英文不止一句.笔者之所以在本句中不设标志和翻译,是因为这三句话从结构和意思上来说并不难.然而很少有人能够真正的一次把这段话读清楚,原因在于两个容易混淆的单词cDNA’s和mRNA’s在文中交替出现,而且相互作用;再加上brain cell和hormones从中捣乱,更难读清楚原文的意思.原文的主要意思如下:可以用cDNA’s来探测mRNA’s.如果脑细胞产生了荷尔蒙,则其中必有mRNA’s意味着可用cDNA探测荷尔蒙.如果脑细胞制造的不是真荷尔蒙,则可以用cDNA’s与其中的mRNA’s附着的情况来确定此荷尔蒙的真假.
+
+## 58. The molecular approach to detecting peptide hormones using cDNA probes should also be much faster than the immunological method because it can take years of tedious purifications to isolate peptide hormones and then develop antiserums to them. (4)
+
+* 难句类型:复杂修饰,易混指代
+* 解释:主语后的修饰成分同样隔开了主语和谓语,但本句的难度主要在because从句中.按照一般的习惯,作为从句主语的it应该指主句的主语,但本句的主句是一个比较结构,A should be faster than B because it…,此处it也可以指B.但是因为这种指代不符合和我们以前所形成的习惯,所以阅读现场不得不边读边根据句意来判断,这就增加了阅读理解的难度.现场阅读时,类似antiserums的这种专有名词不必理会,仅需从词头anti推出这是一个反p荷尔蒙的东西即可.
+
+## 59. Nevertheless, researchers of the Pleistocene epoch have developed all sorts of more or less fanciful model schemes of how they would have arranged the Ice Age had they been in charge of events. (3+) 
+
+* 译文:然而,研究P时代的研究者发展除了各种各样的或多或少有些奇怪思想的模型系统,用来显示如果由他们来决定地质事件的话他们将会如何安排冰川纪.
+
+* 难句类型:复杂修饰,倒装,修辞
+
+* 解释:句末的由how引导的名词性从句中包括了双重的倒装,正常的语序本来是:If they had been in charge of events, they would have arranged the Ice Age in certain model schemes.本句中由于arrange的方式被提前,就造成了arrange的动作执行者也要提前,前面的if they had been 则必须后置;这样一来又造成了if被省略,成为had they been的倒装结构.
+
+  另外,作者为了表达其对于这些研究者的模型的负态度,并炫耀其幽默感,在本句中使用了虚拟语气,并使用了fanciful这个词以表示这些研究的不负责任,异想天开的幼童心理.
+
+## 60. This succession was based primarily on a series of deposits and events not directly related to  glacial and interglacial periods, rather than on the more usual modern method of studying biological remains found in interglacial beds themselves interstratified(置于层间) within glacial deposits. (4)
+
+* 译文:这一序列演替(succession)所依据的,主要是一系列与冰川期和间冰期并不直接相关的地质沉积物和地质事件,而不是依据更为普遍的现代方法,去研究间冰层(interglacial bed)中所发现的生物残留物,而这些间冰层本身又在冰川沉积物发生间层化(interstatified).
+* 难句类型:复杂修饰,省略,易淆指代
+* 解释:句子中的rather than 之后省略了与前面重复的being based,直接加上了介词on. Modern method后面的部分都是修饰method的.其中的remains既可以作动词也可以作名词,此处是名词的用法,biological remains指的是类似于动物化石之类的遗迹.读到这里我们看到了句子的难点,themselves既可以指前面离得很远的modern method(当然,在语法上来讲单复数不一致),也可以指前面离得较远的biological remains,亦可以指紧挨着的interglacial beds,到底是指代哪一个,只有通过理解句意,才能确定在此处指biological remains.
