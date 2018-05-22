@@ -60,3 +60,10 @@ idea 准确 正确
 #### [conclusion]
 
 * In conclusion,there are multiple flaws,questionable assumptions,in the line of reasoning.As a result,Monroe may not be a market that is able to sustain/supply/maintain/supply a Jazz  club that intends to make enormous profits since there are not enough consumers./not a niche market,first because the local popularity of jazz music is in question.
+
+
+
+#
+
+* 听 : Main Topic + 两个分论点 以及对应的例子(现象,结果)
+* ​

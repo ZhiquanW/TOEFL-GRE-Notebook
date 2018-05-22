@@ -422,3 +422,72 @@
 * 译文:这一序列演替(succession)所依据的,主要是一系列与冰川期和间冰期并不直接相关的地质沉积物和地质事件,而不是依据更为普遍的现代方法,去研究间冰层(interglacial bed)中所发现的生物残留物,而这些间冰层本身又在冰川沉积物发生间层化(interstatified).
 * 难句类型:复杂修饰,省略,易淆指代
 * 解释:句子中的rather than 之后省略了与前面重复的being based,直接加上了介词on. Modern method后面的部分都是修饰method的.其中的remains既可以作动词也可以作名词,此处是名词的用法,biological remains指的是类似于动物化石之类的遗迹.读到这里我们看到了句子的难点,themselves既可以指前面离得很远的modern method(当然,在语法上来讲单复数不一致),也可以指前面离得较远的biological remains,亦可以指紧挨着的interglacial beds,到底是指代哪一个,只有通过理解句意,才能确定在此处指biological remains.
+
+## 61. There have been attempts to explain these taboos(禁忌) in terms of inappropriate social relationships either between those who are involved and those who are not simultaneously(同时的) involved in the satisfaction of a bodily need, or between those already satiated(吃饱的) and those who appear to be shamelessly gorging(狼吞虎咽).(5)
+
+* 译文:人们试图对这些禁忌作出解释,所依据的要么是那些正置身于某一身体需要满足的人与那些并置身于某一身体需要之满足的人之间的,要么是那些早已酒足饭饱的人与那些正在不知羞耻地狼吞虎咽失之间的不相称的社会关系
+* 难句类型:复杂修饰,省略
+* 解释:前面的主架构There
+  have been attempts to explain these taboos很简单,从in terms of inappropriate social relationships开始句子变难, relationship后面跟着一个一直延续到句末的长长的修饰成分,其中有两个固定搭配,either…or…和between…and…,不但如此,原文把这两个搭配又套在一起,变成了either
+  between…and…,or between…and…;再加上每一个between…and之后都是those who这样的结构,就愈发令人眼花缭乱了
+
+## 62. Many critics of Family Bronte’s novel Wuthering Heights see its second part as a counterpoint(对比) that comments on, if it does not reverse, the first part, where a "romantic" reading receives more confirmation. (5)
+
+* 译文:研究艾米丽.勃朗特(Emily Bronte)小说《呼啸山庄》(Wuthering Heights)的许多文学评论家,将小说的第二部分视作一种对比物,即使没有将第一部分予以逆转的话,也是在对第一部分做出一种诠释评判,而在小说第一部分中,一种”浪漫的”的读解能获得更为充分的确证
+* 难句类型:复杂修饰,插入语
+* 解释:上面的翻译中为了符合中文习惯不得不把修饰the first part的where引导的定语从句翻译到中括号以外.本句主要难在两个地方,一个是插入语if
+  it does not reverse如何理解,另一个是counterpoint的意思是什么.产生,插入语的位置比较讨厌,把comments on the first part这样一个连贯的说法割成两段,增加了阅读的难度.而且它的意思容易理解错;if既可以理解成如果的意思,也可以理解成即使的意思.如果理解成即使的意思,则上下文的意思则要理解成即使不反对第一部分,也要给予第一部分一个负面的评论.然而此处不能这样理解,因为that之前的counterpoint的意思不是相反,对立,而是指和谐的组成部分的意思.这个词来源于一个音乐术语,指音乐中的对位法,旋律配合,引伸为形容两个不同的东西彼此和谐一致,同义词是harmony.因此文中的if
+  it does not reverse的意思是假如不反对第一部分,则是与第一部分和谐一致的评论的意思.这种情况下,插入语纯属废话.
+
+## 63. Granted that the presence of these elements need not argue(证实) an authorial awareness of novelistic construction comparable(值得比较的) to that of Henry James, their presence does encourage attempts to unify the novel’s heterogeneous(各种各样的) parts. (4+)
+
+* 诚然,这些因素的存在并不能证明作者对小说架构的意识可与亨利.詹姆斯(Henry James)的那种意识相比拟;然则,任何力图将小说所有形形色色的因素统一起来的做法,在某种程度上注定是无法令人信服的. Granted that:大家都统一,当然,表让步,=admitted, of course
+* 难句类型:复杂修饰,抽象词
+* 解释:本句的结构固然复杂,但造成最大的阅读难度的,主要还是对一些抽象词的理解.正面是对一些关键词汇的解释:
+  * Granted that出现在句首,其意思是大家都同意,当然,实际上是一种让步语气,等于admitted, of course.
+  * Need not argue中的argue在此不是表示常用的那个辩论,争论的意思,而是表示意味着或证实的意思,其同义词是maintain或prove.
+  * Comparable的词义有两个,除了读者熟悉的that can be compared之外,还有一个意思是worthy of comparison,其同义词是as good as.本文中用的是后面的那个意思
+
+## 64.  This is not because such an interpretation necessarily stiffens(使坚定) into a thesis(although rigidity in any interpretation of this or of any novel is always a danger),but because Wuthering Heights has recalcitrant(不守规章的,不服从指挥的) elements of undeniable power that, ultimately, resist inclusion in an all-encompassing(包含) interpretation. (5)
+
+* 译文:这倒不是因为这样的一种解释必定会僵化成为一个命题(尽管对这部或任何一部小说的解释中,僵化死板总是一种危险),而是因为《呼啸山庄》拥有一些极难驾御的因素,以其无可辩驳的力度,最终拒绝被囿于一个囊括无遗的解释中
+* 难句类型:复杂修饰,插入语,抽象词
+* 解释:本句的两个插入语虽然有一些干扰性,但是最为主要的难点在于成批出现的抽象词,如interpretation/necessarily/stiffen/thesis/rigidity/recalcitrant/element/undeniable/power/ultimately/resist/inclusion/all-encompassing等.据笔者估测,对于初学GRE或GMAT的学习者而言,在一句话中出现了三个以上的抽象词就会使阅读理解造成障碍,而这句话中出现了十三个这样的单词,读不懂也不足为怪
+
+## 65. The isotopic(同位素的) composition of lead(铅) often varies from one source of common copper ore to another, with variations exceeding the measurement error; and preliminary(预先的) studies indicate  virtually(几乎) uniform is topic(局部的) composition of the lead from a single copper-ore source. (4)
+
+* 译文:铅的同位素构成经常在一种普通铜矿石来源与另一种铜矿石来源之间存在差异,其差异程度超出测量误差;而最初的研究表明,对于来自单独一个铜矿石来源的铅来说,其同位素构成几乎是毫无二致的 
+* 难句类型:复杂修饰,插入语,专业抽象词
+* 解释:本句是一个怪异的现象的典型例子:句子的结构谈不上复杂,所用单词也不难,但是除非读者有理工科的科研(最好是材料科学的科研)背景,否则句子虽然能够得读下来,但是却搞不清句子说的是什么意思.首先,句子中出现的一些词汇虽然也都比较常见,但是在理科文章中出现,就有了专有名词的意味,同时还带有很抽象的学术含义,笔者称之为专业抽象词,如isotopic composition; source; variation; measurement error; preliminary study等.认识这些单词,并不意味着懂得它们在文章的意义和作用.比如说measurement error,大家都可以望文生义地理解成测量错误,测量误差,但是在对文章的阅读中这种字面上的理解是远远不够的.其实此处强调的并不是测量中出现的错误和毛病,而是指那些每次测量都会发生的,永远也无法避免的,在测量值和实际值之间的正常的差异.因此,本句话的真实含义也难以理解.句子只是罗列了一堆事实,而作者真正想说的意思是什么呢?其实variations exceeding the measurement error的言外之意是这些不同variations是真正有意义的不同,而不是试验的误差;那么不同矿源的铜矿的铅同位素成分真的不同,相同的矿源的铅同位素几乎相同,就意味着我们可以通过测量铅同位素的成分来确定铜矿的矿源(挖掘地).
+
+## 66. More probable is bird transport, either externally, by accidental attachment of the seeds to feathers, or internally, by the swallowing(吞下) of fruit and subsequent excretion(排泄) of the seeds.
+
+* 译文:更有可能的是鸟类运输:或者是通过外部途径,即由于种籽偶然粘附在羽毛上;或者是通过内部方式,即由于鸟类吞食果子并随后将种籽排泄出来.
+* 难句类型:复杂修饰,插入语,倒装
+* 解释:句首有一个倒装,正常语序是bird transport is more probable.后面的句子中由于插入部分的频繁出现使句子显得十分凌乱.
+
+## 67.A long-held view of the history of English colonies that became the United States has been that England’s policy toward these colonies before 1763 was dictated(命令) by commercial interests and that a change to a more imperial policy, dominated by expansionist militarist(军国主义的) objectives, generated the tensions that ultimately led to the American Revolution. (4+)  
+
+* 译文:一个对于后来成了美国的英国殖民地的历史的长久以来的观点,认为英国在1763年以前对于这些殖民地的政策被经济利益所支配,而且认为一种向着更大程度帝国制度的政策上的转变——为扩张主义的军事目标所左右——产生了最终导致美国革命的紧张气氛
+* 难句类型:复杂修饰,插入语
+* 解释:主架构简单,可是主语和表语从句都不让人省心.句子的主干其实就是:A long-held view has been that...但是主语A long-held view之后却是修饰它的一个三层的定语:of the history of the English colonies that became the United States.系动词has been之后所接的表语从句其实不止一个,其实原句是用了and来连接两个并列的表语从句,has been that…and has been that….后面的has been照例被省略
+
+## 68. It is not known how rare this resemblance(相似性) is, or whether it is most often seen in inclusions of silicates(硅酸盐) such as garnet(石榴石), whose crystallography(晶体学) is generally somewhat similar to that of diamond;  but when present, the resemblance is regarded as compelling evidence that the diamonds and inclusions are truly cogenetic(同源的). (4) 
+
+* 译文:现在尚不知这种类似稀少到何种地步,也不知道是否它最常见于象石榴石一类的硅酸盐内含物中,而这类物质的晶体结构普遍地在某种程度上类似于金刚石的晶体结构.但一旦存在,这种类似就被视作极有说服力的证据,证明金刚石与内含物确是同源的 
+* 难句类型:复杂修饰,插入语
+* 解释:本句的句子既长,专有名词又多,从句层出不穷,故而难懂.在本句中出现的专有名词中,除了silicates硅酸盐这个单词常常出现于理科文章中,需要记忆之外,其他单词阅读现场简单处理一番既可:inclusions可以猜出是被包含的物质;garnet作首字母提炼叫 只要能从词头推出这个单词与晶体有关即可
+
+## 69. Even the "radical" critiques of this mainstream research model, such as the critique developed in Divided Society, attach the issue of ethnic(种族的) assimilation(同化) too mechanically(机械地) to factors of economic and social mobility and are thus unable to illuminate(说明) the cultural subordination(从属关系) of Puerto Ricans as a colonial minority. (4+) 
+
+* 译文:即使是对这一主流研究模型的”激进”批评,诸如《分裂的社会》(Divided Society)一书中所提出的那种批判,亦将少数民族同化问题过分机构地与经济和社会移动性的因素联系起来,因此无从阐明波多黎各人作为一个殖民地少数民族的文化从属关系. 
+* 难句类型:复杂修饰,插入语,省略,抽象词
+* 解释:
+  * 本句实际上是由and连接的两个句子,阅读的一个难度在于,and之后省略了they(此处指前面的主语the radical critiques,)而are thus able to 又与前面离得太远,使读者难以找到主语.
+  * 另外,句中的固定搭配attach A to B和illuminate C as D当中的A,B,C,全部既长又抽象,理解起来较为困难
+
+## 70 .They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected. (3) 
+
+* 译文:它们被称为”虚粒子”(virtual particle),以便与实粒子(real particle)区分开来,而实粒子则不会以这种方式受到制约,并且其存在可得以测定.
+* 难句类型:复杂修饰,插入语
+* 解释:本句的怪异在于:real particles后面跟着两个定语从句,都是同时修饰real particles的,而且两个从句之间不用逗号隔开,却又加上and连接,令人一眼看上去极不习惯.
