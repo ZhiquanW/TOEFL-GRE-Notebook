@@ -491,3 +491,75 @@
 * 译文:它们被称为”虚粒子”(virtual particle),以便与实粒子(real particle)区分开来,而实粒子则不会以这种方式受到制约,并且其存在可得以测定.
 * 难句类型:复杂修饰,插入语
 * 解释:本句的怪异在于:real particles后面跟着两个定语从句,都是同时修饰real particles的,而且两个从句之间不用逗号隔开,却又加上and连接,令人一眼看上去极不习惯.
+
+## 71. Open acknowledgement of the existence of women’s oppression(压迫) was too radical for the United Stated in the fifties, and Beauvoir’s conclusion , that change in women’s economic condition , though insufficient by itself , “remains the basic factor “ in improving women’s situation , was particularly unacceptable . (4+)
+
+* 译文:公开对妇女压迫的存在的承认对于50年代的美国而言有些过分激进,而且B的结论,即妇女经济状况的变化,经管它本身不是一个充分的因素,但是”仍然是提高妇女地位的根本因素”的观点,尤其无法令人接受.
+* 难句类型:复杂修饰,插入语
+* 解释:本句是由and所连接的两个分句,前一个分句的主语虽然有一些修饰成分,但整体而言还算好读;后面的分句中的修饰成分就比较难读;主语Beauvoir’s conclusion后面被加上了同位语从句that change in…,而且在从句的主语和谓语之间还加了一个插入语;我们好不容易把同位语从句中的成分补齐,后面又看到系表结构was particularly unacceptable的时候,想不起来主语是誰,不禁心中茫然;如果是没有练习过难句的人,也只好黯然神伤.
+
+##72. Other theorists propose that the Moon was ripped(裂开) out of the Earth’s rocky mantle by the Earth’s collision with another large celestial body after much of the Earth’s iron fell to its core 
+
+* 译文:其他的理论家提出,在地球的大部分铁沉入到地核之后,由于地球与另一个庞大的天体发生碰撞,月亮便从地球那石质的地幔中撕裂开来而形成的. Rip:撕开;拨去;在本文是撕开的意思.
+* 难句类型:复杂修饰
+* 解释:这个句子虽然还算短,但结构并不简单,句中共有三介词结构作状语.结构的复杂在本句中给读者带来了真正的阅读困难:月亮,地球,大型天体之间的关系如何?三个事件之间的先后顺序怎样?另外的一个难点在于,在the Moon was ripped out of the Earth’s rocky mantle这段话中,be ripped out of something可以作两种解释.Rip既有撕开的意思,又有剥去的意思,而此处的be ripped out of something很容易被读者理解成被剥夺走某物的意思.实际上,根据对上下文的理解,这里应该理解成从某物中撕裂出来的意思.
+
+## 73.However, recent scholarship has strongly suggested that those aspects of early New England culture that seem to have been most distinctly(独特的) Puritan(清教徒), such as the strong religious orientation and the communal(公共的) impulse, were not even typical of New England as a whole, but were largely confined(限制) to the two colonies of Massachusetts and Connecticut. (4) 
+
+* 译文:然而,进来的学术研究强烈的显示那些看来最为明确的请教徒的早期新英格兰文化的一些方面,比如强烈的宗教导向和团体意识,就整体而言却不是新英格兰的典型特征,而是在很大程度上只局限与马萨诸赛和康涅狄格两个州.
+* 难句类型:复杂修饰,插入语
+* 解释:宾语从句的主语those aspects后面跟着长长的修饰成分of early New England culture that seem to have been most distinctly Puritan.不但如此,主语和表语之间又被长长的插入语such as分开,而且表语也不是一个,而是were not, but were的结构,使得句子十分难读.
+
+## 74. Thus, what in contrast to the Puritan colonies appears to Davis to be peculiarly(特有地,古怪地) Southern — acquisitiveness(占有欲), a strong interest in politics and the law, and a tendency to cultivate metropolitan cultural models — was not only more typically English than the cultural patterns exhibited by Puritan Massachusetts and Connecticut, but also almost certainly characteristic of most other early modern British colonies from Barbados north to Rhode  Island and New Hampshire. (4) 
+
+* 译文:因此,那些与(北方)清教殖民地形成鲜明对比,并在戴维斯教授的心目中显得具有特殊南方色彩的特征——占有欲,对政治和法律的浓厚兴趣,以及培养大都市文化模式的倾向——不仅仅要比清教的马萨诸塞州和康乃涅克州所展现出来的文化模式更具有典型的英国色彩,并且几乎毫无疑问地构成了绝大多数其它早期近代英国殖民地的特征,从巴巴多斯北至罗得岛和新罕布什尔州 bados north
+
+* 难句类型:复杂修饰,插入语
+
+* 解释:这个颇长的句子是由一个what从句做主语,此主语what in contrast to the Puritan colonies appears to Davis to be peculiarly Southern中有又一些插入语的修饰成分,其实主干很简单,就是what appears to be Southern. Southern后的两个破折号之间的内容是主语的同位语,实际起到了一个插入语的作用.一直到句子写了五行之后,谓语动词was才姗然出现,难怪读者看得不舒服.But also之后,省略了与前面一样的was.
+
+  笔者在此再次提醒读者,笔者之所以对此类句子做语法分析,是为了让读者熟悉这些语法结构,而不是希望读者在现场阅读进也去分析其语法,正确的方法是通过熟读本书中的种种难句,使大脑习惯这些语言结构;实战的现场阅读把注意力集中在句子的意思上,比如这句话,只要读出”与D的观念相反,南方的州与清教的殖民地一样,都是有着英国风格的”意思即可.
+
+## 75. Portrayals of the folk(人们,民族) of Mecklenburg County, North Carolina, whom he remembers from early childhood, of the jazz musicians and tenement(房屋) roofs of his Harlem days, of Pittsburgh steelworkers, and his reconstruction of classical Greek myths in the guise of the ancient Black kingdom of Benin, attest(证明) to this.(5)
+
+* 译文:一些描述,关于他从小就记得的北卡罗来纳州的M县的人民,关于他在H的日子里的爵士乐手和公寓的房顶,关于匹兹堡的钢铁工人的描述和他的假借古代B国对古希腊神话得重塑,都表现了这一点.In the guise of :假借,在…的幌子下,假装 
+* 难句类型:复杂修饰
+* 解释:本句主语之长,主语的长度与谓语长度的比例之大,是极为罕见的,在最后的三个单词attest to this之前的所有内容,全是主语,主语和谓语的比例达到了46比3.不熟悉GRE和GMAT句式的人是很难把这句读懂的.句子的主语实际上是一个由and连接的并列结构,而真正的主语只有两个:Portrayals 和his reconstruction. Portrayals后面长度惊人的修饰成分以三个大列举的方式说出了其描述的对象,其中第一个列举中又包含了一个定语从句,修饰前面的folk(人,人们,人民,民族),第二个主语的修饰成分中使用了抽象词组:in the guise of,相当于一个介词,其意思是假借,在….的幌子下,假装.
+
+##76. A very specialized feeding adaptation in zooplankton is that of the tadpolelike(蝌蚪性的) appendicularian(海鞘纲动物) who lives in a walnut(核桃)-sized (or smaller) balloon of mucus(粘液) equipped with filters that capture and concentrate phytoplankton(浮游植物). (4)
+
+* 译文:浮游动物体内一种极特殊的进食适应性变化是蝌蚪状的尾海鞘纲动物(appendicularian)的那种适应性变化,而尾海鞘纲动物则存活于核桃大小(或更小)的黏液球囊内,装备有过滤器,用以捕捉和集中浮游植物.
+* 难句类型:复杂修饰
+* 解释:GRE和GMAT考试中比较有特色的一个语言现象是that (those) of的频繁出现.That(those) of的作用是省略掉与前面一样的名词性成分,从而起到简化句子的结构,缩短句子的长度的作用.然而对于初学GRE和GMAT的人来说,由于以前较少遇到这种结构,而且即使遇到也是在比较简单的句子中间遇到的,所以在复杂句式中一旦遇到,往往一下子搞不清楚这个that(或those)指的是前面众多名词性成分中间的哪一个.解决这个问题的办法,就是多读,反复读这样的句子,熟能生巧.
+
+##77.These historians, however, have analyzed less fully the development of specifically feminist ideas and activities during the same period. (3+) 
+
+* 译文:但是,这些史学家还不曾充分地分析同一时期中那些具体的女权主义思想和活动的发展.
+
+* 难句类型:倒装
+
+* 解释:本句看着别扭的原因是句子的语序颠倒,正常的语序应该是:However, these historians have analyzed the development of specifically feminist ideas and activities during the same period less fully.但是这种语序仍然令人费解:为什么作者不说these historians haven’t fully analyzed the development of feminist ideas?既明确又好懂,何乐而不为?
+
+  其实这里倒不见得是ETS故意作梗,不让读者读懂,而是因为实际上的两种说法之间存在着细微差别:前者强调的是有分析,但与文中的其他研究相比不够完整;后者则是强调没有怎么去研究.GRE和GMAT中使用的英语属于中高级英语,其中的细微之处请读者细心体会
+
+## 78. Apparently most massive stars manage to lose sufficient material that their masses drop below the critical value of 1.4 M before they exhaust their nuclear fuel. (5) 
+
+* 译文:显然,大多数的巨星能够失去足够多的物质以至于在燃尽其核燃料以前他们的质量下降到关键值1.4M以下.难在:sufficient …that… = so much (many ) … that…
+
+* 难句类型:特殊省略,固定搭配
+
+* 解释:我们中国考生显然没有见过sufficient…that…这样的结构,因此习惯性的把that以及其后的内容看成了一个定语从句来修饰material,但是这样读下来发现意思不通,于是发生思维混乱,大脑拒绝工作,以至当场晕厥.
+
+  实际上原文相当于在sufficient之前省略了such,与后面的that构成了一个such…that…的结构,但是这种省略不是可以随便使用的:本句之所以能够这样表述,是因为sufficient本身就是一个enough to meet the need of a situation的意思;而enough的意思是occurring in such quantity as to fully meet demands, needs, or expectations.所以,把这两个词义串在一起,sufficient material that…的词义就变成了material occurring in such large quantity that the need of …be fully met.所以我们除了可以把原句看成是省略了such以外,还可以把sufficient …that…看成了一个固定的搭配,相当于so much …that…的意思.
+
+##79.This is so even though armed forces operate in an ethos(民族精神,社会思潮) of institutional change oriented toward occupational(职业的) equality and under the federal sanction of equal pay for equal work.(5)  
+
+* 译文:即使是武装部队是在一种趋向职业平等的制度变迁的风气中运作的时候,而且即使部队是在联邦政府的同工同酬的约束下运行的时候,情况仍然是这样 
+* 难句类型:倒装,省略
+* 解释:不论笔者把这句话算成倒装还是省略,其实都有些牵强.阅读能力较高的读者应该可以看出,文中的语序和表达都是完全符合英文规则的,但问题在于它极不符合汉语习惯:按照中文的习惯,even though之后的长长的从句应当放在句首,而This is so则应该放到最后来说,而且,如果要用and来连接这么长的两个状语,也应该在其中补充上主语用来和谓语才能让人看懂.但是这就是考试中的英语,也是英语国家的高级知识分子们天天用来做学问的英语,既然他们可以看懂,并能写出来,我们也一定可以看懂,需要的时候也一定能够写出来.
+
+# 80. An impact (on the Mars) capable of ejecting(喷射) a fragment of the Martian surface into an Earth-intersecting orbit(轨道) is even less probable than such an event on the Moon, in view of the Moon’s smaller size and closer proximity to Earth. (5) 
+
+* 译文:一个能够把活性表面的碎片射入地球交叉轨道的碰撞发生的可能性甚至小于这种事件在月亮上发生的可能性,考虑到月亮更小的尺寸及其与地球接近的程度.
+* 难句类型:复杂修饰,省略,易淆指代
+* 解释:in view of的意思是考虑到,由于,等于because of,本句粗看上去十分简单,可是你看完之后会发现本句十分难懂.这句话的意思很容易被理解成:如果考虑到月亮的尺寸和与地球的距离的话,火星碎片被撞击所发射到地球的几率,要小于发射到月亮上的几率,有点常识的人就会知道这是不可能的:月亮比地球小得多,而且与火星的距离也与地球类似,碎片射到月亮上的几率怎么会反而高呢?这里的关键在于such an event在文章中指什么,如果是指把火星碎片射到月亮上,那么本句的意思当然是荒谬的;可是如果是指把月亮的碎片发射到地球上,那么本句的意思就对了,实际上句首的An impact之后被省略了一个on mars,所以原文的such an event on moon,指的是An impact on moon capable of ejecting a fragment of the lunar surface into an Earth-intersecting orbit.因此如果把原文补全,则句子就变成了下面的样子:An impact capable of ejecting a fragment of the Martian surface into an Earth-intersecting orbit is even less probable than an impact on moon capable of ejecting a fragment of the lunar surface into an Earth-intersecting orbit, in view of the Moon’s smaller size and closer proximity to Earth. 
