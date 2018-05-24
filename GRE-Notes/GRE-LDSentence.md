@@ -563,3 +563,82 @@
 * 译文:一个能够把活性表面的碎片射入地球交叉轨道的碰撞发生的可能性甚至小于这种事件在月亮上发生的可能性,考虑到月亮更小的尺寸及其与地球接近的程度.
 * 难句类型:复杂修饰,省略,易淆指代
 * 解释:in view of的意思是考虑到,由于,等于because of,本句粗看上去十分简单,可是你看完之后会发现本句十分难懂.这句话的意思很容易被理解成:如果考虑到月亮的尺寸和与地球的距离的话,火星碎片被撞击所发射到地球的几率,要小于发射到月亮上的几率,有点常识的人就会知道这是不可能的:月亮比地球小得多,而且与火星的距离也与地球类似,碎片射到月亮上的几率怎么会反而高呢?这里的关键在于such an event在文章中指什么,如果是指把火星碎片射到月亮上,那么本句的意思当然是荒谬的;可是如果是指把月亮的碎片发射到地球上,那么本句的意思就对了,实际上句首的An impact之后被省略了一个on mars,所以原文的such an event on moon,指的是An impact on moon capable of ejecting a fragment of the lunar surface into an Earth-intersecting orbit.因此如果把原文补全,则句子就变成了下面的样子:An impact capable of ejecting a fragment of the Martian surface into an Earth-intersecting orbit is even less probable than an impact on moon capable of ejecting a fragment of the lunar surface into an Earth-intersecting orbit, in view of the Moon’s smaller size and closer proximity to Earth. 
+
+## 81. Not only are liver transplants never rejected, but they even induce a state of donor-specific unresponsiveness in which subsequent transplants of other organs, such as skin, from that donor are accepted permanently. (4)
+
+* 译文:但是,我们已经发现,在许多种老鼠之间,这些移植法的”常规”并没有被肝脏移植物所遵循.肝脏移植物非但从没遭到过排斥,甚至还诱发了一种供者特异性无应答状态(donor-specific unresponsiveness),在此状态中,随后来自那个供者其它器官的移植物,如皮肤,会永久地被接受
+* 难句类型:复杂修饰,插入语,倒装
+* 解释:Not only放在句首时谓语被提前,这种倒装对我们的读者来讲不算什么新鲜事.干扰度比较大的是在修饰unresponsiveness的定语从句in which subsequent transplants of other organs, such as skin, from that donor are accepted permanently中,插入语such as skin和前面的transplants搭配的from that donor共同作用,反复地打断读者的思路,使得从句中主语和谓语不能连贯
+
+## 82. As rock interface are crossed, the elastic(有弹力的) characteristics encountered (*by seismic waves*)generally change abruptly, which causes part of the energy to be reflected back to the surface, where it is recorded by seismic(地震的) instruments. (4)
+
+* 译文:当岩石界面被穿过的时候,震波所遇到的弹性性质通常会发生突然的变化,这就使得一部分能量被反射回地面,在地面反射回来的波被震波纪录仪记录下来
+* 难句类型:复杂修饰,省略,过去分词与谓语易混
+* 解释:绝大多数人读到the elastic characteristics encountered generally change abruptly这一句的时候,第一反应都是把encountered看成了谓语动词,再看到change abruptly的时候又搞不苾怎么会跑出来两个动词,反复看上n遍才看清楚这句话的结构.本句难就难在主语the elastic characteristics后面的表示袪的过去分词encountered的动作发出者在句子中根本就没有出现过,相当于原文在encountered后面省略了一个by seismic waves,倡读者却没有心理准备,同时也不熟悉这种分词修饰的方式,因此也难以读懂
+
+##83.While the new doctrine(学说,教条) seems almost certainly correct, the one papyrus fragment raises the specter that another may be unearthed, showing, for instance, that it was a posthumous(死后发生的) production of the Danaid tetralogy(四部曲) which bested(打败) Sophocles, and throwing the date once  more into utter confusion. (4)
+
+* 译文:数据资料已被统计出来,或被重新统计出来,以便证明在文体学这方面,《乞援衰女》实际上确实在《波斯人》和《七雄攻忒拜》(后两者现在则变成了”原始”的剧作)之后以及在轴残片却唤起了一种幽灵似的疑虑,即另一块残片有可能再度被挖掘出来,并证明,比如说,《乞援衰女》是作者藉以击败索福克勒斯的《达那特四部曲》的一部死后出版之作,从而将创作年代再度置于极度的混乱之中
+
+  * 注:best:击败,=defeat, overcome, outdo
+
+* 难句类型:复杂修饰,插入语
+
+* 解释:
+
+  specter之后的that从句是specter的同位语,从句中有两个分词作状语,中间由and 连接.其中以第一个分词结构showing that it was a posthumous production of the Danaid tetralogywhich bested Sophocles的意思较为难懂,有两个地方要解释一下:
+
+  首先,best 在这里的用法我们以前很少见到,用作及物动词,是击败后者的意思,等于defeat, overcome或outdo.
+
+  其次,aposthumous production of the Danaid tetralogy这种说法不符合我们的常规想法,我们看到 a posthumous production of 的时候,根据中文的语言习惯,惯性的到of之后去找人名,但是看到后面跟着的是作品名,就想不通了,与中文不同的是,英文中的遗作后面不一定只能接人名,接作品名的时候指的是作品在作者死前未发表的那一部分,比如本文的四部曲,可能作者死前全部写好,但只发表了三部,但是死后发表的遗作第四部击败了S
+
+##84. The methods that a community devises(制定,发明) to perpetuate(持久化) itself come into being to preserve aspects of the cultural legacy(遗产) that that community perceives(意识到) as essential. (3+)
+
+* 译文:一个社会所创造出来藉以使其自身生生不息,恒久不衰的方法得以形成产生,以保存在这个社会看来具有本质意义的文化遗产的各个方面.
+* 难句类型:复杂修饰
+* 解释:本句是前面所举的复杂修饰类难句的例句,已经有所详述
+
+## 85. Traditionally, pollination(植物传粉) by wind has been viewed as a reproductive process marked by random events in which the vagaries(变幻莫测) of the wind are compensated for by the generation of vast quantities of pollen, so that the ultimate production of new seeds is assured at the expense of producing much more pollen than is actually used. (4)
+
+* 译文:传统上,风媒传粉被看成是这样的繁殖过程:其特征就是由一些随即事件的发生,在这些随机事件里,风的反复无常被大量的产生花粉所补偿,以至于新种子的最终产生被保证了,其代价是产生远远多于实际使用量的花粉
+* 难句类型:复杂修饰
+* 解释:笔者曾经遇到过一个同学,下课以后来找我,说这篇文章读得不好,因为首段的两句话看不懂.这篇文章的首段很长,但仅由两句话构成,不但讲述了老观点的内容,而且解释了这篇文章的主题的所在,从这里我们可以看出在现场迅速读懂难句的重要性.Marked by之后的内容修饰reproductive process的.其后的random events后面又跟着一个定语从句来修饰它.从句中的被动语态the vagaries of the wind are compensated for by the generation of vast quantities of pollen有些特殊,因为文中不是按照中文的习惯说are compensated,而是说compensated for,这是由于主语the vagaries of the wind并不是被补偿的对象,而是补偿的对象,后面的at the expense of是以…为代价的意思.
+
+##86. Because the potential hazards(危险) pollen grains are subject to as they are transported over long distances are enormous, wind pollinated plants have, in the view above, compensated for the  ensuing(随后到来的) loss of pollen through happenstance(偶然事件) by virtue of producing an amount of pollen that is one to three orders of magnitude greater than the amount produced by species pollinated by insects. (5)
+
+* 译文:由于花粉粒在其长距离的运输过程中所要面临的潜在危险是巨大的,按上述观点来看,由风授粉的植物补偿了通过偶发事件而伴随造成的花粉损失.其途径是,制造出大于昆虫授粉的植物种类所产生的花粉量的一至三个数量级的花粉量.
+* 难句类型:复杂修饰,插入语,省略
+* 解释:本句就是上面所说的构成本篇文章首段的第二句话,而且本句的难度超过上一句.本句一上来就不好读,Because the potential hazards that pollen grains are subject to as they are transported over long distances are enormous,其中主语后的pollen grains are subject to本来就是一个定语从句,但是由于主语the potential hazards在从句中作介词to的宾语,所以引导词that被省略,这就显得句子的结构模糊不清,再加上as引导的状语从句,隔开了主语和谓语,给读者造成了较大的阅读困难.后面的分句中,句子的结构更为复杂:插入语,定语和状语层层相套.有两个词组需要解释一下:orders of magnitude指的是数量级,其中order是等级,级别的意思,而magnitude在此不是指重要,星球的光亮度,指的是尺寸大小和数量多少的程度,同义词是size, quantity, number.后面的species pollinated by insects特指虫媒植物
+
+##87. For example, the spiral(螺旋状的) arrangement of scale-bract(苞片) complexes on ovule(产卵)-bearing pine(松木) cones(圆锥), 
+
+where the female reproductive organs of conifers are located, is
+important to the production of airflow patterns that spiral over the cone’s
+surfaces, thereby passing airborne(飞行中) pollen from one
+scale to the next. (5)
+
+* 译文:例如,带有胚珠的松球的鳞苞综合体的螺旋状安排,亦即松柏目植物雌性殖器官的所在位置,对于气流模式的形成与产生殊为重要,而这些气流模式在松球的表现盘旋上升,从而把在空气中飞行的花粉从一个鳞苞传播至下一个鳞苞
+
+* 难句类型:复杂修饰,插入语,专有名词
+
+* 解释:本句的两大难点中,一是结构复杂,二是专有名词较多.在主语the spiral arrangement之后,出现了长长的定语,其中套了三层修饰,这样读者就难以把主语和谓语联系到一块.另外,句中的大量生词也明显干扰了我们的理解,spiral arrangment(螺旋状安排),scale-bractcomplexes(鳞苞综合体),ovule-bearing(携带胚珠的),pine cones(松果),female reproductive organ(雌性生殖器官),airflow pattern(气流模式)等.其中只有后面的三个单词我们有可能根据常识大概猜出其含义.那么现场阅读时遇到这种东西又该如何处理呢?
+
+  可以肯定的是ETS的出题者并没有期望读者都是生物学家或物理学家,而且从众多的出题的情况来看,也根本不可能考到任何必须对专有名词作精确理解的内容.读到这种东西的时候,读者的首要任务是从联系文章出题的角度,读出这句话与文章主题有关的意思,从而理解它在文章中的作用.比如这个句子,读者只要能够读出the arrangement of female reproductive organs of conifers areimportant to reduce the pollen waste这个意思即可.
+
+##88. Friedrich Engels, however, predicted that women would be liberated from the “social, legal, and economic subordination(从属)” of the family by technological developments that made possible the recruitment(招聘) of “the whole female sex into public industry”. (3+)
+
+* 译文:FE,却预测妇女们将被从家庭的”社会,法律和经济压迫”中解放出来,只是通过使得征召”整个女性阶层进入公共的工业中去”成为可能的技术进步的方式做到的
+* 难句类型:复杂修饰,倒装
+* 解释:本句的前半部分简单,后面的宾语从句中的第二个状语by technological developments 后面跟着的定语从句中出现了倒装:the made/possible/the recruitment of the whole female sex into public industry的正常语序应该是that made the recruitment of the whole female sex into public industry/possible/,固定搭配make…possible中的副词possible被倒装到了前面
+
+##89. It was not the change in office technology, but rather the separation(分离分割) of secretarial(秘书的) work, previously seen as an apprenticeship(学徒期) for beginning managers, from administrative work that in the 1880’s created a new class of "dead-end" jobs, thenceforth considered "women’s work."
+
+* 译文:十九世纪八十年代,产生了新的一类”没前途”的职业,这并不是因为办公室技术发生了改变,而是由于秘书工作——在此之前被视作是初起步的经理们的一种习见训练——与行政工作的分离.自此以后,这类”没前途”的职业便被视作是”女人的工作.” 
+* 难句类型:复杂修饰,插入语
+* 解释:这句话的结构是It was something that. It是形式主语,其真正的内容是was之后,that,之前的something的内容.本句的something结构复杂,长度惊人,并且包含了一个较长的插入语,把固定搭配separation from分开,造成了极大的阅读困难,其实这个句子说得简单就是It was the separation of secretarial work from administrative work that created a new class of jobs.
+
+##90. The increase in the numbers of married women employed outside the home in the twentieth  century had less to do with the mechanization of housework and an increase in leisure(空闲的) time for these women than it did with their own economic necessity and with high marriage rates that shrank(收缩的) the available pool of single women workers, previously, in many cases, the only women employers would hire. (5)
+
+* 译文:二十世纪已婚妇女在家庭以外就业的人数不断增加,这与家务的机械化及这些妇女闲暇时间的增加并无多大联系,更多地是与妇女自身的经济需要和高婚姻率相关.高婚姻率致使所能雇佣的单身女工的总量缩减,而在此之前的许多情形中,单身女性则是雇主们所愿雇佣的唯一—一类妇女. The pool of 如果后面跟着一群人,则表示劳动力资源
+* 难句类型:复杂修饰,插入语
+* 解释:主语the increase之后照例来了一堆修饰成分.后面的had less to do with…than do with…的意思是与前面的东西的关系不如与后面的关系那么重要,相当于中文的与其说还不如说….但是本句的比较双方都是又臭又长的由and所连接的两个名词性短语,令读者阅读时的思维难以连贯.The pool of如果后面跟着一种人群,则这个词组指劳动力资源
