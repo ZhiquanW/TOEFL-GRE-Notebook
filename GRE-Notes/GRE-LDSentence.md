@@ -642,3 +642,87 @@ scale to the next. (5)
 * 译文:二十世纪已婚妇女在家庭以外就业的人数不断增加,这与家务的机械化及这些妇女闲暇时间的增加并无多大联系,更多地是与妇女自身的经济需要和高婚姻率相关.高婚姻率致使所能雇佣的单身女工的总量缩减,而在此之前的许多情形中,单身女性则是雇主们所愿雇佣的唯一—一类妇女. The pool of 如果后面跟着一群人,则表示劳动力资源
 * 难句类型:复杂修饰,插入语
 * 解释:主语the increase之后照例来了一堆修饰成分.后面的had less to do with…than do with…的意思是与前面的东西的关系不如与后面的关系那么重要,相当于中文的与其说还不如说….但是本句的比较双方都是又臭又长的由and所连接的两个名词性短语,令读者阅读时的思维难以连贯.The pool of如果后面跟着一种人群,则这个词组指劳动力资源
+
+## 91. For one thing, no population can be driven entirely by density-independent factors all the time. (5)
+
+* 难句类型:正话反说
+* 请思考:如果文中说这句话的前提是:all population are driven by two (and only two) categories of growth parameters, one is density-independent factors, and the other is density-independent factors. 那么作者说上面的这句话有什么用意.
+* 解释:本句虽然貌不惊人,但本书既然将其收录进来,并标出难度5,就意味着其中有怪异之处.值得一提的是,本文前面曾把控制种群密度的因素分为两种,一种叫做density-dependent factors(这里简称d-d因素),另一种叫做density-independent factors(简称d-I因素).原文的直译虽然好懂,但是总令人感觉说得不甚明白.显然,GRE或GMAT的作者不可能随便说一句无关痛痒的话,那么没有任何种群能够在所有的时间全被d-I因素所控制,其真正意思是什么呢?就是:一切种群都必然在某个时间内受到d-d因素的控制.本句是ETS在考试中惯用的正话反说的典型例子,请读者深沉体会.本句在文章中也是理解作者态度的关键所在
+
+## 92. In order to understand the nature of the ecologist’s investigation, we may think of the density-dependent effects on growth parameters as the "signal" ecologists are trying to isolate and interpret, one that tends to make the population increase from relatively low values or decrease from relatively high ones, while the density-independent effects act to produce "noise" in the population dynamics. (5)
+
+* 译文:为了能理解生态学家们所从事的研究的性质,我们可以把那些作用于增长参数的密度依赖效应视作生态学家们力图将其分离并予以解释的”信号”,正是这一信号倾向于使种群从相对较低的数值递增,或从相对较高的数值递减;而与此同时,那些密度独立效应起到的作用则构成了种群动态变化中的”噪音”.
+* 难句类型:复杂修饰,插入语,省略
+* 解释:句子不仅很长,而且有两个地方看上去不舒服,第一:think of … as … 不是很常见,其实think of 这个词组就等于consider, imagine,加上后面的as就是把….认为是…的意思.第二个不习惯的地方是signal后面的大段修饰语,不但长度很长,而且在signal后面还省略了一个that,正常应该是the signal that ecologists are trying to isolate and interpret,,与前面见过对that的省略不同的是,这次that在句中不是句子的宾语,而是不定式动词的宾语.
+
+## 93. But the play’s complex view of Black self-esteem(自尊) and human solidarity(团结) as compatible is no more "contradictory" than Du Bois’ famous, well-considered ideal of ethnic(种族的) self-awareness  coexisting with human unity, or Fanon’s emphasis on an ideal internationalism that also ccommodates national identities and roles. (5)
+
+* 译文:但该剧有关黑人自尊可与人类团结相融合这一复杂观点,丝毫都不比杜波伊斯(Du Bois)的理想或法侬(Fanon)的强调来得更为”矛盾”:杜波伊斯提出的著名的,深思熟虑的理想是,民族的自觉可以和人类大同共存;法侬则对理想的国际主义进行了强调,而这一理想的国际主义同样也能兼容民族身份与角色
+
+* 难句类型:复杂修饰,抽象词
+
+* 解释:本句的一个大难点就是对A no more “contradictory” than B的理解,与我们想当然的意思正相反,其意思不是A不如B更矛盾,而是A与B同样都不矛盾.A no more…than B这个固定搭配的意思是A与B一样都不….例如:I can nomore swim than a hammar并不是说我游泳不如锤子游得好,而是说我与锤子一样都无法游泳.
+
+  另一个难点在于句子中大量的抽象词,给读者的词汇能力提出了较高的要求.但是功底较好的读者应该可以发现,句中用来比较的前后项中的描述三个作家的九组词汇形成了一个3×4的同义词矩阵,如上述的注.每一列都是同义词,可以看出,这三个人的观点是相同的,也可以看出作者英语功底之深
+
+## 94. In which of the following does the author of the passage reinforce his criticism of responses such as Isaacs’ to Raisin in the Sun? (5)
+
+* 译文:在以下哪一个选项中,文章的作者加强了她对类似这样的对于《》做出的反应的批判呢?
+
+* 难句类型:复杂修饰,题干圈套 
+
+* 解释:为了对应原文,以上中文的翻译显得很笨拙,请读者原谅.需要说明的是,本题号称GRE五大难题之一.对于此题的市面上众说纷纭,皆不得要领,笔者很高兴能通过这本书把此题讲清楚,一来以正视听,二来解决同学们的疑难,三来提示ETS出题者的叵测居心.
+
+  此题之所以难解,是因为题干中藏有圈套.请仔细观察题干,它问的是作者对谁的批评?是对I一伙的所有批评家的responses还是对I个人的responses做出的批评呢?当然是对所有的responses.出题者在此设下陷阱,让读者怎么看都像是对I的responses的批评,可是文章中对于I的描述并没有能和选项匹配的说法,因此用I到文中去定位,这道题当然无法做出:而文中对与I抱有相同观点的全体评论家们对＜太阳下的葡萄干＞一书的反应的描述十分清楚:Indeed, a curiously persistent(持续的) refusalto credit Hansberry with a capacity for intentional irony has led some criticsto interpret the play’s thematic conflicts as mere confusion, contradiction, oreclecticism. Isaac, for example ,…
+
+  评论家们从一个错误的前提(即H不能intentional irony)推出一个错误结论,那么我们的作者应该怎么批评他们呢?当然要驳倒其assumption,说H是能作intentionalirony的.我们于是看到了D选项,intentional 的完美的同义词:well-considered.从本题中可以体会到,对于句子的阅读能力是多么重要.
+
+##95. Inheritors(继承者) of some of the viewpoints of early twentieth-century Progressive historians such as Beard and Becker, these recent historians have put forward arguments that deserve evaluation. (3+)
+
+* 作为二十世纪早期”进步派”史学家(如Beard和Becker)等人某些观点的继承者,这些近期的史学家所提出的观点值得我们予以评价
+* 难句类型:复杂修饰
+* 解释:看够了后置的修饰成分,我们来看一个放在前面的同位语.Inheritors之后的长长的复合结构是主句的主语these recent historians的同位语.本句稍微有些难的地方在于,很容易把B和B与recent historians的关系看错.正确的理解是:recent historians是B和B的后继者,而不是相反
+
+## 96. espite these vague categories, one should not claim unequivocally that hostility(敌对) between recognizable classes cannot be legitimately(合法地,合理的) observed. (5)
+
+* 译文:尽管存在这些模糊范畴,但我们不应该断然声称,在各个易于辨认出的阶层之间所存在的敌对态度就无法被合理地观察到
+* 难句类型:复杂修饰,三重否定
+* 解释:从这个例子可以看出,句子的难度也不全是与其长度成正比.比如这句话,既不算长又没有什么不认识的单词,但是偏偏很难看懂.看不懂的原因,是写文章的人使用了三重否定,should not unequivocally, cannot.在这里,可以明显看出ETS在考查我们的阅读能力,因为如果想把句子肯定的语气而不改变句子的意思是很容易的.Despite these vague categories, one may still claim definitely that hostility between discernable classes can be validly observed.
+
+##97. Yet those who stress the achievement of a general consensus among the colonists cannot fully understand that consensus without understanding the conflicts that had to be overcome or repressed(抑制) in order to reach it. (5+)
+
+* 译文:然而,有些史学家强调在殖民者之间曾出现过一种普遍的一致意见.这些史学家如果不认识到各种矛盾的存在,就无法充分地理解这种一致意见,而所有那些矛盾只有在被克服或压制之后才有可能获得那种一致意见. It 指代:general consensus
+
+* 难句类型:复杂修饰,双重否定
+
+* 解释:本句同样不算长,但是难度却超乎寻常,而且本句在文章中是最后一句,文章的作者用本句话给出了他对文章中心论题的最后态度,不可谓不重要.据笔者观察,能够现场读懂这句话的读者绝不超过20%.
+
+  本句之所以难,是因为三个原因,第一,句子中的复杂修饰带给读者思维上的困难.第二,本句without引导的条件状语的表述不符合读者大脑中的语言及思维习惯.Without引导的介词结构作条件状语,在中文里面不一定要像笔者上面给出的翻译一样,要放在其推出的结论的前面,相当于,如果不…则…,而在英文中,它既可以放在前面,也可以后面,而且以出现在后面的情况居多.这就造成了中国读者的思维上的不习惯.不但如此,without之后的表达也让人看得不舒服,我们习惯的表达是without understanding that theconflicts had to be overcome or repressed in order to reach it.而句中把the conflicts和that调换了一下,变成了without understanding the conflict thathad to be overcome or repressed in order to reach it,从语法上可通,但从句义上却看起来别扭.作者为什么不用看起来更通顺的前一种说法呢?这是因为两者的意思上存在细微的差别.前者强调的是要去理解泛指的矛盾被克服这件事,而后者强调的是要去正确理解特指的需要被克服才是理解整个抗英斗争的着急.
+
+  另外,句中的consensus和最后的it都是指殖民者的一致抗英的共识.
+
+  本句给读者造成的最大困难还在于它使用了双重否定,如果不理解那些必须被克服的矛盾,就不能理解这些共识,其意思就是只有理解了那些必须被克服的矛盾,才有可能理解这些共识.请读者反复阅读,以熟练掌握这种对于多重否定的思维转换.
+
+##98. It can be inferred from the passage that the author would be most likely to agree with which of the following statements regarding socioeconomic class and support for the rebel and Loyalist causes during the American Revolutionary War?
+
+* 译文:从文章中可以推断出来,作者最有可能同意以下哪一个关于在美国革命战争中的社会经济各阶层及其对叛党和保王党的支持的陈述?
+* 难句类型:复杂修饰,插入语
+* 解释:句子是在regarding之后才开始难懂的.Regarding引导一个分词结构,修饰statement.分词中regard的宾语有两个,一个是socioeconomic class,另一个是support for the rebel and Loyalist caused,中间由and相连接,本句的不好懂之处在于,我们对support 的第一反应是把它当成动词,这样就有可能理解成and support for是与前面的agree with并列的谓语,当然这种理解在语法上是成立的,然而在逻辑上不成立.正确的理解是support作名词, socioeconomic class并列.其实本题干的意思就是在问哪个阶层的人会支持哪一方.
+
+##99. She wished to discard the traditional methods and established vocabularies of such dance forms as ballet and to explore the internal sources of human expressiveness. (5)
+
+* 译文:她希望抛弃传统的方法和像芭蕾舞这样已经确立的舞蹈语言,而希望探索人类表现力的内在源泉
+
+* 难句类型:复杂修饰,省略,抽象词,易淆结构
+
+* 解释:本句尽管用词抽象,但给读者带来直接威胁的还是句子的结构,句中由两个and连接起三部分内容,这在语法上似乎说不通,可实际上这两个and在句子中所处的层次其实是不同的,第一个and连接了discard的两个宾语,也可以看成是and后面省略了不定式todiscard,也就是说第一个and 是在不定式中的并列,而第二个and的层次要高于前面的第一个and.
+
+  读者读到established的时候容易犯两种错误,一是把and之后的established看成是与wished并列的谓语,二是把established看成是与discard并列的不定式.其实这两种理解在语法上都行不通;如果与wished并列,则后面要加不定式,如果与discard并列,它本身就必须是动词原型.
+
+  其实在阅读的现场,考生根本就没有时间去考虑其语法,上面所说的把established读错,还是因为读者很少见到established作形容词的用法及两个and居于不同层次的情况.
+
+## 100. Although it has been possible to infer from the goods and services actually produced what manufactures and servicing trades thought their customers wanted, only a study of relevant personal documents written by actual consumers will provide a precise picture of who wanted what. (5)
+
+* 译文:尽管有可能从实际制造的商品和服务中可推知制造商和服务业认为他们的顾客所需要的是什么,但只有对由实际顾客撰写的相关的个人文件进行一番研究,方能提供一幅精确的图画,藉以说明”什么样的人”需要什么样的东西
+* 难句类型:复杂修饰,倒装
+* 解释:前面的it是形式主语,主语真正的内容在不定式中.不定式中的大规模倒装,是这个句子读不懂的主要原因:infer的宾语是what从句,而infer和从句之间被以from为首的作状语的介词结构所分隔.正常语序应该是:to infer what manufactures and servicing trades thought their customers wanted from the goods and services actually produced.后面的分句也不好读:主语很长,而且句末的宾语precise picture后面的修饰成分of who wanted what也是比较少见
