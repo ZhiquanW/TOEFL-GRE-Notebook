@@ -726,3 +726,101 @@ scale to the next. (5)
 * 译文:尽管有可能从实际制造的商品和服务中可推知制造商和服务业认为他们的顾客所需要的是什么,但只有对由实际顾客撰写的相关的个人文件进行一番研究,方能提供一幅精确的图画,藉以说明”什么样的人”需要什么样的东西
 * 难句类型:复杂修饰,倒装
 * 解释:前面的it是形式主语,主语真正的内容在不定式中.不定式中的大规模倒装,是这个句子读不懂的主要原因:infer的宾语是what从句,而infer和从句之间被以from为首的作状语的介词结构所分隔.正常语序应该是:to infer what manufactures and servicing trades thought their customers wanted from the goods and services actually produced.后面的分句也不好读:主语很长,而且句末的宾语precise picture后面的修饰成分of who wanted what也是比较少见
+
+##101. With regard to this last question, we might note in passing that Thompson, while rightly restoring laboring people to the stage of eighteen-century English history, has probably exaggerated(夸大) the opposition of these people to the inroads(袭击,侵害) of capitalist(资本家) consumerism(消费者) in general: for example, laboring people in eighteen-century England readily shifted from home-brewed beer to standardized beer produced by huge, heavily capitalized urban breweries. (4)
+
+* 译文:关于这个最后的问题,我们可以顺便指出,T尽管正确的使劳动人民重返十八世纪英国的历史舞台,但是她又可能吹嘘了这些人对于资本主义消费观在普遍意义上的敌视态度;比如说,十八世纪的英国劳动人民就很容易从家酿的啤酒转而引用由大型的,资本密集的城市酿酒厂生产的标准啤酒.
+
+  In passing:顺便的,随便的,偶然的
+
+* 难句类型:复杂修饰,插入语
+
+* 解释:本句的难点就在于句子开始的we might note in passing that Thompson…一句中,不认识in passing这个词组,现场就无法读懂这句话的结构和含义;好在这里这个词组没有什么特别重要的意思,即使跳过也不耽误大事.
+
+  In passing的意思是:顺便地,随便地或偶然地,其在英文中的同义词就是briefly, incidentally.句子中的note in passing that…就是”顺便提一下”,”简单说一句”的意思.
+
+##102. The correlation of carbon dioxide with temperature, of course, does not establish(确实) whether changes in atmospheric composition caused the warming and cooling trends or were caused by their. (4+)
+
+* 译文:当然二氧化碳与大气温度之间的相互联系并不能确定到底是大气成分的变化引起了气候的变暖和变冷的趋势,还是大气成分的变化是由气候的冷暖变化造成的.
+* 难句类型:复杂修饰,插入语,省略
+* 解释:本句主句中的谓语establish在GRE,GMAT和LSAT的阅读文章中除了可以作建立的意思以外,还有一个更常用的意思,就是确定,确证的意思,等于determine, prove或confirm,另外,本句的省略很容易使读者将指代关系搞混:在最后的or were caused by their当中,存在两处省略:or之后省略了与whether一句中相同的主语changes (in atmospheric composition);最后的their之后又省略了与whether从句中的主语一样的changes.这里不管将their之后被省略的内容看成是warming and cooling trends还是看成composition都是错误理解. 
+
+## 103. Such philosophical concerns as the mind-body problem or, more generally, the nature of human knowledge they believe, are basic human questions whose tentative philosophical solutions have served as the necessary foundations on which all other intellectual speculation has rested. (5-)
+
+* 译文:他们相信,诸如灵与肉的问题,或更普遍而言,人类知识的性质等此类哲学关注,均是一些基本的人类问题,其探索性的哲学答案已构成一个必要的基础,其它所有的智力思辩均赖以建立其上
+
+* 难句类型:复杂修饰,插入语,倒装,抽象词
+
+* 解释:本篇文章所讨论的主题就是哲学的起源问题,因此在这篇文章中出现大量的抽象词,是理所当然的.
+
+  然而本句的开始的结构比较特殊,出现了一个倒装结构,正常的语序应该是:They believe that such philosophical concerns as the mind-body problem or, more generally, the nature of human knowledge, are basic human question….笔者说此结构特殊,并不是因为我们司空见惯了的倒装本身,而是因为从句子的结构来讲,此倒装毫无必要,并无头重脚轻之虞.作者之所以这样写,一是为了强调句首的,作为文章主题的哲学,二是为了使句式有所变化,不至于过分单一,三是为了为难一下考生,看看读者看懂了没有,后面就对这句话出了一道题.
+
+##104.The idea of an autonomous discipline(学科) called "philosophy," distinct from and sitting in judgment on such pursuits(追求) as theology and science turns out, on close examination, to be of quite recent origin. (4) 
+
+* 译文:细作审视,我们便不难发现,一种被称为”哲学”的独立学科——既有别于神学和科学诸般学科,并高高在上地对其予以评判——的思想,其渊源却是甚为近期的事.
+
+* 难句类型:复杂修饰,插入语,抽象词
+
+* 解释:本句与上面那句话出自同一篇文章,因此用户仍很抽象,在此解释几个对读句子比较重要的单词.
+
+  sit in judgment on :审视,做出判断,本文中特指文章前面所说的superior to;
+
+  pursuit:不是追求,而是指被从事的事业=occupation, career, interest, etc. 
+
+  turn out:被证明是,实际是,同义词有:prove to be, be discovered to be.
+
+  这句话除了单词的问题之外,两个插入语把主谓宾全部隔开,尤其是第一个插入语还很长,造成了我们阅读的困难.
+
+##105.They were fighting, albeit(尽管) discreetly, to open the intellectual world to the new science and to liberate intellectual life from ecclesiastical(教会的) philosophy and envisioned their work as contributing to the growth, not of philosophy, but of research in mathematics and physics.(5-) 
+
+* 译文:他们战斗着,尽管是谨慎的,来为学术界打开新科学的大门,而且去把学术生活从宗教哲学中解脱出来,而且他们把自己的工作看成是对科学和物理学而不是对哲学成长做出了贡献
+* 难句类型:复杂修饰,插入语,省略,抽象词 
+* 解释:本句再一次出现两个and连接三个不属于同一层面的成分的情况:第一个and 连接两个并列的不定式,第二个and的级别较高,连接前后两个并列的句子,and之后相当于省略了主语they.第二个插入语起到的干扰作用比较大,把the growth of分割成了the growth, not of philosophy, but of…. 
+
+##106.But the recent discovery of detailed similarities in the skeletal structure of the flippers in all three groups undermines the attempt to explain away superficial(肤浅的,表面的) resemblance as due to convergent(收敛)  evolution — the independent development of similarities between unrelated groups in response to similar environmental pressures. (4) 
+
+* 译文:但是,最近在所有这三类动物身上,对鳍肢的骨骼结构所存在的细致共同点的发现足以削弱这样一种企图,即把表面上的近似作为趋同进化所致的结果来将其解释掉.而所谓的趋同进化(convergent evolution),是指在互不相关的生物群体之间,作为对类似的环境压力做出的反应,彼此独立的发展形成某些相同特征.
+* 难句类型:复杂修饰
+* 解释:读者大概也看出来了,本句的最大特点就是长,复杂修饰的长主语,复杂修饰的长宾语,中间以谓语undermines相连.修饰attempt的不定式中的to explain away something as…意思是把某件事情当作后面的东西解释掉.本句在文中起到了一个极为重要的作用,后面有一道题专门对本句提问.现场这种句子能否顺利看懂,会对考生考试的分数起到直接影响.
+
+## 107. Human genes contain too little information even to specify which hemisphere of the brain each of a human’s 10’’ neurons should occupy , let alone the hundreds of connections that each neuron makes. (5)
+
+* 译文:人类因基所包含的信息是如此之少,以至于就连去具体规定人类1011的神经细胞中任意一个细胞应占据大脑的哪个半脑都无法做到,更不用提每个神经细胞所会形成的数百种连接.
+
+* 难句类型:倒装,省略
+
+* 解释:本句在固定搭配too little information even to specify之后,是一个大型倒装,正常的语序应该是:
+
+  Human genes contain too little information even to specify that each of a human’s 10’’ neurons should occupy which hemisphere of the brain, let alone the hundreds of connections that each neuron makes.
+
+  固定搭配too…to是太怎么样以至不能如何的意思,其后的specify后面的内容实际上是一个宾语从句.文章的作者把从句中的宾语提到主语和谓语之前,并省略引导词that,使得句子非常难以读懂.最后的let alone的意思是表示递进的”更不要说,何况”
+
+## 108. For the woman who is a practitionerof feminist literary criticism, the subjectivity versus objectivity, or critic-as-artist-or-scientist, debate has special significance; for her, the question is not only academic, but political as well, and her definition will court special risks whichever side of the issue it favors. (5)
+
+* 译文:对于一个从事女权主义文学评论的妇女来说,主观性还是客观性,或者说评论家应该做艺术家还是作科学家的争论有着特殊的重要性;对她来说,此问题不仅仅是学术上的,而且还是政治上的,并且她所给出的定义,不管有利于问题的哪一方面,都会招致特殊的风险.
+
+* 难句类型:复杂修饰,插入语,倒装,省略,抽象词,易淆指代
+
+* 解释:首先解释一下几个词汇:versus:在这里不是前面的against的意思,它和后面的or都是”是….还是…”的意思,其英文释义为:in contrast to or as the alternative of free trade versus pretection .court:招致(风险,失败),英文释义:to act as to invite or provoke (courts disaster).
+
+  分号前面的句子的主语被插入语”or critic-as-artist-or-scientist”分开,正常情况下应该是the subjectivity versus objectivity debate.这种名词修饰名词的情况在GRE和GMAT考试中是常见的,如前面讲过的句子中出现的mind-body problem.
+
+  最后的条件状语从句whichever side of the issue it favors看上去不难,但却不好理解,首先是whichever被提前的表示方法,相当于no matter it favors which side of the issue 的倒装,no matter被省略,which提前并改成了whichever,后面的side of the issue也被提前到主谓it favors之前,issue在此之前面的主要问题,即主观性还是客观性的问题,而it前面的名词太多,一下子不好辨别,其实就是指本句的主语her definition.
+
+  ## 109.If she defines feminist criticism as objective and scientific – a valid, verifiable, intellectual method that anyone, whether man or woman , can perform – the definition not only precludes(排除) the critic-as-artist approach, but may also impede accomplishment of the utilitarian political objectives of those who seek to change the academic establishment and its thinking, especially about sex roles.(4) 
+
+  * 译文:假如她把女权主义文学评论定义为客观的和科学性的——一个有效的,可证实的,理性的,无论男女都可以使用的方法——那么,这个定义不仅将排挤掉批评家作为艺术家的方法,而且可能会阻碍那些寻求改变学术界的现状的及其思维,特别是有关性别角色的思维的人们的实用主义的政治目标的成就.
+  * 难句类型:复杂修饰,插入语,抽象词
+  * 解释:这句话在原文中紧接着上例的难句,句中的插入语虽然长,但是并不打断正常的语义,因此不算难懂;但是but also之后的分句中的宾语accomplishment的修饰成分实在太复杂,而且充斥着各色的极端抽象的词汇,没有一定的词汇功底,这句话的意思是不容易看懂的.
+
+## 110. These questions are political in the sense that the debate over them will inevitably(必定) be less an exploration of abstract matters in a spirit of disinterested inquiry(调查) than an academic power struggle in which the careers and professional fortunes of many women scholars-only now entering the academic profession in substantial numbers-will be at stake, and with them the chances for a distinctive contribution to humanistic understanding, a contribution that might be an important influence against sexism in our society. (5+) 
+
+* 译文:这些问题之所以带有政治性质,因为不可避免地,围绕这些问题展开的争论与其说是一种在客观冷静科研精神指导下对抽象问题的探索,倒不如说是一种学术上的权力斗争.在此斗争中,许多女学者中——只是在现在才开始以众多的人数进入学术界——的学术生涯和职业命运将处于存亡攸关的危急关头,与她们相伴随的是对人文理解做出一种独特贡献的机遇,这一贡献则很有可能成为消除我们社会中所存在的性别主义的一股重要影响. 
+
+* 难句类型:复杂修饰,插入语,省略,抽象词
+
+* 解释:相信有不少同学在阅读现场看到这个长达10行,不算标点就有81个单词的庞然大句的时候,不禁心为之颤,色为之变,气为之短,胆为之寒.曾经有人把GRE戏称为God Read English,我们果然在这个句子中看到了”天书”的风采.
+
+  经笔者认真的统计,本句是一切英语考试中所出现的最长的句子.而值得一提的是,笔者自己当初在模考中读到此处时,却根本没有感觉到这个句子的长短,只是在模考结束以后回头看文章的时候,才发觉这个文章中的第三段整个就是一句话.其原因在于笔者当时已经对GRE考试中出现的阅读难句做过认真的,系统的训练,而经过难句训练的人在读文章的时候,既不看句子的长短,也不想句子的结构,只看句子的意思.其道理在于,他读过太多遍的长句子,以至于对句子的长度早已麻木,而且也太熟悉这些句子的语法结构,不用想就知道这些结构所表达的含义,这才是我们训练难句的最终目的.
+
+  本句的主句极短,难就难在从in the sense that开始到整句话结束为止的状语上.That引导的从句作sense的同位语,从句中的主架构还是前面曾经讲过的less…than…的结构,译成”与其说是…还不如说是”and后面是一个独立的介词结构,作者用它来强调女评论家的重要性.可以理解成作者在with them are the chances.中省略了系动词are.
