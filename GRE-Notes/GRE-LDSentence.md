@@ -824,3 +824,179 @@ scale to the next. (5)
   经笔者认真的统计,本句是一切英语考试中所出现的最长的句子.而值得一提的是,笔者自己当初在模考中读到此处时,却根本没有感觉到这个句子的长短,只是在模考结束以后回头看文章的时候,才发觉这个文章中的第三段整个就是一句话.其原因在于笔者当时已经对GRE考试中出现的阅读难句做过认真的,系统的训练,而经过难句训练的人在读文章的时候,既不看句子的长短,也不想句子的结构,只看句子的意思.其道理在于,他读过太多遍的长句子,以至于对句子的长度早已麻木,而且也太熟悉这些句子的语法结构,不用想就知道这些结构所表达的含义,这才是我们训练难句的最终目的.
 
   本句的主句极短,难就难在从in the sense that开始到整句话结束为止的状语上.That引导的从句作sense的同位语,从句中的主架构还是前面曾经讲过的less…than…的结构,译成”与其说是…还不如说是”and后面是一个独立的介词结构,作者用它来强调女评论家的重要性.可以理解成作者在with them are the chances.中省略了系动词are.
+
+##111. Perhaps he believed that he could not criticize American foreign policy without endangering the support for civil rights that he had won from the federal government. (4-)
+
+* 译文:他有可能相信,他不能够即批评美国的对外政策,同时又不危及到他从联邦政府那里已经获得的对民权运动的支持
+* 难句类型:复杂修饰,正话反说(双重否定)
+* 解释:单从语言上来讲,这句话并不难,但是我们可发觉作者在句子中拐弯抹角的,双重否定的表达,想说的一定不是字面上的意思:这是一个标准的正话反说”他有可能相信,他不能够既批评美国的对外政策,同时又不危及到他从联邦政府那里已经获得的对民权运动的支持.”的实际意思就是:他可能相信,如果他批评美国的对外政策,就有可能会危及到(他从联邦政府那里已经获得的)对民权运动的支持.其实这是一个较为简单的思维转换,也是GRE和GMAT的阅读和逻辑中经常出现的表达方法.希望读者通过反复的训练,迅速习惯这种语言方式.
+
+## 112. However, some broods possess(拥有) a few snails of the opposing hand, and in predominantly sinistral broods, the incidence of dextrality is surprisingly high
+
+* 译文:可是,一些窝中会有一些相反旋向的蜗牛,而且在主要是左旋的窝种,出现右旋的几率是令人惊奇的高
+
+* 难句类型:正话反说(或暗含的强对比)
+
+* 解释:本句貌不惊人,实无难句之伟岸雄姿,然而不知在考试中难倒了多少英雄好汉,原文的表面意思简单至极,一些窝中会有一些相反旋向的蜗牛,在左旋为主的窝当中,出现右旋的几率是令人惊奇地高,关键是作者只是单纯地想说左旋窝的右旋几率吗?什么是高,是绝对值还是相对值?如果是相对值,那么是与什么相比呢?
+
+  这么一提示,读者可能会发现作者的言外之意,作者的真实意图,是想将两种窝的情况做一个对比,把句子补全就是:在左旋窝中会出现右旋,右旋窝中有左旋,而左旋窝中的右旋数量远远高于右旋窝中的左旋数量,这篇文章对这句话出了一道题,答案就是右旋窝中的左旋数量少于左旋窝中的右旋数量.
+
+  ETS
+
+  的出题者的语言表述常常像初恋中的腼腆少女,言语间闪烁其辞,留有余味.让我们的考生自己云猜想,恐怕不是出于羞涩;其真实用心和正确含义,关乎读者的考试成败,不可不察.
+
+## 113. In experiments, an injection of cytoplasm from dextral  eggs changes the pattern of sinistral eggs, but an injection from sinistral eggs does not influence dextral eggs
+
+* 译文:在实验中,用取自右旋卵子的细胞质进行的注射,可改变左旋卵子的模式;用取自左旋卵子的细胞质进行的注射却不能影响到右旋卵子
+
+* 难句类型:省略,易淆词
+
+* 解释:本句与上一句来自于同一篇文章,蜗牛的右旋与左旋,在阅读这篇文章的过程当中,所有同学都在竭尽全力地分清左,右的区别,然而这里的时候,ETS的出题者终于突破了读者的心理防线,彻底地搞混了左右之间的关系.
+
+  其实在这里之所以容易搞混,还有一个人为的重要原因,就是这句话使用了大量的省略;方中的changes the pattern of sinisteral eggs后面,实际上省略了一个to dextral,而最后的分句an injection from sinisteral eggs does not influencee dextral eggs,则是an injection of cytoplasm from sinisteral eggs does not influencethe pattern of dextral eggs的省略形式.
+
+##114. Recently some scientists have concluded that meteorites found on Earth and long believed to have a Martian origin might actually have been blasted free of Mars’s gravity by the impact on Mars of other meteorites. (4+)
+
+* 译文:最近,某些科学家得出结论认为,那些在地球上发现的并一直被相信源自火星的陨石(meteorite),实际上有可能是由于其它的陨石撞击火星而致使其被震离火星的重力作用范围.
+
+* 难句类型:复杂修饰
+
+* 解释:这个句子难就难在以that引导的宾语从句,从句中的主语是meteorites,修饰它的成分有两个,一个是found on Earth,另一个是long believed to have a Martian origin,两个冻死的成分之间以and 相连接.注意,这里不能把原句理解成是meteorites found on Earth and meteorites long believed to have aMartian origin的省略形式,这个表达是说有两种陨石,一种是地球上发现的,另一种来自于火星,原文所指的是同一批陨石的两个特征,发现于地球,来自于火星.
+
+  句子最后的by the impact on Mars of other meteorites读上云令人感到不舒服的原因,是the impact of other meteorites中的impact of 被修饰impact的onMars分隔开了.
+
+##115. Under the force of this view, it was perhaps inevitable that the art of rhetoric should pass from the status of being regarded as of questionable worth (because although it might be both a source of pleasure and a means to urge people to right action, it might also be a means to distort truth and a source of misguided action) to the status of being wholly condemned. (4)
+
+* 译文:在这种观点的力量作用下,一件或许是不可避免的事情发生了:修辞艺术竟然从被视和具有让人怀疑的价值这样一种地位(因为尽管它有可能既构成一种歪曲真理的手段和误导行为的来源)转变到彻底遭谴责的地位.
+* 难句类型:插入语
+* 解释:本句的插入语堪称GRE和GMAT考试中最长的插入语之一.笔者曾在本书前面的讲解中强调过,这种插入语(三行以上)一定要在阅读中毫不犹豫地跳过,读完整个句子后再来读它.否则不但句意无法衔接,而且类似于本句中的from…to…的固定搭配,也会在插入语的干扰下远隔千山万水,在读者的大脑中永无聚首之日
+
+##116. None of these translations to screen and stage, however, dramatize the anarchy at the conclusion of A Connecticut Yankee, which ends with the violent overthrow of Morgan’s three-year-old progressive order and his return to the nineteenth century, where he apparently commits suicide after being labeled a lunatic for his incoherent babblings about drawbridges and battlements. (4)
+
+* 译文:然则,在所有这些被搬上银幕和舞台的改编作品中,没有任何一部作品能生动地再现《康乃涅克州的美国佬》结尾处的无政府状态.而在原作结尾处所描述的情节是,摩根历时三年之久苦心经营的进步事业被暴力推翻,他又重返于十九世纪,在由于他的那些有关吊桥和城垛的语无伦次的唠叨而被列为疯子之后,显然自杀身亡
+* 难句类型:复杂修饰
+* 解释:本句是典型的层层修饰的例子,主句的宾语anarchy被修饰得不像话,以至于笔者用光了三层修饰符号也没有把所有的层次标全(anarchy)与at the conclusion of 之间未做标记,是后者修饰前者),其实这种句子无它,惟长而已,多练即可
+
+###117. Calculations of the density of alloys based on Bernal-type models of the alloys metal component agreed fairly well with the experimentally determined values from measurements on alloys consisting of a noble metal together with a metalloid, such as alloys of palladium and silicon, or alloys consisting of iron, phosphorus, and carbon, although small discrepancies remained. (5)
+
+* 以伯纳尔所建立的旨在研究合金中金属成分的那类模型为基础,研究人员对合金密度进行了计算,这些计算相当程度上与某些合金测量中通过实验确定的数据趋于一致,尽管一些细小的差异依然存在.实验中测量的那类合金由一贵金属和一准金属构成,例如,钯和硅的合金,或由铁,磷,和碳组成的合金
+
+* 难句类型:复杂修饰,插入语
+
+* 解释:前面的分句中同时有两个成分修饰主语Calculations.宾语the experimentally determined value之后的,从from开始一直到although之前的内容修饰宾语,说明宾语中determine的具体方法.
+
+  值得注意的是后面的分句中的although.在由两个分句组成的句子中,although如果出现在后面的分句的句首,则其不是表示让步,而是一种委婉地表示转折的语气,相当于but
+
+##118. And Walzer advocates as the means of eliminating this tyranny and of restoring genuine equality “the abolition of the power of money outside its sphere”.(4)
+
+* 译文:而起,W倡议把”在金钱的圈子之外废除金钱的力量”作为消除这种暴政并且重新获得真正的平等的方法
+* 难句类型:倒装
+* 解释:本句是典型的倒装,本句的正常语序应该是:And Walzer advocates “the abolition of the power of money outside its sphere” as the means of eliminating this tyranny and of restoring genuine equality/,而句中则把advocates的宾语”the abolition of the poer of money outside its sphere”倒装到了句末.
+
+##119.It is now established that the Milky Way is far more extended and of much greater mass than was hitherto thought.
+
+* 译文:现在,这已成为一个不争的事实:银河系要比迄今为止所想象的要来得远为浩瀚广阔,并具有远高得多的质量.(原书无此句)
+
+##120. Is it not tyrannical, in Pascal’s sense, to insist that those who excel in “sensitivity” or “the ability to express compassion” merit equal wealth with those who excel in qualities (such as “the capacity for hard work”) essential in producing wealth? (5)
+
+* 译文:按照P的观点,坚持那些在”敏感性”或”表达同情心的能力”上突出的人应该与那些在对赚钱很重要的能力(比如”刻苦工作的能力”)上突出的人得到同样的财富,难道这种做法就不是暴政么?
+* 难句类型:复杂修饰,插入语
+* 解释:句首的it是形式主语,其真正的内容在不定式中,insist引导的宾语从句中的谓语merit是句子的中心难点.因为我们通常只知道merit的名词词义,并不知道它也可以被用作动词,所以此处不容易看懂.其动词的意思是:应该得到……,值得….,英文释义为to
+  deserve, be worthy of.另外,句子作为一个疑问句,却结构复杂,冗长不堪,也是本句难以读懂的一个重要原因
+
+##121. Yet Waizer’s argument, however deficient(有缺陷的), does point to one of the most serious weaknesses of capitalism-namely, that it brings to predominant positions in a society people who, no matter how legitimately they have earned their material rewards, often lack those other qualities that evoke affection or admiration. (5) 
+
+* 译文:然则,沃尔泽的论点,无论它不充分到何种地步,确实揭示了资本主义体制中最严重的一个弱点,即它将某一类人置于社会中的显赫地位置,这类人无论以怎样合法的方式获得了其物质报偿,却常常缺乏其它那些能唤起他人受戴和钦佩的品质
+
+* 难句类型:复杂修饰,插入语,倒装
+
+* 解释:第一个插入语however deficient 中的however在此不是转折连词,而是副词,等于no matter how,但是因为后面出现了no matter how,而作者又追求语言表述的多样性,所以作者在此使用了however deficient这样较为少见的(但在GRE考试中多见)的语言.
+
+  尽管本句的插入语较多,第二个插入语很长,但是本句的真正难点在倒装上.破折号后面的部分是主句宾语的同位语从句,此从句中固定搭配bring A to B被倒装成了bring to BA.如果把这句话恢复成正常语序,则是it brings people who, no matter how legitimately they have earned their material rewards, often lack those other qualities that evoke affection or admiration to predominant positions in a society.很明显,这样的语序会显得头重脚轻.
+
+## 122. The appreciation of traditional oral American Indian literature has been limited, by poor translations and by the difficulty, even in the rare culturally sensitive and aesthetically satisfying translation, of completely conveying the original’s verse structure, tone, and syntax. (4-) 
+
+* 译文:对美国印第安人传统口头文学的欣赏,一直被质量低劣的翻译所限制和妨碍,并且即使是那种不可多得的既体现着文化敏感性,又在美学上令人满意的译作,也难以完全传递出原作的诗体结构,语调和句法 
+* 注:the difficulty (….) of:括号中的是插入语 
+* 难句类型:复杂修饰,插入语
+* 解释:本句的插入语不好对付,一来它的长度比较长,而且修饰层次多,内容也不甚好懂,二来这个插入语正好嵌在difficulty of的中间,割裂了句意
+
+## 123. Mores, which embodied(体现) each culture’s ideal principles for governing every citizen, were developed in the belief that the foundation of a community lies in the cultivation of individual powers to be placed in service to the community. (4+) 
+
+* 译文:”风俗习惯”,体现了每一文化制约每个公民的理想准则,它是在这种信仰中发展而来的,即一个社会的基础在于个人能力的培养,并将这些个人能力置于对社会的服务之中
+* 难句类型:复杂修饰,插入语,抽象词
+* 解释:与前面的绝大多数句子相比,本句的结构算不上复杂.但是由于句意抽象,所以读到the cultivation of individual powers to be placed in service to the community的时候容易读不懂,因为后面的这个不定式既有可能是修饰cultivation的,也有可能是修饰individual powers的.这里修饰的是后者.而且这里的individual powers to be placed in service to the community不应翻译成”individual powers to serve the community”即可.此文强调这种individual power被置于一种位置,一种定位.当然这种细微的差别不一定会影响答题,但有时会对文章的理解产生影响
+
+##124. Only in the case of the February Revolution do we lack a useful description of participants that might characterize it in the light of what social history has taught us about the process of revolutionary mobilization. (5)    
+
+* 译文:唯独在二月革命(the February Revolution)这一情形中,我们缺乏一种有用的有关参加者的描述,而这一描述则有可能按照社会历史有关革命动员过程所教给我们的内容来勾画出这场革命的性质. 
+
+* 难句类型:复杂修饰,倒装,易淆指代
+
+* 解释:句首虽有一个倒装,但是这种简单结构并不能给我们的读者带来大的影响;倒是主句宾语a useful description of participants之后的定语从句that might characterize it中的两个易混指代及其后的状语in the light of给我们的理解造成了巨大的困难.
+
+  首先,that从句所修饰的不是participants,而是description.紧随其后的it指的则是前面的February Revolution.判断这两点的惟一方法就是通过句子的意思,没有任何其他途径.后面的in the light of…是按照…,根据….的意思,其英文解释为from the point of view.后面的层层修饰虽然有一定的难度,但是我们已经在前面的句子中司空见惯,在此不多做解释
+
+## 124. As a consequence, it may prove difficult or impossible to establish for a successful revolution a comprehensive and trustworthy picture of those who participated, or to answer even the most basic questions one might pose concerning the social origins of the insurgents(叛乱分子). (5)
+
+* 译文:作为一个结果,有两件事就变得很困难或者根本不可能,1,为一次成功的革命建立起一个详尽的并可信的关于参加者的描述;2,回答人们会问的,关于起义者的社会背景的甚至是最为基本的问题. 
+
+* 难句类型:复杂修饰,倒装,省略
+
+* 解释:主句的主语it是形式主语,其真正内容在后面的两个由or连接的并列的不定式中,前一个不定式中出现了一个大型倒装,to establish /for a successful revolution/ a comprehensive and trustworthy picture of those who participated 的正常语序是to establish a comprehensive and trustworthy picture(of those who participated)/for a successful revolution.对于类似的结构,读者如果按照笔者的要求认真地过前面的难句,训练到现在已经有所感觉.正确的现场感觉是这样:看到established之后没有出现宾语,而是直接出现表示目的的for,句意不完整,大脑就会根据前面训练得出的经验自动判断可能有倒装的结构;读者本人的反应就是隐隐觉得后面应该有established的具体内容.因为有这种预期,读到a comprehensive and trustworthy picture的时候,正好可以把它与没有说完的established连在一起.
+
+  后面的不定式的宾语even the most basic questions之后有两个并列的宾语,第一个是省略了引导词的定语从句that one might pose,第二个分词修饰concerning the social origins of the insurgents
+
+## 126.Anthropologists and others are on much firmer ground when they attempt to describe the cultural norms for a small homogeneous tribe or village than when they undertake the formidable task of discovering the norms that exist in a complex modern nation state composed of many disparate groups. (4)
+
+* 译文:当人类学家和其他人试图去描述一个小规模的同一性质(homogeneous)部落或村落的文化标准时,他们处在一种要坚实得多的基础上.相对而言,当他们着手从事这样一个艰巨的任务,即去揭示存在于一个复杂的,由许多彼此间毫无联系的群体所构成的现代单一民族的独立国家(nation-state)时,他们就具备一个同样坚实的基础
+
+* 难句类型:复杂修饰
+
+* 解释:句子的结构拉得很长,主要原因是用来比较的两个when引导的状语从句都太长,句子的主干是Anthropologists are on much firmer ground/when…/than/when…/.结果more than的结构被长长的状语从句分隔得很远.
+
+  另外,第二个when 引导的从句中的宾语也很复杂,解释一个单词:nation-state指单一民族的国家.此单词的词义不必背下来
+
+##127. The Italian influence is likely, whatever Valdez immediate source: the Mexican *carpas* themselves are said to have originated from the theater pieces of a sixteenth-century Spanish writer inspired by encounters with Italian *commedia dell’arte* troupes on tour in Spain.(4+) 
+
+* 不管V的直接来源是什么,意大利的影响都有可能存在:墨西哥的C戏剧本身就被认为来自于16世纪的西班牙作家的戏剧作品,而那些作家的灵感来自与他们与在西班牙巡回演出的意大利cd剧团的遭遇
+* 难句类型:复杂修饰
+* 解释:本句的冒号以后的分句中的from 引导的状语的结构又是典型的层层修饰,再加上主句的内容,整个句子的意思很难理顺.到底是什么来自于什么?
+
+## 128. It has thus generally been by way of the emphasis on oral literary creativity that these Chicano writers, whose English language works are sometimes uninspired, developed the powerful and arresting language that characterized their Spanish-language works.
+
+* 译文: 因此,一般而言,正是通过对口头文学创造性的强调,这些奇卡诺作家——其英语作品时常显得缺乏灵感——才得以发展一种强有力的和富于吸引力的语言,并以此构成了他们西班牙语作品的特征.
+
+* 难句类型:复杂修饰,插入语
+
+* 解释:读者们阅读本句的时候一定感觉极其别扭.首先,我们尽管知道It has been …that...这种结构是一种强调语气,但是It has thus generally been by way of the emphasis on oral literary creativity that…看上去就极不舒服.当然从语法上讲这么说是可以的,可是我们确实很少见到it has been 和that之间插入这么多东西的说法.解释一下by way of的意思,就是通过什么样的方法,通过某种手段的意思.其英文释义为by the route of,同义词是via 
+
+  That以后的内容看上去更费劲,既有长插入语分开主谓,又有复杂修饰的宾语.本句之所以结构怪异,意思费解,其原因是作者为了强调这个口头文学的方法.否则,句子可以写得比较好懂:
+
+  Thus, these Chicano writers, whose English-language works are sometimes uninspired, developed the powerful and arresting language that characterized their Spanish-language works generally by way of the emphasis on oral literary creativity.
+
+##129.To measure them properly, monitoring equipment would have to be laid out on a grid at intervals of at most 50 kilometers, with sensors at each grid point lowered deep in the ocean and kept there for many months.  
+
+* 译文:为了恰当地测量它们,监测设备必须被设置在一网络上,彼此的间距最多为五十公里,位于每个网点的感应器沉放至海洋深处,并在许多个月中一直固定在那里. (原书无此句) 
+
+##130. This declaration, which was echoed in the text of the Fourteenth Amendment, was designed primarily to counter the Supreme Court’s ruling in Dred Scott v. Sandford that Black people in the United States could be denied citizenship. (3)
+
+* 译文:这一在第十四条修正案的文本中被复述的宣言,主要是旨在对抗最高法院在”Dred Scott诉Sandford”一案中的判决,此判决裁定,在美国的黑人可被剥夺公民权 
+* 难句类型:复杂修饰,插入语
+* 解释:句中的两个插入语分别起到了两个有效的分割作用:第一个隔开了主句的主语和谓语;第二个分开了作状语的不定式中的宾语及其同位语从句
+
+##131. The broad language of the amendment(修正案) strongly suggests that its framers were proposing to write into the Constitution not a laundry list of specific civil rights but a principle of equal citizenship that forbids organized society from treating any individual as a member of an inferior class. (4)
+
+* 译文:第十四条修正案的宽泛笼统的语言强烈地暗示,其制定者所意欲载入宪法的不是一张具体民法的细目清单,而是一种平等公民权的原则,这一原则禁止有组织的社会将任何一个个人作为劣等阶层的成员来对待 
+
+* 难句类型:复杂修饰,倒装
+
+* 解释:本句的倒装还算友好into的介词宾语the Constitution比较短,然后马上是write的宾语.而且本句的结构也算合理,避免了头重脚轻.如果真按照正常语序来写,那么句子只有更难读懂.即:
+
+  The broad language of the amendment strongly suggests that its framers were proposing to write not a laundry list of specific civil rights but a principle of equal citizenship that forbids organized society from treating any individual as a member of an inferior class into the Constitution.
+
+## 132. This doctrine has broadened the application of the Fourteenth Amendment to other, nonracial forms of discrimination, for while some justices have refused to find, any legislative classification other than race to be constitutionally disfavored, most have been receptive to arguments that at least some nonracial discriminations. sexual Discrimination in particular, are "suspect" and deserve this heightened scrutiny by the courts. (5)
+
+* 译文:所谓”怀疑分类”,意指那种在有可能被理解成以种族为基础,针对某一群体进行的歧视这一信条扩展了第十四条修正案的适用范围,使其同样也适用于其它的,非种族形式的歧视.因为虽然某些法官拒不将除种族以外的立法分类裁定为非法的,但绝大多数法官已经接受了这样一个论点,即至少某些非种族性质的歧视,尤其是性别歧视,是”值得怀疑的”,并理应接受法庭这种更高程度上的审视 
+* 难句类型:复杂修饰,插入语,三重否定,抽象词
+* 解释:句子虽然长,结构却不是太难,相信坚持训练到这里的读者不会再感到句子太长,或者结构太难了.不过这句话还有两个难点的.一个是其中大量的法律方面的抽象词,另一个就是其中的一个三重否定:some justices have refused to find any legislative classification other than race to be constitutionally disfavored,实际上就是:some justices believe that only racial classification may be constitutionally disfavored或者some justices regard nonracial discrimination to be constitutionally legitimate.
