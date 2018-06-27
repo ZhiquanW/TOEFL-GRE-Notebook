@@ -1,0 +1,159 @@
+* 39
+  * oppressive 
+  * regime  
+  * dilemma 
+  * prudent  
+  * politic  
+  * uncover  
+  * incriminate  
+* 40
+  * dictate  
+  * clime 
+  * muse  
+  * inimical  
+  * conducive  
+  * antithetical  
+  * antiseptic  
+* 43
+  * moot  
+  * hazard  
+  * bridle  
+  * blase  
+  * cavalier 
+  * militant 
+  * disingenuous  
+  * vigilant  
+* 44
+  * obscure  
+  * poignant  
+  * sonnet  
+  * sheer  
+  * surpass  
+  * conceivable  
+  * confound  
+  * vindicate  
+* 45
+  * extant  
+  * corruption  
+  * censorship  
+  * artifice  
+  * bastard  
+* 46
+  * powwow  
+  * intertribal  
+  * intrinsic  
+  * presumably  
+  * erode  
+  * distill  
+  * empower  
+  * subsume  
+* 48
+  * elaborate  
+  * evasive  
+  * gregarious  
+  * intrusive  
+  * mettlesome  
+  * prying  
+  * obstreperous      
+  * nettlesome 
+* 49
+  * efflorescence  
+  * strife  
+  * spur  
+  * contentious  
+  * genial  
+  * stagnant  
+  * compromise  
+* 51
+  * fraught  
+  * voodoo  
+  * ascendancy  
+  * demise  
+  * inclusion  
+  * primacy  
+  * dismissal  
+  * retraction  
+*  52
+  * concerti  
+  * idyll  
+  * eschew  
+  * mercurial  
+  * rambling  
+  * torrid  
+  * exorcise  
+  * mirror  
+* 56
+  * eloquence  
+  * prevarication  
+  * equivocation  
+  * abbreviation  
+  * discernment  
+* 57
+  * peddle  
+  * repetition  
+  * augury  
+  * epiphany  
+  * trope  
+  * andoyness  
+  * deception  
+* 58
+  * vampire
+  * genre
+  * trite
+  * fang
+  * deem
+  * demean
+* 59
+  * pantheon
+  * posterity
+  * legacy
+  * relegate
+  * elevate
+  * sublimate
+  * apogee
+  * precocity
+  * nadir
+* 60
+  * veneer
+  * pearly
+  * amicable
+  * jockey
+  * estimable
+  * schmooze / hobnob
+  * machinatie / scheme
+  * muckrake
+  * intermingle
+* 61
+  * for all
+  * betray
+  * plight
+  * populate
+  * sympathetic
+  * affability
+  * diffidence
+  * boorish
+  * contemptuous
+  * sensitivity
+  * oblivious
+* 63 
+  * propitious
+  * fickle
+  * lionize
+  * slander
+  * oust
+  * marginalize
+  * sideline
+  * glorify
+* 64
+  * begrudge
+  * fanfare
+  * purportedly
+  * hitherto
+  * intractable
+  * furor
+  * savvy
+  * self-effacing
+  * churlish
+  * loath
+  * charitable
+  * unstinting
