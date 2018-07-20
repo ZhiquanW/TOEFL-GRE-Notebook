@@ -1,4 +1,4 @@
-# TPO46-P1
+# TPO 46-P1
 
 * inscribe 刻,在上面写
 * perishable 易毁灭的
@@ -25,7 +25,7 @@
 * batch 一组,一批
 * factual 事实上的
 
-# TPO46 - P2
+# TPO 46 - P2
 
 * mint 铸币/完美的,新造的
 * sedentary 定居的,久坐的
@@ -43,7 +43,7 @@
 * representative 代表,代理人
 * nobility 贵族/高贵品质
 
-#  TPO46 - P3
+#  TPO 46 - P3
 
 * otter 水獭
 * kelp 海带,海草
@@ -55,7 +55,7 @@
 * redundancy 多余
 * spectrum 频谱,光谱
 
-# TPO45  - P1
+# TPO 45  - P1
 
 * mammalian 哺乳动物的
 * flora 植物群
@@ -79,7 +79,7 @@
 * standstill 停滞不前
 * mat 垫子
 
-# TPO45 - P2
+# TPO 45 - P2
 
 * powdery 粉末状的
 * substance 物质
@@ -95,7 +95,7 @@
 * snatch 抓取,抢夺
 * whisk 搅拌
 
-# TPO45 - P3
+# TPO 45 - P3
 
 * immense 巨大的
 * anatomical 解剖的
@@ -114,3 +114,60 @@
 * appendage 附件
 * jaw 下巴
 * gulp 狼吞虎咽的吃
+
+# TPO 44 - P1
+
+* dwelling 居住
+* tetrapod 四足动物
+* delta 三角洲
+* carcass 尸体,残骸
+* saclike 囊状的
+* gut 肠道
+* auxiliary 辅助的
+* fleshy 肉质的
+* sturdy 坚固的,健全的
+* median 中位数
+* feeble 微弱的,无力的
+* flop 拍(翅膀)/失败/砰然落下
+* stubby 粗短的
+* amphibian 两栖动物
+* impetus 动力
+* arthropod 节肢动物
+* presumably 大概
+* vertebral 脊椎的
+* pelvic 骨盆的
+* girdle 腰带
+* pectoral 胸部的
+
+# TPO 44 - P2
+
+* obscura 针孔
+* enclosure 外壳
+* faithful 忠实的,可靠的
+* preliminary 初步的,预备的
+* sketch 草图
+* chandelier 吊灯
+* intricate 错综复杂的
+* bride 新娘
+* garment 服饰
+* stature (精神,道德的)高度
+
+# TPO 44 - P3
+
+* lush 郁郁葱葱的
+* submerge 淹没
+* be subject to 受...影响/遭受,服从
+* carpet 地毯
+* dampen 抑制
+* blade 刀片
+* debris 碎片
+* detrital 碎屑的
+* vegetate 生长
+* confine 限制
+* desiccation 干燥
+* turbidity 浑浊度
+* detrimental 有害的
+* scour 冲刷
+* uproot 拔出,连根拔起
+* mortality 死亡率
+* brackish 含盐的
