@@ -41,3 +41,7 @@
 * carpenter 木匠
 * mason 石匠
 * supervise 监督
+* let alone 更不用说
+* conceivably 可以想象
+* bode 预示
+* syllabus 教学大纲

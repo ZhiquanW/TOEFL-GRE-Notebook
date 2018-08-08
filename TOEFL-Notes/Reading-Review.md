@@ -171,3 +171,45 @@
 * uproot 拔出,连根拔起
 * mortality 死亡率
 * brackish 含盐的
+
+## TPO 43 - 1
+
+* garrison 要塞
+* spell 招致
+* agora 集市
+* assembly 集会
+* commerce 商务,贸易
+* prophecy 预言,语言能力
+* substance 物质
+* microscopic 极小的,微小的
+* slope 斜坡
+* optical 视力的,光学的
+* analogous 类似的,相似的
+* glide 滑翔
+* repercussion 反响
+
+## TPO 37
+
+* renown 名誉.声望
+* comprehensive 无所不包的
+* conjecture 猜想
+* prevail 流行,盛行
+* culminate 终结,结束
+* conspecific 同物种的
+* efficacy 效力
+* maladaptive 不适应的
+* confine 限定,限制
+* amphibian 两栖类的
+* mitigation 缓解,减轻
+* civic 市政的
+* girder 桁架
+* pervasive 遍布的,充斥的
+* masonry  砖石建筑
+* span 跨度
+* defy  蔑视
+* estate 住宅区,工业区
+* electrify  电气化
+* freight 货运
+* retardant 延迟的
+* vulnerability 弱点,脆弱性
+* impervious 不受影响的,不渗透的
