@@ -44,4 +44,5 @@
 * let alone 更不用说
 * conceivably 可以想象
 * bode 预示
-* syllabus 教学大纲
+* syllabus 教学大纲 
+* magnificent 
